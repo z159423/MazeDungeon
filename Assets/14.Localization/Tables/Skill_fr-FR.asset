@@ -1,0 +1,420 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Skill_fr-FR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: cd6437555d7d5c24488d33b1998f0ec6, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 145950970376192
+    m_Localized: "Tourbillonne pendant 5 secondes, endommageant p\xE9riodiquement
+      les ennemis proches autant que les d\xE9g\xE2ts d'attaque * {DM1}\_% et r\xE9duisant
+      les d\xE9g\xE2ts de 50\_%."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2331926496964608
+    m_Localized: "Augmente la d\xE9fense de {value1} pendant {value2}\_secondes et
+      devient \xE9tourdi et immunis\xE9 au ralentissement."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 372657996328960
+    m_Localized: "Charge {value1}\_fl\xE8ches qui augmentent les d\xE9g\xE2ts de
+      {DM1}\_%."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 178580327657472
+    m_Localized: "Vous pouvez vous cacher de l'ennemi. L'ennemi ne peut pas vous
+      d\xE9tecter lorsque le sneakGague est sup\xE9rieur \xE0 70\_%. Attaquer un
+      ennemi dans un \xE9tat furtif inflige autant de d\xE9g\xE2ts que AttackDamage
+      * {DM1}\_%."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4270896082944
+    m_Localized: "Frappez l'\xE9p\xE9e pour infliger autant de d\xE9g\xE2ts que les
+      d\xE9g\xE2ts d'attaque *\_{DM1}\_%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 44459437748224
+    m_Localized: "Bondissez en avant et attaquez l'ennemi avec un bouclier, lui infligeant
+      des d\xE9g\xE2ts de *\_{DM1}\_% et l'\xE9tourdissant de {BT1}\_secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 8530635419648
+    m_Localized: "Niveau de comp\xE9tence {skillLevel}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 8577896837120
+    m_Localized: CoolTime {coolTime}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 179707404251136
+    m_Localized: "Lancez une bombe et \xE9tourdissez les ennemis autour de la bombe
+      pendant {BT1} secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2357522526531584
+    m_Localized: "Lorsque vous bloquez un projectile ennemi avec un bouclier, il
+      y a {value1}\_% de chances de le renvoyer. Les projectiles renvoy\xE9s infligent
+      {DM1}\_% de d\xE9g\xE2ts suppl\xE9mentaires.\nLa force du bouclier a augment\xE9
+      de {value3}."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5040638947328
+    m_Localized: "Attaquez l'ennemi avec un bouclier, infligez autant de d\xE9g\xE2ts
+      que les d\xE9g\xE2ts d'attaque *\_{DM1}\_% et \xE9tourdissez pendant {BT1}\_secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 7806618857472
+    m_Localized: Rage {Rage}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2378832195514368
+    m_Localized: "augmente la vitesse d'attaque {value1}\_%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 179367556575232
+    m_Localized: "Empoisonne le poignard pour attaquer l'ennemi, lui causant autant
+      de d\xE9g\xE2ts que AttackDamage * {DM1}\_%, et empoisonne l'ennemi pendant
+      {BT1}\_secondes, infligeant {BD1}\_d\xE9g\xE2ts toutes les {BRT1}\_secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3047442488389632
+    m_Localized: "Cr\xE9e un nuage empoisonn\xE9 \xE0 l'emplacement de la bombe,
+      infligeant {DM1}\_% des d\xE9g\xE2ts d'attaque toutes les 1\_secondes aux ennemis
+      entrant dans le nuage et empoisonnant l'ennemi pendant {BT1}\_secondes, infligeant
+      {BD1}\_d\xE9g\xE2ts toutes les {BRT1}\_secondes. Les nuages durent {value3}\_secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 372952109314048
+    m_Localized: "\rLoads {value1} fl\xE8ches qui empoisonnent l'ennemi en cas de
+      coup."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 7751056912384
+    m_Localized: mana {Mana}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5485084176384
+    m_Localized: "Coupez le tendon de l'ennemi avec une \xE9p\xE9e pour endommager
+      autant que les d\xE9g\xE2ts d'attaque *\_{DM1}\_% et paralysez l'ennemi pendant
+      {BT1}\_secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2986343835529216
+    m_Localized: "Tire {value1}\_fl\xE8ches magiques \xE9gales \xE0 {DM1}\_% des
+      d\xE9g\xE2ts d'attaque."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2996894946979840
+    m_Localized: "Lance une bombe magique qui inflige des d\xE9g\xE2ts *\_{DM1}\_%.\nLes
+      ennemis touch\xE9s sont \xE9tourdis pendant {BT1} secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 180379570827264
+    m_Localized: "Lance un couteau empoisonn\xE9, infligeant AttackDamage * {DM1}%
+      de l'ennemi touch\xE9 et empoisonnant l'ennemi pendant {BT1} secondes, infligeant
+      {BD1} d\xE9g\xE2ts toutes les {BRT1} secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3066003055341568
+    m_Localized: "Tire {value1} lances de glace, infligeant {DM1} % des d\xE9g\xE2ts
+      d'attaque aux ennemis touch\xE9s et les ralentit pendant {BT1} secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 754489963212800
+    m_Localized: "Flammes de feu vers l'avant, infligeant des d\xE9g\xE2ts d'attaque
+      *\_{DM1}\_%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 180576380153856
+    m_Localized: "Installez des pi\xE8ges qui provoquent des explosions qui endommagent
+      les ennemis environnants par AttackDamage * {DM1}\_% lorsque vous marchez dessus."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 373065464573952
+    m_Localized: "Charge {value1}\_fl\xE8ches qui explosent lorsqu'elles entrent
+      en collision et infligent {DM1}\_% de d\xE9g\xE2ts d'attaque aux ennemis proches."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 371740421025792
+    m_Localized: "Tire {value1} fl\xE8ches \xE0 la fois."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2350292158803968
+    m_Localized: "Consomme toute votre rage pour cr\xE9er une puissante explosion
+      devant vous, infligeant des d\xE9g\xE2ts ATK * {DM1}\_% et la quantit\xE9 de
+      rage consomm\xE9e."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 372474461974528
+    m_Localized: "\rTire {value1} fl\xE8ches rapidement."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 371865088323584
+    m_Localized: "Lorsqu'il est compl\xE8tement charg\xE9, augmente les d\xE9g\xE2ts
+      de {DM1}\_% et tire une fl\xE8che qui transperce l'ennemi."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 180103535292416
+    m_Localized: " Installez BearTrap sur le sol pour infliger des d\xE9g\xE2ts aux
+      ennemis qui se font pi\xE9ger par AttackDamage * {DM1}\_% et \xE9tourdissez-les
+      pendant {BT1}\_secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 188209258459136
+    m_Localized: "Attaquer par derri\xE8re l'ennemi inflige {value1}\_% de d\xE9g\xE2ts
+      suppl\xE9mentaires."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3070537756471296
+    m_Localized: "Invoque un bouclier de glace qui bloque {value1} d\xE9g\xE2ts.
+      Le bouclier dure {value2}\_secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3295838151274496
+    m_Localized: "Frappe l'ennemi, lui infligeant {DM1}\_% de d\xE9g\xE2ts d'attaque
+      et l'\xE9tourdissant pendant {BT1}\_secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3363505377800192
+    m_Localized: "Tire une boule de feu explosive, infligeant {DM1}\_% des d\xE9g\xE2ts
+      d'attaque aux ennemis proches et infligeant des br\xFBlures, infligeant {BD1}
+      d\xE9g\xE2ts toutes les {BRT1} secondes pendant {BT1} secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3384945384779776
+    m_Localized: "Lance un orbe de foudre vers l'avant.\r\nL'orbe avance lentement,
+      infligeant {DM1} % de d\xE9g\xE2ts d'attaque toutes les {value3} secondes \xE0
+      un maximum de {value2} ennemis proches."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5606210292051968
+    m_Localized: Explosion de flamme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5606210858283008
+    m_Localized: "Cr\xE9e une explosion de flammes devant, infligeant {DM1}\_% de
+      d\xE9g\xE2ts d'attaque, \xE9tourdissant l'ennemi pendant {BT1}\_secondes et
+      br\xFBlant pendant {BT2}\_secondes, infligeant {BD2}\_d\xE9g\xE2ts pendant
+      {BRT2}\_secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5682296602390528
+    m_Localized: "Devient surcharg\xE9, augmentant la r\xE9g\xE9n\xE9ration de mana
+      de {value2}\_% pendant {value1}\_secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3656589930496
+    m_Localized: "Ch\xE2timent"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3689527799808
+    m_Localized: Frappe de bouclier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3729000394752
+    m_Localized: "Cr\xE2neSmash"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3768141639680
+    m_Localized: "Estropi\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3797728260096
+    m_Localized: Tourbillon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3878439251968
+    m_Localized: BouclierBloc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3937285337088
+    m_Localized: "Bouclier R\xE9fl\xE9chir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43184398692352
+    m_Localized: "Vous pouvez bloquer les attaques et les projectiles ennemis avec
+      votre bouclier. En cas de d\xE9fense r\xE9ussie, gagne {value1} Rage."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 177887659323392
+    m_Localized: Se faufiler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177933947662336
+    m_Localized: Venin Coup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177984929427456
+    m_Localized: Bombe Choquante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178108980162560
+    m_Localized: "Pi\xE8ge \xE0 ours"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178159282450432
+    m_Localized: Lancer de couteau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178247811624960
+    m_Localized: "Pi\xE8ge \xE0 explosion"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181097874747392
+    m_Localized: "Bombe empoisonn\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188182142283776
+    m_Localized: BackAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223377809633280
+    m_Localized: Flamme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223378971455488
+    m_Localized: Boule de feu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223381047635968
+    m_Localized: Lance de glace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223382918295552
+    m_Localized: "\xC9clairageOrbe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223395350212608
+    m_Localized: Bouclier de glace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369744171397120
+    m_Localized: Tir multiple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369826786603008
+    m_Localized: Prise de vue en charge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369876661071872
+    m_Localized: Tir continu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369916716675072
+    m_Localized: "Fl\xE8che d'acier"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369977446002688
+    m_Localized: "Fl\xE8che empoissonn\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370003941421056
+    m_Localized: "Fl\xE8che explosive"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371235972083712
+    m_Localized: "Prise de vue en arri\xE8re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 373365063708672
+    m_Localized: "\rLance des fl\xE8ches en sautant en arri\xE8re."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450611489173504
+    m_Localized: Donner un coup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2331896465747968
+    m_Localized: Super armure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2350265894072320
+    m_Localized: "Coup de gr\xE2ce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2378688981004288
+    m_Localized: Tir rapide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2986222985048064
+    m_Localized: "Jet de fl\xE8che magique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996863221264384
+    m_Localized: bombe magique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5679872697331712
+    m_Localized: Surcharge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20240379756310528
+    m_Localized: "Frappe le bouclier avec une \xE9p\xE9e, cr\xE9ant une onde de choc
+      vers l'avant. L'onde de choc inflige AttackDamage * {DM1}\_% \xE0 l'ennemi
+      touch\xE9, l'\xE9tourdit pendant {BT1}\_secondes et r\xE9duit sa d\xE9fense
+      de {B2value2} pendant {BT2}\_secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 14602029674426368
+    m_Localized: Onde de choc
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0070bedbbd84000000707ef2df48080000707e33ee5201000070fef86aa2000000703e65e20300000070fe846f28000000707e31c207000000707e32cd0700000070fe6371a300000070be7c2760080000707e9d950400000070be9e190700000070fe078973080000707e4322a300000070fefea1d30a000070fead325301000070feae0c07000000707e18fd04000000707e5b109c0a000070befaa8a50a0000703ee40da400000070fe7683e40a0000703e6234ae02000070feb63ba4000000707e124d5301000070be8f1852010000703e09945908000070fe77c352010000707e963552010000703e9fcda300000070fee12cab000000703e48a3e80a0000703e1e8cb50b0000703e1f17f30b0000703e0397060c0000707ec6043014000070beaed1ea13000070bea64627000000707ea584e84700

@@ -1,0 +1,408 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Skill_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: cd6437555d7d5c24488d33b1998f0ec6, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 3656589930496
+    m_Localized: Desbaratar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3689527799808
+    m_Localized: ShieldBash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3729000394752
+    m_Localized: SkullSmash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3768141639680
+    m_Localized: Mutilado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3797728260096
+    m_Localized: Redemoinho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3878439251968
+    m_Localized: ShieldBlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3937285337088
+    m_Localized: Escudo Refletir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4270896082944
+    m_Localized: Acerte a espada para causar tanto dano quanto o AttackDamage * {DM1}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5040638947328
+    m_Localized: Ataca o inimigo com um escudo, causa tanto dano quanto dano de ataque
+      * {DM1}% e atordoa por {BT1} segundos.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5485084176384
+    m_Localized: "Corte o tend\xE3o do inimigo com uma espada para causar dano igual
+      ao dano de ataque * {DM1}% e paralisar o inimigo por {BT1} segundos."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 7751056912384
+    m_Localized: Mana {Mana}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 7806618857472
+    m_Localized: "F\xFAria {Rage}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 8530635419648
+    m_Localized: "N\xEDvel de habilidade {skillLevel}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 8577896837120
+    m_Localized: CoolTime {coolTime}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 43184398692352
+    m_Localized: "Voc\xEA pode bloquear ataques e proj\xE9teis inimigos com seu escudo.
+      Ap\xF3s defesa bem-sucedida, ganhe {value1} F\xFAria."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 44459437748224
+    m_Localized: Salte para frente e ataque o inimigo com um escudo, causando dano
+      em * {DM1}% e atordoando-o em {BT1} segundos.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 145950970376192
+    m_Localized: "Girando por 5 segundos, causa dano peri\xF3dico a inimigos pr\xF3ximos
+      tanto quanto dano de ataque * {DM1}% e reduz o dano em 50%."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 177887659323392
+    m_Localized: Esgueirar-se
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177933947662336
+    m_Localized: PoisonJab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177984929427456
+    m_Localized: Bomba de choque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178108980162560
+    m_Localized: Armadilha para urso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178159282450432
+    m_Localized: Arremesso de facas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178247811624960
+    m_Localized: "Armadilha de Explos\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178580327657472
+    m_Localized: "Voc\xEA pode se esconder do inimigo. O inimigo n\xE3o pode detect\xE1-lo
+      quando o sneakGague estiver acima de 70%. Atacar um inimigo em um estado furtivo
+      causa tanto dano quanto AttackDamage * {DM1}%."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 179367556575232
+    m_Localized: Envenena a adaga para atacar o inimigo, causando dano igual a AttackDamage
+      * {DM1}%, e envenenando o inimigo por {BT1} segundos, causando {BD1} de dano
+      a cada {BRT1} segundos.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 179707404251136
+    m_Localized: Jogue uma bomba e atordoe os inimigos ao redor da bomba por {BT1}
+      segundos.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 180103535292416
+    m_Localized: "Instale bearTrap no ch\xE3o para causar dano aos inimigos que prenderem
+      AttackDamage * {DM1}% e atordo\xE1-los por {BT1} segundos. Um m\xE1ximo de
+      {value1} pode ser instalado.\""
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 180379570827264
+    m_Localized: "\rArremessa uma Faca envenenada, causando Dano de Ataque * {DM1}%
+      do inimigo atingido e envenenando o inimigo por {BT1} segundos, causando {BD1}
+      de dano a cada {BRT1} segundos."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 180576380153856
+    m_Localized: "Instale armadilhas que causam explos\xF5es que danificam os inimigos
+      ao redor com AttackDamage * {DM1}% quando pisados."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 181097874747392
+    m_Localized: Bomba Venenosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188182142283776
+    m_Localized: BackAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188209258459136
+    m_Localized: "Atacar por tr\xE1s do inimigo causa {value1}% vezes mais dano."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 223377809633280
+    m_Localized: Chama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223378971455488
+    m_Localized: Bola fogo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223381047635968
+    m_Localized: "Lan\xE7a de Gelo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223382918295552
+    m_Localized: LightingOrb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223395350212608
+    m_Localized: Escudo de Gelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369744171397120
+    m_Localized: "Tiro m\xFAltiplo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369826786603008
+    m_Localized: ChargingShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369876661071872
+    m_Localized: "Disparo Cont\xEDnuo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369916716675072
+    m_Localized: "Flecha de A\xE7o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369977446002688
+    m_Localized: Flecha envenenada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370003941421056
+    m_Localized: "Flecha de Explos\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371235972083712
+    m_Localized: BackStep Shoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371740421025792
+    m_Localized: "Dispara flechas {value1} de uma s\xF3 vez."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 371865088323584
+    m_Localized: Quando totalmente carregado, aumenta o dano em {DM1}% e dispara
+      uma flecha que perfura o inimigo.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 372474461974528
+    m_Localized: "\rDispara {value1} flechas rapidamente."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 372657996328960
+    m_Localized: Carrega {value1} flechas que aumentam o dano em {DM1}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 372952109314048
+    m_Localized: "\rLoads {value1} flechas que envenenam o inimigo ao acertar."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 373065464573952
+    m_Localized: "Carrega {value1} flechas que explodem ao colidir e causam {DM1}%
+      de dano de ataque a inimigos pr\xF3ximos."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 373365063708672
+    m_Localized: "\rDispara flechas enquanto salta para tr\xE1s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450611489173504
+    m_Localized: Chute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754489963212800
+    m_Localized: Chamas de fogo para frente, Causando Dano de Ataque * {DM1}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2331896465747968
+    m_Localized: Super armadura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2331926496964608
+    m_Localized: "Aumenta a defesa em {value1} por {value2} segundos e torna-se imune
+      a atordoamento e lentid\xE3o."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2350265894072320
+    m_Localized: CoupDeGrace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2350292158803968
+    m_Localized: "Consome toda a sua f\xFAria para criar uma explos\xE3o poderosa
+      \xE0 sua frente, causando dano ATK * {DM1}% e a quantidade de F\xFAria consumida."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2357522526531584
+    m_Localized: "Ao bloquear um proj\xE9til inimigo com um escudo, h\xE1 uma chance
+      de {value1}% de refleti-lo. Proj\xE9teis refletidos causam {DM1}% mais dano.\nFor\xE7a
+      do escudo aumentada em {value3}."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2378688981004288
+    m_Localized: "Tiro r\xE1pido"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2378832195514368
+    m_Localized: aumentar a velocidade de ataque {value1}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2986222985048064
+    m_Localized: "Spray Flecha M\xE1gica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2986343835529216
+    m_Localized: "Dispara {value1} flechas m\xE1gicas iguais a {DM1}% do dano de
+      ataque."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2996863221264384
+    m_Localized: MagicBomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996894946979840
+    m_Localized: "Lan\xE7a uma bomba m\xE1gica que causa dano * {DM1}%.\nOs inimigos
+      atingidos ficam atordoados por {BT1} segundos."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3047442488389632
+    m_Localized: Cria uma nuvem venenosa no local da bomba, causando {DM1}% de dano
+      de ataque por 1 segundos aos inimigos que entram na nuvem e envenenando o inimigo
+      por {BT1} segundos, causando {BD1} de dano a cada {BRT1} segundos. As nuvens
+      duram {value3} segundos.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3066003055341568
+    m_Localized: "Dispara {value1} lan\xE7as de gelo, causando {DM1}% de dano de
+      ataque aos inimigos atingidos e desacelerando-os por {BT1} segundos."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3070537756471296
+    m_Localized: Evoca um escudo de gelo que bloqueia {value1} dano. O escudo dura
+      {value2} segundos.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3295838151274496
+    m_Localized: Chuta o inimigo, causando {DM1}% de dano de ataque e atordoando-o
+      por {BT1} segundos.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3363505377800192
+    m_Localized: "Dispara uma bola de fogo explosiva, causando {DM1}% de dano de
+      ataque a inimigos pr\xF3ximos e infligindo queimaduras, causando {BD1} de dano
+      a cada {BRT1} segundos por {BT1} segundos."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3384945384779776
+    m_Localized: "Dispara um orbe de rel\xE2mpago para a frente.\r\nO orbe avan\xE7a
+      lentamente, causando {DM1}% de dano de Ataque a cada {value3} segundos a at\xE9
+      {value2} inimigos pr\xF3ximos."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5606210292051968
+    m_Localized: "Explos\xE3o de Chama"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5606210858283008
+    m_Localized: "Cria uma explos\xE3o de chamas na frente, causando {DM1}% de dano
+      de ataque, atordoando o inimigo por {BT1} segundos e queimando por {BT2} segundos,
+      causando {BD2} de dano por {BRT2} segundos."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5679872697331712
+    m_Localized: Sobrecarga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5682296602390528
+    m_Localized: "Fica sobrecarregado, aumentando a regenera\xE7\xE3o de mana em
+      {value2}% por {value1} segundos."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 14602029674426368
+    m_Localized: Onda de choque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20240379756310528
+    m_Localized: Bate o escudo com uma espada, criando uma onda de choque para frente.
+      A onda de choque que causa AttackDamage * {DM1}% do inimigo atingido, atordoa-o
+      por {BT1} segundos e reduz sua Defesa em {B2value2} por {BT2} segundos.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0070bedbbd84000000707ef2df48080000707e33ee5201000070fef86aa2000000703e65e20300000070fe846f28000000707e31c20700000070fe6371a3000000707e32cd0700000070be7c276008000070bea64627000000707e9d950400000070be9e190700000070fe078973080000707e4322a300000070fefea1d30a000070fead325301000070feae0c07000000707e18fd04000000707e5b109c0a000070befaa8a50a0000703ee40da400000070fe7683e40a0000703e6234ae02000070feb63ba4000000707e124d5301000070be8f1852010000703e09945908000070fe77c352010000707e963552010000703e9fcda300000070fee12cab000000703e48a3e80a0000703e1e8cb50b0000703e1f17f30b0000703e0397060c000070beaed1ea130000707ec60430140000707ea584e84700

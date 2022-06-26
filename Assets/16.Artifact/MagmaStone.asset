@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 158b40c82145c364d8b6f18a2c64fb19, type: 3}
+  m_Name: MagmaStone
+  m_EditorClassIdentifier: 
+  artifactType: 23
+  artifactTier: 1
+  nameLocalizationKey: Name-MagmaStone
+  descriptionLocalizationKey: Description-MagmaStone
+  ArtifactObject: {fileID: -927199367670048503, guid: 9bce65f47155dac49a6861868ef18f14,
+    type: 3}
+  FollowerObject: {fileID: 0}
+  Debuff:
+  - {fileID: 11400000, guid: e720c8ba724aa85499ad28afd50fc203, type: 2}
+  Buff: []

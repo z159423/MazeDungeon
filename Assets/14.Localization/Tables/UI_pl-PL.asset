@@ -1,0 +1,717 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: 06d4aac871359754a8fc708a86b5054e, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 316547398529024
+    m_Localized: Zakup = {PurchaseKey}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 317554182483968
+    m_Localized: Poziom {Tier}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321680480038912
+    m_Localized: "Obra\u017Cenia {MinDamage} ~ {MaxDamage}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321724545396736
+    m_Localized: Moc Tarczy {ShieldPower}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321798667137024
+    m_Localized: Obrona {Defense}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321902622961664
+    m_Localized: "Pr\u0119dko\u015B\u0107 ruchu {MoveSpeed}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 322631387475968
+    m_Localized: "Odbi\xF3r = {PickUpKey}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 323617061498880
+    m_Localized: Poziom {EnchantLevel}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 347560602398720
+    m_Localized: "Odzyskiwanie HP o {HpRecoverValue}, gdy jest u\u017Cywane"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 23350865716736000
+    m_Localized: EXP + {value1}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 27263376568512512
+    m_Localized: "{InteractionKey} Otw\xF3rz drzwi"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 27263398500528128
+    m_Localized: "{InteractionKey} Otw\xF3rz skrzyni\u0119"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 59273801728
+    m_Localized: Start gry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132405686272
+    m_Localized: Opcja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224164474880
+    m_Localized: "Wyj\u015Bcie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1580401061888
+    m_Localized: Gra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1630363611136
+    m_Localized: Wideo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1647518314496
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1660520656896
+    m_Localized: "Wej\u015Bcie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1676488372224
+    m_Localized: "J\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1698739154944
+    m_Localized: Plecy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726027296768
+    m_Localized: Mistrz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726106988544
+    m_Localized: Muzyka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1789285789696
+    m_Localized: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2396574871552
+    m_Localized: Ustawienie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310767614062592
+    m_Localized: Wojownik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310926213279744
+    m_Localized: "\u0141obuz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310973214650368
+    m_Localized: Czarodziej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311005506596864
+    m_Localized: "\u0141ucznik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311046010990592
+    m_Localized: Alchemik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311175443017728
+    m_Localized: Nekromanta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311254614700032
+    m_Localized: "Wyb\xF3r znaku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311347191377920
+    m_Localized: "Pocz\u0105tek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311385330184192
+    m_Localized: "Menu g\u0142\xF3wne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311435745718272
+    m_Localized: Wznawianie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312927013728256
+    m_Localized: "Zako\u0144czy\u0107 gr\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316557204811776
+    m_Localized: "Odebra\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316913796149248
+    m_Localized: Blok!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317017961689088
+    m_Localized: Odbicie!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317083589963776
+    m_Localized: "Podw\xF3jny strza\u0142!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317142247305216
+    m_Localized: "PenetracjaStrza\u0142!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317200581685248
+    m_Localized: "Zatru\u0107!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317244412162048
+    m_Localized: Oparzenie!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317278969032704
+    m_Localized: Spowolnione!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317331200700416
+    m_Localized: "Oszo\u0142omiony"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317368710361088
+    m_Localized: Atak z powrotem!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317447940763648
+    m_Localized: Krytyczny!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317492442329088
+    m_Localized: "Wi\u0105\u017C\u0105cy!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350178192027648
+    m_Localized: "Pancerz g\u0142owy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350183220998144
+    m_Localized: Pancerz klatki piersiowej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350184445734912
+    m_Localized: "Pancerz n\xF3g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350187478216704
+    m_Localized: "Bro\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350189478899712
+    m_Localized: "Bro\u0144 zapasowa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350191676715008
+    m_Localized: Akcesorium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350193090195456
+    m_Localized: "Materia\u0142y eksploatacyjne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350583135301632
+    m_Localized: Eliksir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350594556391424
+    m_Localized: Miecz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350612952608768
+    m_Localized: "\u0141uk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350627645255680
+    m_Localized: Sztylet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350650164473856
+    m_Localized: "R\xF3\u017Cd\u017Cka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350661417791488
+    m_Localized: Tarcza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350675506458624
+    m_Localized: "R\u0119kaKrzy\u017C\u0141uk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6557901766160384
+    m_Localized: "Nie wystarczy pieni\u0119dzy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7876820602875904
+    m_Localized: "Za ma\u0142o klucza"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9071193264910336
+    m_Localized: Unik!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10312011829112832
+    m_Localized: "W\u0142\u0105cz wyskakuj\u0105cy tekst obra\u017Ce\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10714973768413184
+    m_Localized: Modlitwa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13690106820849664
+    m_Localized: Okaleczony!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15365502373097472
+    m_Localized: "Wojownicy walcz\u0105 za pomoc\u0105 mieczy i tarcz.\r\nKumuluje
+      w\u015Bciek\u0142o\u015B\u0107 przy ka\u017Cdym ataku i obronie oraz wykorzystuje
+      swoj\u0105 w\u015Bciek\u0142o\u015B\u0107 do u\u017Cywania pot\u0119\u017Cnych
+      umiej\u0119tno\u015Bci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15366367016284160
+    m_Localized: "\u0141otrzykowie do walki u\u017Cywaj\u0105 sztylet\xF3w. Za pomoc\u0105
+      ataku z ukrycia i odwrotu mo\u017Cesz potajemnie i pot\u0119\u017Cnie atakowa\u0107
+      zza wroga."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15366835914305536
+    m_Localized: "Czarodzieje u\u017Cywaj\u0105 do walki r\xF3\u017Cd\u017Cek. Za
+      pomoc\u0105 many mo\u017Cesz u\u017Cywa\u0107 r\xF3\u017Cnych pot\u0119\u017Cnych
+      umiej\u0119tno\u015Bci magicznych."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15367222968872960
+    m_Localized: "\u0141ucznicy do walki u\u017Cywaj\u0105 \u0142uk\xF3w. Mo\u017Cesz
+      atakowa\u0107 wroga z du\u017Cej odleg\u0142o\u015Bci, a do ataku mo\u017Cna
+      u\u017Cy\u0107 r\xF3\u017Cnych strza\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15383559329968128
+    m_Localized: "u\u017Cyj skradania si\u0119, aby porusza\u0107 si\u0119 potajemnie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15383856894865408
+    m_Localized: "Atakuj od ty\u0142u wroga i zadawaj dodatkowe obra\u017Cenia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15384204640415744
+    m_Localized: "Ogie\u0144 p\u0142onie do przodu, zadaj\u0105c obra\u017Cenia wielu
+      wrogom."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15384408118685696
+    m_Localized: "Skup si\u0119 i wystrzel pot\u0119\u017Cn\u0105 strza\u0142\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16086914863886336
+    m_Localized: "Wra\u017Cliwo\u015B\u0107 na mysz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16289786029305856
+    m_Localized: "M\xF3dlcie si\u0119 do Statuy \u017Bycia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16289970545127424
+    m_Localized: "M\xF3dlcie si\u0119 do Statuy Si\u0142y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16294729943511040
+    m_Localized: Regeneracja zdrowia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16294732015497216
+    m_Localized: "Zwi\u0119kszenie obra\u017Ce\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16954683155181568
+    m_Localized: "Odporny na og\u0142uszenie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16954754403823616
+    m_Localized: "Spowolniona odporno\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16955456727445504
+    m_Localized: Rolka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18065920098201600
+    m_Localized: "Punkt umiej\u0119tno\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19200644883574784
+    m_Localized: "Zapisa\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19200876644036608
+    m_Localized: Resetowanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941197170503680
+    m_Localized: 'Odblokuj :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941291357794304
+    m_Localized: "Zabij 20 Szkieletowych \u0141ucznik\xF3w\n\nLiczba zab\xF3jstw:
+      {killedSkeletonArcherCount}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 19941364703588352
+    m_Localized: "Etap 3 wyczy\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941397263970304
+    m_Localized: Zabij Licza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309030802550784
+    m_Localized: Atak podstawowy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309100553826304
+    m_Localized: "Atak wt\xF3rny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309156765888512
+    m_Localized: Walcowanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309196997652480
+    m_Localized: Kropla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21330996464873472
+    m_Localized: Skok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21367061779214336
+    m_Localized: "Czekaj na dane wej\u015Bciowe...."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21386267539173376
+    m_Localized: Spis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21423998269026304
+    m_Localized: "Umiej\u0119tno\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424185922187264
+    m_Localized: Minimapa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424228079136768
+    m_Localized: Mapa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424277337042944
+    m_Localized: Artefakt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424685396684800
+    m_Localized: "Przedmiot jednorazowego u\u017Cytku Najpierw szybkie u\u017Cycie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424943916806144
+    m_Localized: "Przedmiot jednorazowy Szybkie u\u017Cycie Drugie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425090167992320
+    m_Localized: "Zmiana przedmiotu jednorazowego Szybkie u\u017Cycie Pierwsza zmiana
+      miejsca (przytrzymaj)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425238797348864
+    m_Localized: "Zmie\u0144 przedmiot eksploatacyjny Szybkie u\u017Cycie Drugie
+      miejsce (przytrzymaj)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425336348471296
+    m_Localized: EscMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425485778939904
+    m_Localized: Interakcja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21605907703951360
+    m_Localized: "Klawisz skr\xF3tu umiej\u0119tno\u015Bci1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606038264246272
+    m_Localized: "Klawisz skr\xF3tu Skill2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606050536779776
+    m_Localized: "Klawisz skr\xF3tu umiej\u0119tno\u015Bci3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606058623397888
+    m_Localized: "Klawisz skr\xF3tu umiej\u0119tno\u015Bci4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606076981866496
+    m_Localized: "Klawisz skr\xF3tu umiej\u0119tno\u015Bci5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606085492109312
+    m_Localized: "Klawisz skr\xF3tu umiej\u0119tno\u015Bci6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606096212750336
+    m_Localized: "Klawisz skr\xF3tu umiej\u0119tno\u015Bci7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606106371354624
+    m_Localized: "Klawisz skr\xF3tu umiej\u0119tno\u015Bci8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606116647399424
+    m_Localized: "Klawisz skr\xF3tu umiej\u0119tno\u015Bci9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606125430272000
+    m_Localized: "Klawisz skr\xF3tu umiej\u0119tno\u015Bci0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21621891324080128
+    m_Localized: Zapisane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21622021934706688
+    m_Localized: "Zosta\u0142 zresetowany"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29158024337584128
+    m_Localized: "\u0141adowanie..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29547478759927808
+    m_Localized: "\rZmniejsz Obron\u0119!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29616994768547840
+    m_Localized: 'Czas odtwarzania: {PlayMin} minut {PlaySec} sekund'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29617770370854912
+    m_Localized: "Liczba zabitych wrog\xF3w: {KillEnemyNumber}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29617609800314880
+    m_Localized: "Uzyskana liczba artefakt\xF3w: {ArtifactNumber}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29617299002388480
+    m_Localized: "Wr\xF3g, kt\xF3ry ci\u0119 zabi\u0142: {DiedBy}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29907708526096384
+    m_Localized: "za ma\u0142o miejsca w ekwipunku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30226483137900544
+    m_Localized: Rezolucja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30226486040358912
+    m_Localized: "Pe\u0142ny ekran"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30411516813406208
+    m_Localized: "Twoje post\u0119py nie s\u0105 zapisywane.\r\nCzy na pewno chcesz
+      przej\u015B\u0107 do menu g\u0142\xF3wnego?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30413144652148736
+    m_Localized: "Potwierdza\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30413148720623616
+    m_Localized: "Anulowa\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30413825584820224
+    m_Localized: "Twoje post\u0119py nie s\u0105 zapisywane.\r\n Czy na pewno chcesz
+      wyj\u015B\u0107 z gry?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30987721853792256
+    m_Localized: "podnie\u015B\u0107 do w\u0142a\u015Bciwego poziomu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31847311654940672
+    m_Localized: start Hp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31847887839064064
+    m_Localized: "Warto\u015B\u0107 wzrostu KM"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31848988713840640
+    m_Localized: "Pr\u0119dko\u015B\u0107 ruchu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31849361897844736
+    m_Localized: Szansa krytycznego uderzenia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31849363428765696
+    m_Localized: Szansa na unik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31853430259478528
+    m_Localized: "Si\u0142a ataku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31853766420361216
+    m_Localized: "\robrona"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32559067209560064
+    m_Localized: "Wy\u015Bwietlacz FPS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33325758730366976
+    m_Localized: Etap {stage}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 33611420184506368
+    m_Localized: "W\u0142\u0105cz tekst wyskakuj\u0105cy efekt\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33716371850162176
+    m_Localized: "Za pomoc\u0105 tarczy mo\u017Cesz blokowa\u0107 ataki wroga i pociski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34005119083114496
+    m_Localized: "maksimum wytrzyma\u0142o\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34064692406022144
+    m_Localized: Limit ramki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34064690099154944
+    m_Localized: "FOV (K\u0105t widzenia)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34064691332280320
+    m_Localized: "Widoczna odleg\u0142o\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34408527480909824
+    m_Localized: "szybko\u015B\u0107 ataku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34423241162256384
+    m_Localized: "\rproducent"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34423870215581696
+    m_Localized: "\u015Bcie\u017Cka d\u017Awi\u0119kowa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34721918019858432
+    m_Localized: "Wy\u015Bwietlacz paska HP NPC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34728054156587008
+    m_Localized: "wy\u0142\u0105cz interfejs u\u017Cytkownika"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35212177572786176
+    m_Localized: "\rZwi\u0119kszenie obrony!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35842572219740160
+    m_Localized: "\rzwi\u0119kszenie pr\u0119dko\u015Bci ruchu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35842665526226944
+    m_Localized: "zmniejszenie pr\u0119dko\u015Bci ruchu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35846565020987392
+    m_Localized: "zwi\u0119kszenie szybko\u015Bci ataku\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35846568892329984
+    m_Localized: "zmniejszenie szybko\u015Bci ataku\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35848252318183424
+    m_Localized: "spadek si\u0142y ataku\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38614128968757248
+    m_Localized: "\rZezw\xF3l na konsol\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42267052706000896
+    m_Localized: '[{interactionHotKey}]'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 48432261661356032
+    m_Localized: "jako\u015B\u0107 grafiki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48466968788758528
+    m_Localized: UI Size
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00703eefe51f010000703e58d02001000070be129124010000703e559b24010000703e97ac24010000707ecbc424010000703e796e2501000070fef75326010000703ec21a3c010000703e187df552000070be83e5db60000070fe9eeadb600000707ef47f3869000070fe893439690000703e270f39690000703ecac63869000070feda996576000070beb37fd8460000703e16a9299600

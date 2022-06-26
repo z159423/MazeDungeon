@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 36bc4b2b5ef2c0f449cdbfa0707fefc0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - uiPrefab: {fileID: 1884906341937968, guid: 7a35759d81cdd0f48a94eb28e51cfb90, type: 3}
+  - target: {instanceID: 0}
+  - debuffIcon: {fileID: 988734081745537514, guid: f946a18a8b6a1d449bc7468bdad8adcc,
+      type: 3}
+  - buffNDebuff: {fileID: 11400000, guid: 29c19166cb1cc1f4cad863a12b61a6e0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

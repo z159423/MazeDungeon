@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 158b40c82145c364d8b6f18a2c64fb19, type: 3}
+  m_Name: BlueCrystal
+  m_EditorClassIdentifier: 
+  artifactType: 12
+  artifactTier: 1
+  nameLocalizationKey: Name-BlueCrystal
+  descriptionLocalizationKey: Description-BlueCrystal
+  ArtifactObject: {fileID: -927199367670048503, guid: 93eeb2d057d5e1b48b2ba2660507f358,
+    type: 3}
+  FollowerObject: {fileID: 2994661548430027825, guid: 2e2c97373940b504da88fd352c3b16b1,
+    type: 3}

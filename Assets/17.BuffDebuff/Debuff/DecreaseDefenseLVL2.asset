@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f7fe9021528a794289564875abba59f, type: 3}
+  m_Name: DecreaseDefenseLVL2
+  m_EditorClassIdentifier: 
+  buffOrDebuff:
+    buffDebuff: 11
+    buffORDebuff: 1
+    Owner: {fileID: 0}
+    NoTimeLimit: 0
+    untilTheNextStage: 0
+    enableStack: 1
+    EndTime: 10
+    RepeatTime: 1
+    Damage: 0
+    Percent: 0
+    value1: -6
+    value2: 6
+    value3: 0
+    ParticleEffect: {fileID: 7626253804300695603, guid: 1a124c9a838d6b94e95b0cf43645c64e,
+      type: 3}
+    iconImage: {fileID: 21300000, guid: 1c797952b9e33f747905102bf76851e0, type: 3}
+    iconObject: {fileID: 0}

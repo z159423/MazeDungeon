@@ -1,0 +1,413 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Skill_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: cd6437555d7d5c24488d33b1998f0ec6, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 3066003055341568
+    m_Localized: "Feuert {value1} Eisspeere ab, f\xFCgt getroffenen Gegnern {DM1}
+      % des Angriffsschadens zu und verlangsamt sie f\xFCr {BT1} Sekunden."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 145950970376192
+    m_Localized: "Dreht sich 5 Sekunden lang, f\xFCgt Gegnern in der N\xE4he regelm\xE4\xDFig
+      Schaden in H\xF6he des Angriffsschadens * {DM1} % zu und verringert den Schaden
+      um 50 %."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2331926496964608
+    m_Localized: "Erh\xF6ht die Verteidigung um {value1} f\xFCr {value2} Sekunden
+      und wird bet\xE4ubt und verlangsamt immun."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 372657996328960
+    m_Localized: "L\xE4dt {value1} Pfeile, die den Schaden um {DM1} % erh\xF6hen."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 178580327657472
+    m_Localized: "Sie k\xF6nnen sich vor dem Feind verstecken. Der Feind kann Sie
+      nicht erkennen, wenn die SneakGague \xFCber 70 % liegt. Das Angreifen eines
+      Feindes im Schleichzustand f\xFCgt AttackDamage * {DM1} % Schaden zu."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4270896082944
+    m_Localized: Schlagen Sie das Schwert, um so viel Schaden zu verursachen wie
+      AttackDamage * {DM1}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 44459437748224
+    m_Localized: "Springe nach vorne und greife den Feind mit einem Schild an, sch\xE4dige
+      ihn um * {DM1} % und bet\xE4ube ihn um {BT1} Sekunden."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 8530635419648
+    m_Localized: "F\xE4higkeitslevel {skillLevel}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 179707404251136
+    m_Localized: "Werfen Sie eine Bombe und bet\xE4uben Sie die Feinde um die Bombe
+      f\xFCr {BT1} Sekunden."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 8577896837120
+    m_Localized: CoolTime {coolTime}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2357522526531584
+    m_Localized: "Beim Blockieren eines feindlichen Projektils mit einem Schild besteht
+      eine Chance von {value1} %, es zu reflektieren. Reflektierte Projektile verursachen
+      {DM1} % mehr Schaden.\nSchildst\xE4rke um {value3} erh\xF6ht."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5040638947328
+    m_Localized: "Greife den Feind mit einem Schild an, f\xFCge Schaden in H\xF6he
+      des Angriffsschadens * {DM1} % zu und bet\xE4ube {BT1} Sekunden lang."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 7806618857472
+    m_Localized: Wut {Rage}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2378832195514368
+    m_Localized: "Angriffsgeschwindigkeit erh\xF6hen {value1} %"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 179367556575232
+    m_Localized: "Vergifte den Dolch, um den Feind anzugreifen, ihm Schaden in H\xF6he
+      von AttackDamage * {DM1} % zuzuf\xFCgen und den Feind f\xFCr {BT1} Sekunden
+      zu vergiften, wobei alle {BRT1} Sekunden {BD1} Schaden verursacht wird."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3047442488389632
+    m_Localized: "Erzeugt am Ort der Bombe eine Giftwolke, die Feinden, die in die
+      Wolke eindringen, alle 1 Sekunden {DM1} % des Angriffsschadens zuf\xFCgt und
+      den Feind {BT1} Sekunden lang vergiftet, wobei alle {BRT1} Sekunden {BD1} Schaden
+      verursacht wird. Wolken dauern {value3} Sekunden."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 372952109314048
+    m_Localized: "\rL\xE4dt {value1} Pfeile, die den Gegner bei einem Treffer vergiften."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5485084176384
+    m_Localized: "Zerschneide die Sehne des Feindes mit einem Schwert, um Schaden
+      in H\xF6he des Angriffsschadens * {DM1} % zu verursachen, und verkr\xFCppele
+      den Feind f\xFCr {BT1} Sekunden."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 7751056912384
+    m_Localized: Mana {Mana}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2986343835529216
+    m_Localized: "Feuert {value1} magische Pfeile in H\xF6he von {DM1} % des Angriffsschadens
+      ab."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2996894946979840
+    m_Localized: "Wirft eine magische Bombe, die Schaden verursacht * {DM1} %.\nGetroffene
+      Gegner werden f\xFCr {BT1} Sekunden bet\xE4ubt."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 180379570827264
+    m_Localized: "Wirft ein vergiftetes Messer, verursacht Angriffsschaden * {DM1}
+      % des getroffenen Gegners und vergiftet den Gegner f\xFCr {BT1} Sekunden, wobei
+      alle {BRT1} Sekunden {BD1} Schaden verursacht wird."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 754489963212800
+    m_Localized: Feuerflammen nach vorne, verursacht Angriffsschaden * {DM1} %
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 180576380153856
+    m_Localized: "Installieren Sie Fallen, die Explosionen verursachen, die die umliegenden
+      Feinde mit AttackDamage * {DM1}% besch\xE4digen, wenn Sie darauf treten."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 373065464573952
+    m_Localized: "L\xE4dt {value1} Pfeile, die explodieren, wenn sie kollidieren
+      und Gegnern in der N\xE4he {DM1} % AttackDamage Schaden zuf\xFCgen."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 371740421025792
+    m_Localized: Feuert {Wert1} Pfeile gleichzeitig ab.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2350292158803968
+    m_Localized: "Verbraucht all Ihre Wut, um eine m\xE4chtige Explosion vor Ihnen
+      zu erzeugen, die Schaden ATK * {DM1}% und die Menge an verbrauchter Wut verursacht."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 372474461974528
+    m_Localized: "\rSchie\xDFt schnell {value1} Pfeile ab."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 371865088323584
+    m_Localized: "Erh\xF6ht bei voller Aufladung den Schaden um {DM1} % und feuert
+      einen Pfeil ab, der den Feind durchbohrt."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 180103535292416
+    m_Localized: "Installieren Sie BearTrap auf dem Boden, um Gegnern, die Fallen
+      treffen, mit AttackDamage * {DM1} % Schaden zuzuf\xFCgen und sie f\xFCr {BT1}
+      Sekunden zu bet\xE4uben. Es k\xF6nnen maximal {value1} installiert werden.\""
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 188209258459136
+    m_Localized: Ein Angriff von hinten auf den Feind verursacht {value1} % mal mehr
+      Schaden.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3070537756471296
+    m_Localized: "Beschw\xF6rt einen Eisschild, der {value1} Schaden blockiert. Schild
+      dauert {value2} Sekunden."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5606210292051968
+    m_Localized: Flammenexplosion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3384945384779776
+    m_Localized: "Feuert eine Blitzkugel nach vorne ab.\r\nDie Kugel bewegt sich
+      langsam vorw\xE4rts und f\xFCgt bis zu {value2} Gegnern in der N\xE4he alle
+      {value3} Sekunden Schaden in H\xF6he von {DM1} % des AttackDamage zu."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3363505377800192
+    m_Localized: "Feuert einen explodierenden Feuerball ab, der Gegnern in der N\xE4he
+      {DM1} % des Angriffsschadens zuf\xFCgt und Verbrennungen verursacht, wobei
+      {BT1} Sekunden lang alle {BRT1} Sekunden {BD1} Schaden verursacht wird."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3295838151274496
+    m_Localized: "Tritt den Feind, verursacht {DM1} % des Angriffsschadens und bet\xE4ubt
+      ihn f\xFCr {BT1} Sekunden."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5606210858283008
+    m_Localized: "Erzeugt vorne eine Flammenexplosion, die Schaden {DM1} % des Angriffsschadens
+      verursacht, den Feind {BT1} Sekunden lang bet\xE4ubt und {BT2} Sekunden lang
+      brennt und {BRT2} Sekunden lang {BD2} Schaden verursacht."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5682296602390528
+    m_Localized: "Wird \xFCberladen, erh\xF6ht die Manaregeneration um {value2} %
+      f\xFCr {value1} Sekunden."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3656589930496
+    m_Localized: Schlagen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3689527799808
+    m_Localized: "Schildsto\xDF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3729000394752
+    m_Localized: SkullSmash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3768141639680
+    m_Localized: "Verst\xFCmmelt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3797728260096
+    m_Localized: Wirbelwind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3878439251968
+    m_Localized: Schildblock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3937285337088
+    m_Localized: Schild reflektieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43184398692352
+    m_Localized: Mit deinem Schild kannst du feindliche Angriffe und Projektile blockieren.
+      Erhalte bei erfolgreicher Verteidigung {value1} Rage.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 177887659323392
+    m_Localized: Schleichen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177933947662336
+    m_Localized: PoisonJab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177984929427456
+    m_Localized: Schockbombe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178108980162560
+    m_Localized: "B\xE4renfalle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178159282450432
+    m_Localized: Messerwerfen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178247811624960
+    m_Localized: Explosionsfalle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181097874747392
+    m_Localized: Giftbombe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188182142283776
+    m_Localized: BackAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223377809633280
+    m_Localized: Flamme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223378971455488
+    m_Localized: FeuerBall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223381047635968
+    m_Localized: EisSpeer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223382918295552
+    m_Localized: BeleuchtungOrb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223395350212608
+    m_Localized: Eisschild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369744171397120
+    m_Localized: Dauerfeuer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369826786603008
+    m_Localized: Ladeschuss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369876661071872
+    m_Localized: Kontinuierliches Brennen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369916716675072
+    m_Localized: Stahlpfeil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369977446002688
+    m_Localized: Giftpfeil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370003941421056
+    m_Localized: Explosionspfeil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371235972083712
+    m_Localized: BackStep-Shooting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 373365063708672
+    m_Localized: "\r Feuert Pfeile ab, w\xE4hrend er r\xFCckw\xE4rts springt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450611489173504
+    m_Localized: Trete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2331896465747968
+    m_Localized: "Super-R\xFCstung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2350265894072320
+    m_Localized: "Gnadensto\xDF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2378688981004288
+    m_Localized: Schneller Schuss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2986222985048064
+    m_Localized: Magisches Pfeilspray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996863221264384
+    m_Localized: Magische Bombe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5679872697331712
+    m_Localized: "\xDCberladung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20240379756310528
+    m_Localized: "Schl\xE4gt mit einem Schwert auf den Schild und erzeugt eine Schockwelle
+      nach vorne. Die Schockwelle verursacht AttackDamage * {DM1} % des getroffenen
+      Gegners, bet\xE4ubt ihn f\xFCr {BT1} Sekunden und verringert seine Verteidigung
+      um {B2value2} f\xFCr {BT2} Sekunden."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 14602029674426368
+    m_Localized: Schockwelle
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0070bedbbd84000000707ef2df48080000707e33ee5201000070fef86aa2000000703e65e20300000070fe846f28000000707e31c20700000070fe6371a3000000707e32cd0700000070be7c2760080000707e9d950400000070be9e190700000070fe078973080000707e4322a300000070fefea1d30a000070fead3253010000707e18fd0400000070feae0c07000000707e5b109c0a000070befaa8a50a0000703ee40da400000070fe7683e40a0000703e6234ae02000070feb63ba4000000707e124d5301000070be8f1852010000703e09945908000070fe77c352010000707e963552010000703e9fcda300000070fee12cab000000703e48a3e80a0000707ec60430140000703e0397060c0000703e1f17f30b0000703e1e8cb50b000070beaed1ea13000070bea64627000000707ea584e84700

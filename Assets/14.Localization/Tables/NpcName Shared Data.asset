@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: NpcName Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: NpcName
+  m_TableCollectionNameGuidString: 500ad3a81782c9a42a87dfdbc41ddcd8
+  m_Entries:
+  - m_Id: 226311958528
+    m_Key: Skeleton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 254300549120
+    m_Key: ArmedSkeleton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297527046144
+    m_Key: Ghost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410307686400
+    m_Key: GhostSkull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 436312371200
+    m_Key: Mimic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 477739511808
+    m_Key: ShopKeeper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510572523520
+    m_Key: SkeletonArcher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 558882516992
+    m_Key: Spider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 568739131392
+    m_Key: Wraith
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609889447936
+    m_Key: Zombie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 636615553024
+    m_Key: BabySpider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 688322932736
+    m_Key: ShopGuard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 776935993344
+    m_Key: Golem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799996276736
+    m_Key: EnergyGolem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 824893665280
+    m_Key: FallenKing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 911833198592
+    m_Key: Guros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 928660746240
+    m_Key: Lich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 945920307200
+    m_Key: SkeletonGuardian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 974185721856
+    m_Key: SkullLord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 988140171264
+    m_Key: SpiderQueen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1004174995456
+    m_Key: WraithLord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215162443165696
+    m_Key: GiantSkeleton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 396289950773248
+    m_Key: PoisonSpider
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1649359711360

@@ -1,0 +1,338 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Item_tr-TR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr-TR
+  m_SharedData: {fileID: 11400000, guid: 38828ad947cfa8442a4cf832572b3e84, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11068665856
+    m_Localized: "Ah\u015Fap Yay"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226643308544
+    m_Localized: "K\u0131r\u0131k Demir K\u0131l\u0131\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229931642880
+    m_Localized: "K\u0131r\u0131k Kalkan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424552215506944
+    m_Localized: "tahta k\u0131l\u0131\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424693597106176
+    m_Localized: "K\u0131sa Demir K\u0131l\u0131\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424716011466752
+    m_Localized: "Uzun k\u0131l\u0131\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424729802338304
+    m_Localized: "G\xFCm\xFC\u015F K\u0131l\u0131\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424741936459776
+    m_Localized: "Kahraman K\u0131l\u0131\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424754611646464
+    m_Localized: Golem Katili
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427035016982528
+    m_Localized: "K\u0131r\u0131k Kalkan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427036887642112
+    m_Localized: "Ah\u015Fap Kalkan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427037978161152
+    m_Localized: Demir Kalkan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427038682804224
+    m_Localized: "\u015E\xF6valye Kalkan\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427039513276416
+    m_Localized: "Kahraman Kalkan\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427826683473920
+    m_Localized: "Ah\u015Fap Kask"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427828034039808
+    m_Localized: Demir Kask
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427828998729728
+    m_Localized: "kanl\u0131 kask"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427829766287360
+    m_Localized: "Vah\u015Fi Mi\u011Ffer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427830538039296
+    m_Localized: Kahramanca Kask
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429122413031424
+    m_Localized: "Demir Z\u0131rh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429122991845376
+    m_Localized: "\u015E\xF6valye Z\u0131rh\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429123570659328
+    m_Localized: "kanl\u0131 z\u0131rh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429124275302400
+    m_Localized: "Vah\u015Fi Z\u0131rh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431088316870656
+    m_Localized: "Demir \xC7izmeler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431088870518784
+    m_Localized: "\u015E\xF6valye \xC7izmeleri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431089453527040
+    m_Localized: "Vah\u015Fi \xC7izmeler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645634465886208
+    m_Localized: "Ah\u015Fap Yay"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645635111809024
+    m_Localized: "Ah\u015Fap Yay"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645635946475520
+    m_Localized: Tik Yay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645636722421760
+    m_Localized: abanoz yay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645637557088256
+    m_Localized: Kara Panter Yay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645638265925632
+    m_Localized: "Ejderha Kan\u0131n\u0131n Yay\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646398353502208
+    m_Localized: "Koyu Deri Ba\u015Fl\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646398978453504
+    m_Localized: "Batakl\u0131k Avc\u0131s\u0131 Hood"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646399624376320
+    m_Localized: "sihirli ba\u015Fl\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649856364212224
+    m_Localized: "Gery B\xFCy\xFCc\xFC \u015Eapkas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649856934637568
+    m_Localized: "Ate\u015Fli B\xFCy\xFCc\xFC\u015Eapka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649857702195200
+    m_Localized: "Hayali B\xFCy\xFCc\xFC\u015Eapka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649858159374336
+    m_Localized: "Ay I\u015F\u0131\u011F\u0131 B\xFCy\xFCc\xFC\u015Eapka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650970836922368
+    m_Localized: "Gery Ayakkab\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650971419930624
+    m_Localized: "Y\u0131ld\u0131z Tozu Ayakkab\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650972065853440
+    m_Localized: "Wyvern Deri Ayakkab\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 651859492499456
+    m_Localized: gri bornoz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 651860109062144
+    m_Localized: "kum f\u0131rt\u0131nas\u0131 bornoz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 651860658515968
+    m_Localized: "Ay I\u015F\u0131\u011F\u0131 Bornoz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652697925480448
+    m_Localized: "demir han\xE7er"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652698521071616
+    m_Localized: "di\u015F han\xE7eri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652699095691264
+    m_Localized: "Kara Zehir Han\xE7eri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653089837051904
+    m_Localized: "El\xC7aprazYay"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653090445225984
+    m_Localized: "El\xC7aprazYay"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653090961125376
+    m_Localized: "El\xC7aprazYay"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654873217363968
+    m_Localized: Gery Hood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654873351581696
+    m_Localized: "Sis Ba\u015Fl\u0131\u011F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654876073684992
+    m_Localized: "Alacakaranl\u0131k Hood"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663640214499328
+    m_Localized: "Gri Deri Z\u0131rh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663640793313280
+    m_Localized: "\u0130nek Deri Z\u0131rh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663641388904448
+    m_Localized: "SandStorm'un Deri Z\u0131rh\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663642059993088
+    m_Localized: "Wyvern SkinZ\u0131rh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674794978570240
+    m_Localized: "ah\u015Fap de\u011Fnek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674838817435648
+    m_Localized: "ah\u015Fap de\u011Fnek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674843619913728
+    m_Localized: "Frost\xC7i\xE7ek De\u011Fnek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674844169367552
+    m_Localized: "Alev\xC7i\xE7ek De\u011Fnek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674844819484672
+    m_Localized: "bo\u015Fluk de\u011Fnek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674865614843904
+    m_Localized: "kozmik de\u011Fnek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 678178930454528
+    m_Localized: "SandStorm'un Deri Z\u0131rh\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146586532835328
+    m_Localized: Gery Deri Bot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146587111649280
+    m_Localized: "SandStorm \xC7izmeleri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146587686268928
+    m_Localized: Wyvern Deri Bot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146781345673216
+    m_Localized: ' Kertenkele Derisi Bot'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147247529979904
+    m_Localized: "demir han\xE7er"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147248104599552
+    m_Localized: "suikast\xE7\u0131 han\xE7er"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147248754716672
+    m_Localized: "y\u0131rt\u0131lma han\xE7eri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22603713533079552
+    m_Localized: "K\xFC\xE7\xFCk Hp \u0130ksir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22603719535128576
+    m_Localized: "Hp \u0130ksir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22603731346288640
+    m_Localized: "B\xFCy\xFCk Hp \u0130ksir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41597387377897472
+    m_Localized: Anahtar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51157992837378048
+    m_Localized: "ejderha \xF6l\xE7ekli \xE7izmeler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51157980527095808
+    m_Localized: "kurt deri \xE7izmeler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51157912428376064
+    m_Localized: "eski p\xFCsk\xFC deri \xE7izmeler"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

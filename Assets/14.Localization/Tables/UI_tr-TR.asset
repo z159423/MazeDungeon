@@ -1,0 +1,717 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_tr-TR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr-TR
+  m_SharedData: {fileID: 11400000, guid: 06d4aac871359754a8fc708a86b5054e, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 316547398529024
+    m_Localized: "Sat\u0131n alma = {PurchaseKey}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 317554182483968
+    m_Localized: Seviye {Tier}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321680480038912
+    m_Localized: Hasar {MinDamage} ~ {MaxDamage}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321724545396736
+    m_Localized: ShieldPower {ShieldPower}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321798667137024
+    m_Localized: Savunma {Defense}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321902622961664
+    m_Localized: "MoveSpeed \u200B\u200B{MoveSpeed}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 322631387475968
+    m_Localized: Al = {PickUpKey}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 323617061498880
+    m_Localized: LvL {EnchantLevel}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 347560602398720
+    m_Localized: "Kullan\u0131ld\u0131\u011F\u0131nda {HpRecoverValue} ile HP kurtarma"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 23350865716736000
+    m_Localized: EXP + {value1}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 27263376568512512
+    m_Localized: "{InteractionKey} Kap\u0131y\u0131 A\xE7"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 27263398500528128
+    m_Localized: "{InteractionKey} A\xE7\u0131k Sand\u0131k"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 59273801728
+    m_Localized: "Oyuna ba\u015Fla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132405686272
+    m_Localized: "Se\xE7enek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224164474880
+    m_Localized: "\xE7\u0131k\u0131\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1580401061888
+    m_Localized: oyun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1630363611136
+    m_Localized: Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1647518314496
+    m_Localized: Ses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1660520656896
+    m_Localized: "Giri\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1676488372224
+    m_Localized: Dilim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1698739154944
+    m_Localized: Geri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726027296768
+    m_Localized: Usta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726106988544
+    m_Localized: "M\xFCzik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1789285789696
+    m_Localized: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2396574871552
+    m_Localized: Ayar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310767614062592
+    m_Localized: "Sava\u015F\xE7\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310926213279744
+    m_Localized: haydut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310973214650368
+    m_Localized: sihirbaz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311005506596864
+    m_Localized: "Ok\xE7u"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311046010990592
+    m_Localized: simyager
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311175443017728
+    m_Localized: "B\xFCy\xFCc\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311254614700032
+    m_Localized: "Karakter Se\xE7imi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311347191377920
+    m_Localized: "Ba\u015Flama"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311385330184192
+    m_Localized: "Ana men\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311435745718272
+    m_Localized: "\xD6z ge\xE7mi\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312927013728256
+    m_Localized: "Oyundan \xE7\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316557204811776
+    m_Localized: Toplamak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316913796149248
+    m_Localized: Engellemek!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317017961689088
+    m_Localized: Refleks!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317083589963776
+    m_Localized: "\xC7ift vuru\u015F!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317142247305216
+    m_Localized: PenetrateShot!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317200581685248
+    m_Localized: Zehir!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317244412162048
+    m_Localized: Yakmak!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317278969032704
+    m_Localized: "Yava\u015Flad\u0131!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317331200700416
+    m_Localized: "sersemlemi\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317368710361088
+    m_Localized: "GeriSald\u0131r\u0131!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317447940763648
+    m_Localized: Kritik!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317492442329088
+    m_Localized: "ba\u011Flay\u0131c\u0131!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350178192027648
+    m_Localized: "kafa z\u0131rh\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350183220998144
+    m_Localized: "G\xF6\u011F\xFCs z\u0131rh\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350184445734912
+    m_Localized: "Bacak Z\u0131rh\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350187478216704
+    m_Localized: silah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350189478899712
+    m_Localized: "\u0130kincil silah"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350191676715008
+    m_Localized: Aksesuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350193090195456
+    m_Localized: sarf malzemesi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350583135301632
+    m_Localized: "\u0130ksir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350594556391424
+    m_Localized: "K\u0131l\u0131\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350612952608768
+    m_Localized: Yay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350627645255680
+    m_Localized: "Han\xE7er"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350650164473856
+    m_Localized: "de\u011Fnek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350661417791488
+    m_Localized: kalkan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350675506458624
+    m_Localized: "El\xC7aprazYay"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6557901766160384
+    m_Localized: Yetersiz para
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7876820602875904
+    m_Localized: Yetersiz Anahtar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9071193264910336
+    m_Localized: Atlatmak!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10312011829112832
+    m_Localized: "Hasar A\xE7\u0131l\u0131r Metin Etkinle\u015Ftir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10714973768413184
+    m_Localized: dua etmek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13690106820849664
+    m_Localized: sakat!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15365502373097472
+    m_Localized: "Sava\u015F\xE7\u0131lar k\u0131l\u0131\xE7 ve kalkan kullanarak
+      sava\u015F\u0131rlar.\r\nHer sald\u0131r\u0131 ve savunma ile \xF6fke biriktirir
+      ve g\xFC\xE7l\xFC becerileri kullanmak i\xE7in \xF6fkenizi kullan\u0131r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15366367016284160
+    m_Localized: "Haydutlar sava\u015Fmak i\xE7in han\xE7er kullan\u0131r. Gizlice
+      ve arkadan sald\u0131r\u0131 kullanarak d\xFC\u015Fman\u0131n arkas\u0131ndan
+      gizlice ve g\xFC\xE7l\xFC bir \u015Fekilde sald\u0131rabilirsiniz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15366835914305536
+    m_Localized: "B\xFCy\xFCc\xFCler sava\u015Fmak i\xE7in asa kullan\u0131r. \xC7e\u015Fitli
+      g\xFC\xE7l\xFC b\xFCy\xFC becerilerini kullanmak i\xE7in manay\u0131 kullanabilirsiniz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15367222968872960
+    m_Localized: "Ok\xE7ular sava\u015Fmak i\xE7in yay kullan\u0131rlar. D\xFC\u015Fmana
+      uzun mesafeden sald\u0131rabilirsiniz ve d\xFC\u015Fmana sald\u0131rmak i\xE7in
+      \xE7e\u015Fitli oklar kullan\u0131labilir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15383559329968128
+    m_Localized: "gizlice hareket etmek i\xE7in gizlice kullan\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15383856894865408
+    m_Localized: "D\xFC\u015Fman\u0131n arkas\u0131ndan sald\u0131r\u0131n ve ek
+      hasar verin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15384204640415744
+    m_Localized: "Ate\u015F ileri do\u011Fru alevlenir ve birden fazla rakibe hasar
+      verir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15384408118685696
+    m_Localized: "Odaklan ve g\xFC\xE7l\xFC bir ok at."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16086914863886336
+    m_Localized: "Fareye Duyarl\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16289786029305856
+    m_Localized: "Hayat Heykeli i\xE7in dua edin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16289970545127424
+    m_Localized: "G\xFC\xE7 Heykeli i\xE7in dua edin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16294729943511040
+    m_Localized: "Sa\u011Fl\u0131k yenilenmesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16294732015497216
+    m_Localized: "Hasar art\u0131\u015F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16954683155181568
+    m_Localized: "Sersemletme Ba\u011F\u0131\u015F\u0131kl\u0131\u011F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16954754403823616
+    m_Localized: "Yava\u015Flam\u0131\u015F Ba\u011F\u0131\u015F\u0131kl\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16955456727445504
+    m_Localized: Rulo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18065920098201600
+    m_Localized: "Yetenek puan\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19200644883574784
+    m_Localized: "Kay\u0131t etmek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19200876644036608
+    m_Localized: "S\u0131f\u0131rla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941197170503680
+    m_Localized: "Kilidini a\xE7 :"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941291357794304
+    m_Localized: "20 \u0130skelet Ok\xE7u \xF6ld\xFCr\n\n\xD6ld\xFCrme say\u0131s\u0131:
+      {killedSkeletonArcherCount}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 19941364703588352
+    m_Localized: "3. a\u015Fama temiz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941397263970304
+    m_Localized: "Lich'i \xF6ld\xFCr"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309030802550784
+    m_Localized: "Temel Sald\u0131r\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309100553826304
+    m_Localized: "\u0130kincil Sald\u0131r\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309156765888512
+    m_Localized: Yuvarlanma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309196997652480
+    m_Localized: "k\u0131sa \xE7izgi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21330996464873472
+    m_Localized: "Z\u0131plamak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21367061779214336
+    m_Localized: "Giri\u015F i\xE7in bekleyin...."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21386267539173376
+    m_Localized: Envanter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21423998269026304
+    m_Localized: Beceri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424185922187264
+    m_Localized: mini harita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424228079136768
+    m_Localized: Harita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424277337042944
+    m_Localized: eser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424685396684800
+    m_Localized: "Sarf Malzemesi \xD6nce H\u0131zl\u0131 Kullan\u0131m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424943916806144
+    m_Localized: "Sarf Malzemesi H\u0131zl\u0131 Kullan\u0131m \u0130kinci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425090167992320
+    m_Localized: "Sarf Malzemesini De\u011Fi\u015Ftir H\u0131zl\u0131 Kullan\u0131m
+      \u0130lk Yuvay\u0131 De\u011Fi\u015Ftir (Bas\u0131l\u0131 Tut)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425238797348864
+    m_Localized: "Sarf Malzemesini De\u011Fi\u015Ftir H\u0131zl\u0131 Kullan\u0131m
+      \u0130kinci Yuva (Bas\u0131l\u0131 tutun)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425336348471296
+    m_Localized: "EscMen\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425485778939904
+    m_Localized: "Etkile\u015Fim"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21605907703951360
+    m_Localized: BeceriHotKey1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606038264246272
+    m_Localized: BeceriHotKey2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606050536779776
+    m_Localized: BeceriHotKey3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606058623397888
+    m_Localized: BeceriHotKey4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606076981866496
+    m_Localized: BeceriHotKey5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606085492109312
+    m_Localized: BeceriHotKey6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606096212750336
+    m_Localized: BeceriHotKey7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606106371354624
+    m_Localized: BeceriHotKey8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606116647399424
+    m_Localized: BeceriHotKey9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606125430272000
+    m_Localized: BeceriHotKey0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21621891324080128
+    m_Localized: kaydedildi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21622021934706688
+    m_Localized: "s\u0131f\u0131rland\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29158024337584128
+    m_Localized: "Y\xFCkleniyor..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29547478759927808
+    m_Localized: "Savunmay\u0131 Azalt!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29617770370854912
+    m_Localized: "\r\n\xD6ld\xFCr\xFClen d\xFC\u015Fman say\u0131s\u0131: {KillEnemyNumber}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29617609800314880
+    m_Localized: "Al\u0131nan yap\u0131 say\u0131s\u0131: {ArtifactNumber}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29617299002388480
+    m_Localized: "Seni \xF6ld\xFCren d\xFC\u015Fman: {DiedBy}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29616994768547840
+    m_Localized: "Oynatma s\xFCresi: {PlayMin} dakika {PlaySec} saniye"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29907708526096384
+    m_Localized: envanterinizde yeterli alan yok.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30226483137900544
+    m_Localized: "\r\xC7\xF6z\xFCn\xFCrl\xFCk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30226486040358912
+    m_Localized: Tam ekran
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30411516813406208
+    m_Localized: "\u0130lerlemeniz kaydedilmedi.\r\nAna men\xFCye gitmek istedi\u011Finizden
+      emin misiniz?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30413144652148736
+    m_Localized: Onaylamak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30413148720623616
+    m_Localized: "\u0130ptal etmek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30413825584820224
+    m_Localized: "\r\u0130lerlemeniz kaydedilmedi.\r\n Oyundan \xE7\u0131kmak istedi\u011Finizden
+      emin misiniz?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30987721853792256
+    m_Localized: Seviye atlamak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31847311654940672
+    m_Localized: "Hp'yi ba\u015Flat"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31847887839064064
+    m_Localized: "\r\nHp art\u0131\u015F de\u011Feri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31848988713840640
+    m_Localized: "Hareket h\u0131z\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31849361897844736
+    m_Localized: "\rKritik vuru\u015F \u015Fans\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31849363428765696
+    m_Localized: "Ka\xE7\u0131nma \u015Eans\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31853430259478528
+    m_Localized: "Sald\u0131r\u0131 G\xFCc\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31853766420361216
+    m_Localized: savunma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32559067209560064
+    m_Localized: "\r\nFPS Ekran\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33325758730366976
+    m_Localized: "A\u015Fama {stage}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 33611420184506368
+    m_Localized: "Efekt PopUp Metni Etkinle\u015Ftir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33716371850162176
+    m_Localized: "Kalkan\u0131n\u0131zla d\xFC\u015Fman sald\u0131r\u0131lar\u0131n\u0131
+      ve mermilerini engelleyebilirsiniz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34005119083114496
+    m_Localized: "maksimum dayan\u0131kl\u0131l\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34064692406022144
+    m_Localized: "\xC7er\xE7eve S\u0131n\u0131r\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34064690099154944
+    m_Localized: "FOV \r\n(g\xF6r\xFC\u015F a\xE7\u0131s\u0131)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34064691332280320
+    m_Localized: "G\xF6r\xFCn\xFCr mesafe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34408527480909824
+    m_Localized: "Atak h\u0131z\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34423241162256384
+    m_Localized: "\xFCretici"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34423870215581696
+    m_Localized: "\rfilm m\xFCzi\u011Fi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34721918019858432
+    m_Localized: NPC Hp Bar Display
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34728054156587008
+    m_Localized: "kullan\u0131c\u0131 aray\xFCz\xFCn\xFC kapat"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35212177572786176
+    m_Localized: "\rSavunma art\u0131\u015F\u0131!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35842572219740160
+    m_Localized: "hareket h\u0131z\u0131 art\u0131\u015F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35842665526226944
+    m_Localized: "hareket h\u0131z\u0131 d\xFC\u015F\xFC\u015F\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35846565020987392
+    m_Localized: "\rsald\u0131r\u0131 h\u0131z\u0131 art\u0131\u015F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35846568892329984
+    m_Localized: "sald\u0131r\u0131 h\u0131z\u0131 d\xFC\u015F\xFC\u015F\xFC\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35848252318183424
+    m_Localized: "sald\u0131r\u0131 g\xFCc\xFCnde azalma\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38614128968757248
+    m_Localized: Konsola izin ver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42267052706000896
+    m_Localized: '[{interactionHotKey}]'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 48432261661356032
+    m_Localized: Grafik kalitesi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48466968788758528
+    m_Localized: UI Size
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00703eefe51f010000703e58d02001000070be129124010000703e559b24010000703e97ac24010000707ecbc424010000703e796e2501000070fef75326010000703ec21a3c010000703e187df552000070be83e5db60000070fe9eeadb60000070fe893439690000703e270f39690000703ecac638690000707ef47f3869000070feda996576000070beb37fd8460000703e16a9299600

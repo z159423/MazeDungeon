@@ -1,0 +1,4 @@
+repository "RPG-RE2"
+  path "/"
+    br "/main"
+    co "/main"

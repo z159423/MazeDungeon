@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26c71245184d5be4283b86caa805e7fc, type: 3}
+  m_Name: LeatherBoots01
+  m_EditorClassIdentifier: 
+  Name: Gery Leather Boots
+  ItemNameKey: LeatherBootsT1-1
+  itemID: 3
+  itemTier: 0
+  MaxStack: 1
+  effectiveDose_Hp: 0
+  effectiveDose_Mp: 0
+  armorModifier: 1
+  minDamageModifier: 0
+  maxDamageModifier: 0
+  speedModifier: 1
+  ShieldPointModifier: 0
+  minHandCrossBowDamage: 0
+  maxHandCrossBowDamage: 0
+  limit: 10
+  currentLimit: 10
+  canBreakable: 0
+  attackSpeed: 0
+  icon: {fileID: 0}
+  isDefaultItem: 0
+  itemtype: 2
+  weaponType: 0
+  secondaryWeaponType: 0
+  consumableType: 0
+  itemQuality: 0
+  pickupprefab: {fileID: 1978760939364484, guid: 20db9926d69db9248a53b17b7eea5a96,
+    type: 3}
+  skinedMesh: {fileID: 5344184083346468668, guid: 0ad549dc5f136094183dcc9a9effbce5,
+    type: 3}
+  daggerLeftMesh: {fileID: 0}
+  mesh2: {fileID: 0}
+  enchants: []
+  skill: {fileID: 0}
+  Price: 0
+  onSaleItem: 0

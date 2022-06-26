@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Conversation_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: ef4cc173dc8219c44a8398361fcad808, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 22410063872
+    m_Localized: "Gibt es etwas, wonach Sie suchen?\nIch habe alles au\xDFer denen,
+      die ich nicht habe!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 520869539840
+    m_Localized: 'Was machst du gerade?
+
+      Du Dieb!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 704101507559424
+    m_Localized: Ich habe dich Dieb gefunden!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 897616317411328
+    m_Localized: "Bereiten Sie sich darauf vor,\nf\xFCr das Verbrechen zu bezahlen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23217907584364544
+    m_Localized: Ich bin hungrig....
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

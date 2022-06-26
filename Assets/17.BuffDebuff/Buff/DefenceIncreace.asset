@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f7fe9021528a794289564875abba59f, type: 3}
+  m_Name: DefenceIncreace
+  m_EditorClassIdentifier: 
+  buffOrDebuff:
+    buffDebuff: 12
+    buffORDebuff: 0
+    Owner: {fileID: 0}
+    NoTimeLimit: 0
+    untilTheNextStage: 0
+    enableStack: 1
+    EndTime: 120
+    RepeatTime: 1
+    Damage: 0
+    Percent: 0
+    value1: 10
+    value2: 0
+    value3: 0
+    ParticleEffect: {fileID: 0}
+    iconImage: {fileID: 21300000, guid: 13cd27a44ffc23944bb966366cd45b10, type: 3}
+    iconObject: {fileID: 0}

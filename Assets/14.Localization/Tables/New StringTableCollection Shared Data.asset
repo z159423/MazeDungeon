@@ -1,0 +1,536 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: New StringTableCollection Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Artifact
+  m_TableCollectionNameGuidString: aad134bfcd86b204cba9ac183ee5eba7
+  m_Entries:
+  - m_Id: 193286008832
+    m_Key: Name-SilverRing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 502573985792
+    m_Key: Description-SilverRing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 632052150272
+    m_Key: Name-GoldRing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 668114776064
+    m_Key: Description-GoldRing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748808990720
+    m_Key: Name-SilverNecklace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753242370048
+    m_Key: Description-SilverNecklace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 962810769408
+    m_Key: Name-GoldNecklace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 965268631552
+    m_Key: Description-GoldNecklace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1025087795200
+    m_Key: Name-ToothNecklace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027730206720
+    m_Key: Description-ToothNecklace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090510548992
+    m_Key: Name-RubyRing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1128032792576
+    m_Key: Description-RubyRing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1203484127232
+    m_Key: Artifact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1226020122624
+    m_Key: Name-BlueCrystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571270433239040
+    m_Key: Description-BlueCrystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621093530267648
+    m_Key: Name-RedCrystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621371990110208
+    m_Key: Description-RedCrystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621485827715072
+    m_Key: Name-YellowCrystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621486461054976
+    m_Key: Description-YellowCrystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077246672400384
+    m_Key: Name-FrozenHeart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077248958296064
+    m_Key: Description-FrozenHeart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114047076265984
+    m_Key: Name-Feather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114049785786368
+    m_Key: Description-Feather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499125707075584
+    m_Key: Name-Elf'sBread
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499127716147200
+    m_Key: Description-Elf'sBread
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1516783320068096
+    m_Key: Name-SoulCollector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1516785022955520
+    m_Key: Description-SoulCollector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1690945837756416
+    m_Key: Name-MagmaStone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1690976389066752
+    m_Key: Description-MagmaStone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1795657463394304
+    m_Key: Name-Stone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1795659136921600
+    m_Key: Description-Stone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830790618836992
+    m_Key: Name-ParasiteSpiderEgg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830791373811712
+    m_Key: Description-ParasiteSpiderEgg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830934336663552
+    m_Key: Name-StoneGauntlet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830935255216128
+    m_Key: Description-StoneGauntlet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1885416307191808
+    m_Key: Name-SnakeFang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1885416856645632
+    m_Key: Description-SnakeFang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912447162019840
+    m_Key: Name-Icicle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912447686307840
+    m_Key: Description-Icicle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926509505703936
+    m_Key: Name-ShieldCharm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926510243901440
+    m_Key: Description-ShieldCharm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588068108201984
+    m_Key: Name-DodgeCharm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588068687015936
+    m_Key: Description-DodgeCharm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678880984788992
+    m_Key: Name-ThirdEye
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678881626517504
+    m_Key: Description-ThirdEye
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2679281805062144
+    m_Key: Name-ThunderBeastFoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2679283361148928
+    m_Key: Description-ThunderBeastFoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3178190558097408
+    m_Key: Name-MoneyBag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3178191132717056
+    m_Key: Description-MoneyBag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200255675756544
+    m_Key: Name-ChickenLeg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200256254570496
+    m_Key: Description-ChickenLeg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200496063901696
+    m_Key: Name-LostFairy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200496579801088
+    m_Key: Description-LostFairy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3361631631208448
+    m_Key: Name-AncientSnailShell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3361632205828096
+    m_Key: Description-AncientSnailShell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374508651999232
+    m_Key: Name-SkeletonKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374557679218688
+    m_Key: Description-SkeletonKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379837120966656
+    m_Key: Name-IceCube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379838928711680
+    m_Key: Description-IceCube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3413251240914944
+    m_Key: Name-FlameNeedle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3413251886837760
+    m_Key: Description-FlameNeedle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3420482908876800
+    m_Key: Name-ThunderBeastClaw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3420483487690752
+    m_Key: Description-ThunderBeastClaw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421718710218752
+    m_Key: Name-BloodyGem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421719293227008
+    m_Key: Description-BloodyGem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422148617990144
+    m_Key: Name-NecromancerOldBook
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422149138083840
+    m_Key: Description-NecromancerOldBook
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423287593824256
+    m_Key: Name-FighterGlove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423288176832512
+    m_Key: Description-FighterGlove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423907788779520
+    m_Key: Name-BerserkerEyePatch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423908384370688
+    m_Key: Description-BerserkerEyePatch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423984926224384
+    m_Key: Name-BerserkerHeadBand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423985446318080
+    m_Key: Description-BerserkerHeadBand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424850173390848
+    m_Key: Name-BombBag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424850756399104
+    m_Key: Description-BombBag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424852761276416
+    m_Key: Name-TrapBag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424853344284672
+    m_Key: Description-TrapBag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3425606460928000
+    m_Key: Name-OgreClub
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3425606913912832
+    m_Key: Description-OgreClub
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805341032542208
+    m_Key: Name-VampirePendant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805341544247296
+    m_Key: Description-VampirePendant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4054562549690368
+    m_Key: Name-BrokenDirk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4054563069784064
+    m_Key: Description-BrokenDirk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103413557620736
+    m_Key: Name-GriffinFeather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103414132240384
+    m_Key: Description-GriffinFeather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17849768583524352
+    m_Key: Ability-SilverRing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17850776646742016
+    m_Key: Ability-SilverNecklace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851438470164480
+    m_Key: Ability-RubyRing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851662399860736
+    m_Key: Ability-ToothNecklace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851817232592896
+    m_Key: Ability-GoldRing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17852410307178496
+    m_Key: Ability-GoldNecklace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17852640339587072
+    m_Key: Ability-BlueCrystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853063674884096
+    m_Key: Ability-RedCrystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853113314471936
+    m_Key: Ability-YellowCrystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853207870861312
+    m_Key: Ability-FrozenHeart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853979845095424
+    m_Key: Ability-Feather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854370561290240
+    m_Key: Ability-Elf'sBread
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854585875886080
+    m_Key: Ability-StoneGauntlet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854784492957696
+    m_Key: Ability-Icicle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855535785078784
+    m_Key: Ability-ShieldCharm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855661001830400
+    m_Key: Ability-DodgeCharm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855955441971200
+    m_Key: Ability-ThirdEye
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17856092251779072
+    m_Key: Ability-MoneyBag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857053523341312
+    m_Key: Ability-ChickenLeg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857384680419328
+    m_Key: Ability-LostFairy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857718207279104
+    m_Key: Ability-OgreClub
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17858156512047104
+    m_Key: Ability-Stone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859023252385792
+    m_Key: Ability-SnakeFang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859545615200256
+    m_Key: Ability-ThunderBeastClaw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859846363574272
+    m_Key: Ability-FighterGlove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860223557332992
+    m_Key: Ability-BerserkerHeadBand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860464301993984
+    m_Key: Ability-VampirePendant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860753960628224
+    m_Key: Ability-BrokenDirk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861456917590016
+    m_Key: Ability-MagmaStone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861731170545664
+    m_Key: Ability-IceCube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861953338634240
+    m_Key: Ability-ThunderBeastFoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862229927817216
+    m_Key: Ability-SoulCollector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862381434466304
+    m_Key: Ability-ParasiteSpiderEgg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862616655228928
+    m_Key: Ability-BloodyGem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862685760581632
+    m_Key: Ability-NecromancerOldBook
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862848705097728
+    m_Key: Ability-BombBag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862972164435968
+    m_Key: Ability-TrapBag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17868589465759744
+    m_Key: Ability-AncientSnailShell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17869545859346432
+    m_Key: Ability-SkeletonKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17869692223778816
+    m_Key: Ability-FlameNeedle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17870936170459136
+    m_Key: Ability-BerserkerEyePatch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17871808761851904
+    m_Key: Ability-GriffinFeather
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1643773805664

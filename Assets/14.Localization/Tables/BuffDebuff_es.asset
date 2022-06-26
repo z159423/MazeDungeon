@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: BuffDebuff_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 4519e3004ec5e3f49b1131dc5a38f0e2, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 25052475392
+    m_Localized: "Aumenta el da\xF1o de ataque en {value1}%."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 572727914496
+    m_Localized: Aumenta la defensa en {value1}.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 628667346944
+    m_Localized: Recupera HP por {value1} cada {BRT1}.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 773999980544
+    m_Localized: Inmune al aturdimiento.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 672770453504
+    m_Localized: Inmune a ralentizar.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2195629961216
+    m_Localized: "Recibes {BD1} de da\xF1o cada {BRT1} segundos."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2239594655744
+    m_Localized: La defensa se reduce en {value2}.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2300718247936
+    m_Localized: La velocidad de ataque y la velocidad de movimiento se reducen un
+      {value1}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2338307600384
+    m_Localized: "Recibes {BD1} de da\xF1o cada {BRT1} segundos."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2398831407104
+    m_Localized: "No se puede tomar ninguna acci\xF3n"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2364467474432
+    m_Localized: La velocidad de movimiento se reduce en {value1}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 361670358495232
+    m_Localized: "Duraci\xF3n: {TimeRemain}segundo"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 363867846635520
+    m_Localized: "Duraci\xF3n: Hasta la siguiente etapa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368383509819392
+    m_Localized: Quemadura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368290681483264
+    m_Localized: "Aumenta el da\xF1o de ataque"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368406582685696
+    m_Localized: "Disminuci\xF3n de defensa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368311346819072
+    m_Localized: Aumentar la defensa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368332049903616
+    m_Localized: "Regeneraci\xF3n de caballos de fuerza"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368431782064128
+    m_Localized: mutilado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368466884194304
+    m_Localized: Veneno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368506495201280
+    m_Localized: Desacelerar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368354573316096
+    m_Localized: Inmunidad lenta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368531078017024
+    m_Localized: Aturdir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372127035191296
+    m_Localized: Inmune al aturdimiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383361126133760
+    m_Localized: aumento de la velocidad de ataque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383526092304384
+    m_Localized: La velocidad de ataque aumenta un {value2}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 385844246376448
+    m_Localized: La velocidad de ataque se reduce en {value2}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 385730169696256
+    m_Localized: "disminuci\xF3n de la velocidad de ataque"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389030403272704
+    m_Localized: "disminuci\xF3n del da\xF1o de ataque {value2}%."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 388998048411648
+    m_Localized: "disminuci\xF3n del poder de ataque"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395072935718912
+    m_Localized: La velocidad de movimiento aumenta en {value2}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 395076752535552
+    m_Localized: La velocidad de movimiento se reduce en {value2}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 395070926647296
+    m_Localized: aumento de la velocidad de movimiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395076177915904
+    m_Localized: "disminuci\xF3n de la velocidad de movimiento"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00703ed50500000000703e598500000000707e5f920000000070fe35b400000000703ea49c0000000070be35ff01000000703e720902000000707ead170200000070fe6d2002000000707e852e02000000703e852602000000703ef1ef48010000707ea0d05c010000703e5dec5e01000070fe32d26101000070fe155167010000707ef951670100

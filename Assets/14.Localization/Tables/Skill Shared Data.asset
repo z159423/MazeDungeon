@@ -1,0 +1,332 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Skill Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Skill
+  m_TableCollectionNameGuidString: cd6437555d7d5c24488d33b1998f0ec6
+  m_Entries:
+  - m_Id: 145950970376192
+    m_Key: WhirlWind-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3797728260096
+    m_Key: WhirlWind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2331926496964608
+    m_Key: SuperArmor-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2331896465747968
+    m_Key: SuperArmor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372657996328960
+    m_Key: SteelArrow-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369916716675072
+    m_Key: SteelArrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178580327657472
+    m_Key: Sneak-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177887659323392
+    m_Key: Sneak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4270896082944
+    m_Key: Smite-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3656589930496
+    m_Key: Smite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44459437748224
+    m_Key: SkullSmash-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3729000394752
+    m_Key: SkullSmash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8530635419648
+    m_Key: SkillLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8577896837120
+    m_Key: SkillCoolTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 179707404251136
+    m_Key: ShockBomb-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177984929427456
+    m_Key: ShockBomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2357522526531584
+    m_Key: ShieldReflect-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3937285337088
+    m_Key: ShieldReflect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43184398692352
+    m_Key: ShieldBlock-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3878439251968
+    m_Key: ShieldBlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5040638947328
+    m_Key: ShieldBash-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3689527799808
+    m_Key: ShieldBash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7806618857472
+    m_Key: RageNeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2378832195514368
+    m_Key: QuickShot-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2378688981004288
+    m_Key: QuickShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 179367556575232
+    m_Key: PoisonJab-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177933947662336
+    m_Key: PoisonJab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3047442488389632
+    m_Key: PoisonBomb-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181097874747392
+    m_Key: PoisonBomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372952109314048
+    m_Key: PoisonArrow-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369977446002688
+    m_Key: PoisonArrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7751056912384
+    m_Key: ManaNeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5485084176384
+    m_Key: Maimed-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3768141639680
+    m_Key: Maimed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2986343835529216
+    m_Key: MagicMissileSpray-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2986222985048064
+    m_Key: MagicMissileSpray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996894946979840
+    m_Key: MagicBomb-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996863221264384
+    m_Key: MagicBomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223382918295552
+    m_Key: LightingOrb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180379570827264
+    m_Key: KnifeThrowing-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178159282450432
+    m_Key: KnifeThrowing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450611489173504
+    m_Key: Kick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3066003055341568
+    m_Key: IceSpear-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223381047635968
+    m_Key: IceSpear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223395350212608
+    m_Key: IceShield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754489963212800
+    m_Key: Flame-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223377809633280
+    m_Key: Flame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223378971455488
+    m_Key: FireBall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180576380153856
+    m_Key: ExplosionTrap-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178247811624960
+    m_Key: ExplosionTrap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 373065464573952
+    m_Key: ExplosionArrow-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370003941421056
+    m_Key: ExplosionArrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371740421025792
+    m_Key: DoubleShot-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369744171397120
+    m_Key: DoubleShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2350292158803968
+    m_Key: CoupDeGrace-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2350265894072320
+    m_Key: CoupDeGrace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372474461974528
+    m_Key: ContinuousFiring-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369876661071872
+    m_Key: ContinuousFiring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371865088323584
+    m_Key: ChargingShot-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369826786603008
+    m_Key: ChargingShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180103535292416
+    m_Key: BearTrap-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178108980162560
+    m_Key: BearTrap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 373365063708672
+    m_Key: BackStepShoot-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371235972083712
+    m_Key: BackStepShoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188209258459136
+    m_Key: BackAttack-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188182142283776
+    m_Key: BackAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3070537756471296
+    m_Key: IceShield-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3295838151274496
+    m_Key: Kick-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3363505377800192
+    m_Key: FireBall-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3384945384779776
+    m_Key: LightingOrb-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5606210292051968
+    m_Key: FlameExplosion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5606210858283008
+    m_Key: FlameExplosion-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5679872697331712
+    m_Key: OverCharge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5682296602390528
+    m_Key: OverCharge-Detail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14602029674426368
+    m_Key: ShieldShockWave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20240379756310528
+    m_Key: ShieldShockWave-Detail
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1645778005688

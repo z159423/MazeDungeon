@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: ece904574a7769a4e91799cfa6190c86
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 1989289236423521904
+    second: Default Take
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_003__DungeonTile04_png_002
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_004__DungeonTile04_png_003
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_005__DungeonTile04_png_004
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_006__DungeonTile04_png_005
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_007__DungeonTile04_png_006
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_008__DungeonTile04_png_007
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_009__DungeonTile04_png_008
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_010__DungeonTile04_png_009
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_011__DungeonTile04_png_010
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_012__DungeonTile04_png_011
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_013__DungeonTile04_png_012
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_014__DungeonTile04_png_013
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_015__DungeonTile04_png_014
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_016__DungeonTile04_png_015
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_017__DungeonTile04_png_016
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_018__DungeonTile04_png_017
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_019__DungeonTile04_png_018
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_020__DungeonTile04_png_019
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_021__DungeonTile04_png_020
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_022__DungeonTile04_png_021
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_023__DungeonTile04_png_022
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_024__DungeonTile04_png_023
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_025__DungeonTile04_png_024
+    second: {fileID: 2100000, guid: 4a51617e6b6c41048adbfa44f6ed0780, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

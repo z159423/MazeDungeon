@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f31f024e81a05a84ab34118a3b1af37f, type: 3}
+  m_Name: Desert
+  m_EditorClassIdentifier: 
+  BiomeName: Desert
+  biomeType: 1
+  GroundColor: {r: 0.80586094, g: 0.8113208, b: 0.4018334, a: 1}
+  sculpture:
+  - sculptureGameobject:
+    - {fileID: 322291150890208447, guid: 18c49dfcdf1814449afd1913247ae121, type: 3}
+    - {fileID: 7302554329638742841, guid: 2a2d2809f022fd34e82ae61c7908ffde, type: 3}
+    - {fileID: 911238159536884682, guid: 7b2832dbe2541f74e9272a381e1f82a2, type: 3}
+    population: 5
+    minSculptureSize: 1
+    maxSculptureSize: 1

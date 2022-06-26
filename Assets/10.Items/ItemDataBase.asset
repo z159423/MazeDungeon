@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5a8fe18f55e81643a20d209ce6f0b25, type: 3}
+  m_Name: ItemDataBase
+  m_EditorClassIdentifier: 
+  itemPickupPrefab: {fileID: 1967284316358762, guid: 742d63eeb28bade4b99bdb8f941d48a3,
+    type: 3}
+  nullMesh: {fileID: -935214984195569008, guid: 3b0f161b14036d64582f74b3e951673c,
+    type: 3}
+  totalItemlist:
+  - {fileID: 11400000, guid: a7a853bcd261ad9418d10e9f3f7e0341, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 15e04cd1fe32ac24fb448d2182caaa3c, type: 2}
+  - {fileID: 11400000, guid: 224a919432cf0f343919c4e6ec269ee0, type: 2}
+  - {fileID: 11400000, guid: cd06126d9e689f0488ead0ce48f7bca3, type: 2}
+  - {fileID: 11400000, guid: a796163036a79eb44a59d0c525c4685c, type: 2}
+  - {fileID: 11400000, guid: 4504fce374dd13c4ca1e2ae19aff4724, type: 2}
+  - {fileID: 11400000, guid: 5fddf7a3b1051494f92e2c78b708cfd8, type: 2}
+  - {fileID: 11400000, guid: 51e8bb2a1b5324b41b43d619cd5927e2, type: 2}
+  - {fileID: 11400000, guid: 01e8da3a05744e44db8fc0a3426a7281, type: 2}
+  - {fileID: 11400000, guid: 1fbfc967464b1944e94ac5ddb11f9019, type: 2}
+  classList:
+  - characterClass: 1
+    itemList: {fileID: 11400000, guid: a1dea9b76e342e44cbc5121809ece396, type: 2}
+  - characterClass: 2
+    itemList: {fileID: 11400000, guid: 4103a3dd486d9b343962bdd0c8e7feb7, type: 2}
+  - characterClass: 4
+    itemList: {fileID: 11400000, guid: a661987694260e247a7b2c1c514286af, type: 2}
+  - characterClass: 3
+    itemList: {fileID: 11400000, guid: 08d943a5a4ea20445834f697c4e49da7, type: 2}
+  - characterClass: 6
+    itemList: {fileID: 11400000, guid: 83bcd6713b252af48bb9656528632cae, type: 2}
+  ConsumeableItem:
+  - {fileID: 11400000, guid: 1fbfc967464b1944e94ac5ddb11f9019, type: 2}
+  - {fileID: 11400000, guid: 1a6b9144db610ce41aff69599a0b6c9c, type: 2}
+  - {fileID: 11400000, guid: e159f2c7879e3094b82720e13b03f66d, type: 2}
+  Sword:
+  - {fileID: 11400000, guid: 5c35f17a0344177468866ea1a73595f2, type: 2}
+  - {fileID: 11400000, guid: 01e8da3a05744e44db8fc0a3426a7281, type: 2}
+  - {fileID: 11400000, guid: bf22c36b7861df7498fc2433150bd52d, type: 2}
+  - {fileID: 11400000, guid: 2cfef4d8aae427f4a8230e1af6ca31cb, type: 2}
+  - {fileID: 11400000, guid: 37e1f6f58cca2b64c84a3bdb30458b0e, type: 2}
+  - {fileID: 11400000, guid: a8518bbe628be8e4c90c68189d847ee3, type: 2}
+  Shield:
+  - {fileID: 11400000, guid: 51e8bb2a1b5324b41b43d619cd5927e2, type: 2}
+  - {fileID: 11400000, guid: 5d9272f7ad92bd343b251fda56ffad1c, type: 2}
+  - {fileID: 11400000, guid: 3aca655d60053cd41b0c1715b70467af, type: 2}
+  - {fileID: 11400000, guid: 3f0870aa8a930c6469aa9ad2783e7082, type: 2}
+  Helmet:
+  - {fileID: 11400000, guid: dbda8055bbb94304a986d38dbcd76a85, type: 2}
+  - {fileID: 11400000, guid: 224a919432cf0f343919c4e6ec269ee0, type: 2}
+  - {fileID: 11400000, guid: 79c83f80f951d2a4ba23238c51a4ac8f, type: 2}
+  Chest:
+  - {fileID: 11400000, guid: 4504fce374dd13c4ca1e2ae19aff4724, type: 2}
+  - {fileID: 11400000, guid: d9bcedf26c0689742abca4370df2fcb6, type: 2}
+  - {fileID: 11400000, guid: 608eccba01cd1cd42a1e438fe950af3c, type: 2}
+  Pants:
+  - {fileID: 11400000, guid: 5fddf7a3b1051494f92e2c78b708cfd8, type: 2}
+  Dagger:
+  - {fileID: 11400000, guid: cd06126d9e689f0488ead0ce48f7bca3, type: 2}
+  - {fileID: 11400000, guid: 339a12ee1beecfe41a225cf0c7c91f49, type: 2}
+  - {fileID: 11400000, guid: 40267b36e0913644b8a25db32f33010a, type: 2}
+  Hood:
+  - {fileID: 11400000, guid: aeabc0a3f264b444a98782945ffcc69e, type: 2}
+  - {fileID: 11400000, guid: aeabc0a3f264b444a98782945ffcc69e, type: 2}
+  - {fileID: 11400000, guid: aeabc0a3f264b444a98782945ffcc69e, type: 2}
+  LeatherArmor:
+  - {fileID: 11400000, guid: 288f4a63de65aa041a9f5701c4f2b921, type: 2}
+  - {fileID: 11400000, guid: bc39ef86c40069e4aa9a289d1052d554, type: 2}
+  - {fileID: 11400000, guid: 485f77e46eb89b343ae11081ba66c843, type: 2}
+  Bow:
+  - {fileID: 11400000, guid: a7a853bcd261ad9418d10e9f3f7e0341, type: 2}
+  - {fileID: 11400000, guid: 2a53f9b8c87967548a7701a730688eca, type: 2}
+  Wand:
+  - {fileID: 11400000, guid: fc89b4756c73b844ebf81e77f09aa764, type: 2}
+  Robe:
+  - {fileID: 11400000, guid: 7af6437ba1470f34ca1ef3b006e1002e, type: 2}
+  - {fileID: 11400000, guid: 6845e516713feaf4b8a5cbffe201ce7c, type: 2}
+  - {fileID: 11400000, guid: e3cf5ea0633dce1479329a1c9b3b1263, type: 2}
+  MageHat:
+  - {fileID: 11400000, guid: 71e5623032983584a9677ee5ecf207a4, type: 2}
+  - {fileID: 11400000, guid: a58dc42133289244c8243a6b1068d4be, type: 2}
+  - {fileID: 11400000, guid: 55a761553db9df4499147a107831986b, type: 2}
+  Accessory: []
+  MeleeMesh:
+  - {fileID: 5377624032456928779, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  - {fileID: -2477469870581516307, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  DaggerMesh:
+  - {fileID: -2225400203631126600, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  - {fileID: 8044941434113981505, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  - {fileID: 2447965939504023069, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  DaggerLeftMesh:
+  - {fileID: -8248120350266982818, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  - {fileID: 5429836141337938900, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  - {fileID: -4152366631035720429, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  BowMesh:
+  - {fileID: -2949243485240242776, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  - {fileID: 6221517558790821700, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  ShieldMesh:
+  - {fileID: -66525395060744165, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  - {fileID: 2851863565022299050, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  - {fileID: 6005732538227990844, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  - {fileID: -5705287627993030211, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  WandMesh:
+  - {fileID: -6147304866609354121, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  HelmetMesh:
+  - {fileID: -6624707345898774458, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  - {fileID: 7088432479737098718, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  - {fileID: -2437052452579625527, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  - {fileID: 4526456798438395165, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  ChestArmorMesh:
+  - {fileID: 1755419020621916651, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  - {fileID: -7047362878521355347, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  - {fileID: 699535142500618690, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  PantsMesh:
+  - {fileID: -7376939588299955229, guid: 0ad549dc5f136094183dcc9a9effbce5, type: 3}
+  AccessoryMesh:
+  - {fileID: 2803135289119299123, guid: 518d371320e26ef459689a74808cc776, type: 3}
+  HpPotions:
+  - {fileID: 11400000, guid: 1fbfc967464b1944e94ac5ddb11f9019, type: 2}
+  - {fileID: 11400000, guid: 1a6b9144db610ce41aff69599a0b6c9c, type: 2}
+  - {fileID: 11400000, guid: e159f2c7879e3094b82720e13b03f66d, type: 2}
+  HpPotions2:
+  - item: {fileID: 11400000, guid: 1fbfc967464b1944e94ac5ddb11f9019, type: 2}
+    dropWeight: 70
+  - item: {fileID: 11400000, guid: 1a6b9144db610ce41aff69599a0b6c9c, type: 2}
+    dropWeight: 20
+  - item: {fileID: 11400000, guid: e159f2c7879e3094b82720e13b03f66d, type: 2}
+    dropWeight: 10
+  Key: {fileID: 6659078988288100669, guid: 2d41da6d5105e754297734da515da742, type: 3}

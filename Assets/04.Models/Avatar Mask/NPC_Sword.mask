@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NPC_Sword
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: A_Chest
+    m_Weight: 0
+  - m_Path: A_Helmet
+    m_Weight: 0
+  - m_Path: A_Pants
+    m_Weight: 0
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/Hips
+    m_Weight: 1
+  - m_Path: Armature/Hips/Butt
+    m_Weight: 1
+  - m_Path: Armature/Hips/Butt/Spine
+    m_Weight: 0
+  - m_Path: Armature/Hips/Butt/Spine/Chest
+    m_Weight: 0
+  - m_Path: Armature/Hips/Butt/Spine/Chest/Left_Shoulder
+    m_Weight: 0
+  - m_Path: Armature/Hips/Butt/Spine/Chest/Left_Shoulder/Left_Upper_Arm
+    m_Weight: 0
+  - m_Path: Armature/Hips/Butt/Spine/Chest/Left_Shoulder/Left_Upper_Arm/Left_Lower_Arm
+    m_Weight: 0
+  - m_Path: Armature/Hips/Butt/Spine/Chest/Left_Shoulder/Left_Upper_Arm/Left_Lower_Arm/Left_Hand
+    m_Weight: 0
+  - m_Path: Armature/Hips/Butt/Spine/Chest/Left_Shoulder/Left_Upper_Arm/Left_Lower_Arm/Left_Hand/Left_Hand_Hold
+    m_Weight: 0
+  - m_Path: Armature/Hips/Butt/Spine/Chest/Left_Shoulder/Left_Upper_Arm/Left_Lower_Arm/Left_Hand/Left_Hand_Knife_Hold
+    m_Weight: 0
+  - m_Path: Armature/Hips/Butt/Spine/Chest/Neck
+    m_Weight: 1
+  - m_Path: Armature/Hips/Butt/Spine/Chest/Neck/Head
+    m_Weight: 0
+  - m_Path: Armature/Hips/Butt/Spine/Chest/Right_Shoulder
+    m_Weight: 0
+  - m_Path: Armature/Hips/Butt/Spine/Chest/Right_Shoulder/Right_Upper_Arm
+    m_Weight: 0
+  - m_Path: Armature/Hips/Butt/Spine/Chest/Right_Shoulder/Right_Upper_Arm/Right_Lower_Arm
+    m_Weight: 1
+  - m_Path: Armature/Hips/Butt/Spine/Chest/Right_Shoulder/Right_Upper_Arm/Right_Lower_Arm/Right_Hand
+    m_Weight: 1
+  - m_Path: Armature/Hips/Butt/Spine/Chest/Right_Shoulder/Right_Upper_Arm/Right_Lower_Arm/Right_Hand/Right_Hand_Bow_Hold
+    m_Weight: 1
+  - m_Path: Armature/Hips/Butt/Spine/Chest/Right_Shoulder/Right_Upper_Arm/Right_Lower_Arm/Right_Hand/Right_Hand_Knife_Hold
+    m_Weight: 1
+  - m_Path: Armature/Hips/Butt/Spine/Chest/Right_Shoulder/Right_Upper_Arm/Right_Lower_Arm/Right_Hand/Right_Hand_Sword_Hold
+    m_Weight: 1
+  - m_Path: Armature/Hips/Left_Upper_Leg
+    m_Weight: 0
+  - m_Path: Armature/Hips/Left_Upper_Leg/Left_Lower_Leg
+    m_Weight: 0
+  - m_Path: Armature/Hips/Left_Upper_Leg/Left_Lower_Leg/Left_Foot
+    m_Weight: 0
+  - m_Path: Armature/Hips/Right_Upper_Leg
+    m_Weight: 0
+  - m_Path: Armature/Hips/Right_Upper_Leg/Right_Lower_Leg
+    m_Weight: 0
+  - m_Path: Armature/Hips/Right_Upper_Leg/Right_Lower_Leg/Right_Foot
+    m_Weight: 0
+  - m_Path: Axe
+    m_Weight: 0
+  - m_Path: Body
+    m_Weight: 0
+  - m_Path: Bow
+    m_Weight: 0
+  - m_Path: Bow2
+    m_Weight: 0
+  - m_Path: Dagger
+    m_Weight: 0
+  - m_Path: Dagger2
+    m_Weight: 0
+  - m_Path: Dagger2_Left
+    m_Weight: 0
+  - m_Path: Dagger_Left
+    m_Weight: 0
+  - m_Path: Mage_Hat01
+    m_Weight: 0
+  - m_Path: PickAxe
+    m_Weight: 0
+  - m_Path: Robe01
+    m_Weight: 0
+  - m_Path: Shield
+    m_Weight: 0
+  - m_Path: Sword
+    m_Weight: 0
+  - m_Path: Wand01
+    m_Weight: 0

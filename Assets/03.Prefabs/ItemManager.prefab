@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &569624369932126262
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8940752137627169041}
+  - component: {fileID: 2457611085152220044}
+  m_Layer: 0
+  m_Name: ItemManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8940752137627169041
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 569624369932126262}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 86.013664, y: -1.0216846, z: -13.638368}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2457611085152220044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 569624369932126262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19a0b47fae833a740b329fd8808b9cce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WeapomCommual:
+  - {fileID: 11400000, guid: 362459dc6f6b24043a55edef4fd582af, type: 2}
+  - {fileID: 11400000, guid: 70feda6d9970379419a2f434b2182d95, type: 2}
+  - {fileID: 11400000, guid: b3306f7c2bd895c41930c598eed804c2, type: 2}
+  - {fileID: 11400000, guid: 5a7892155a0c4d44a91dc4d4b0f97094, type: 2}
+  - {fileID: 11400000, guid: 822643fb53713ad45836bea2dcf80b9a, type: 2}
+  - {fileID: 11400000, guid: b8ef2ad56a54a034fac7c5d674979583, type: 2}
+  - {fileID: 11400000, guid: 822643fb53713ad45836bea2dcf80b9a, type: 2}
+  - {fileID: 11400000, guid: 9fce2981f51a1454ba6f33527ea112b6, type: 2}
+  Sword: []
+  Bow:
+  - {fileID: 11400000, guid: 63e25ccf6217a7d42b813d9dd42219aa, type: 2}
+  - {fileID: 11400000, guid: 1e0c45a5766bffb4fa8f73d229c70ef9, type: 2}
+  Dagger: []
+  Wand: []
+  Shield:
+  - {fileID: 11400000, guid: bb2649548f7ca1741b0ee1e850d1f9bd, type: 2}
+  HandCrossBow: []
+  ArmorCommual:
+  - {fileID: 11400000, guid: 4213713f57730134abcd8d4c872769e0, type: 2}
+  - {fileID: 11400000, guid: 31427176216220d4b815438b1351aaa0, type: 2}
+  - {fileID: 11400000, guid: 1f4292d26b7d3304f9556b185fe8b20a, type: 2}
+  Helmet: []
+  Armor:
+  - {fileID: 11400000, guid: 8a0e38fa6da2136438934198f22503d0, type: 2}
+  Foots:
+  - {fileID: 11400000, guid: 7fd83a99eb4ee19468c906a168ba6ff1, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 158b40c82145c364d8b6f18a2c64fb19, type: 3}
+  m_Name: Icicle
+  m_EditorClassIdentifier: 
+  artifactType: 26
+  artifactTier: 1
+  nameLocalizationKey: Name-Icicle
+  descriptionLocalizationKey: Description-Icicle
+  ArtifactObject: {fileID: -927199367670048503, guid: 22af3cb0685c5c44291aba7aecd2f8f3,
+    type: 3}
+  FollowerObject: {fileID: 0}
+  Debuff:
+  - {fileID: 11400000, guid: 5082cd150a0f6584bab21ee30d0609d3, type: 2}
+  Buff: []

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3583e0a0782c8947a36be224672e897, type: 3}
+  m_Name: MagicMissileSpray
+  m_EditorClassIdentifier: 
+  Name: MagicMissileSpray
+  Sprite: {fileID: 21300000, guid: 0cae3020bd9750d469b6740a38e5037b, type: 3}
+  maxLevel: 2
+  skillLeveling:
+  - needMp: 30
+    needSoul: 0
+    needRage: 0
+    damageFactor: 0.5
+    value1: 5
+    value2: 25
+    value3: 0
+    buffNDebuffObject: {fileID: 0}
+    buffNDebuffObject2: {fileID: 0}
+    coolTime: 13
+  - needMp: 30
+    needSoul: 0
+    needRage: 0
+    damageFactor: 0.5
+    value1: 8
+    value2: 15
+    value3: 0
+    buffNDebuffObject: {fileID: 0}
+    buffNDebuffObject2: {fileID: 0}
+    coolTime: 12
+  - needMp: 30
+    needSoul: 0
+    needRage: 0
+    damageFactor: 0.5
+    value1: 13
+    value2: 7
+    value3: 0
+    buffNDebuffObject: {fileID: 0}
+    buffNDebuffObject2: {fileID: 0}
+    coolTime: 11
+  PassiveSkill: 0
+  skillDescription: 

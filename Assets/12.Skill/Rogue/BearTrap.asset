@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3583e0a0782c8947a36be224672e897, type: 3}
+  m_Name: BearTrap
+  m_EditorClassIdentifier: 
+  Name: BearTrap
+  Sprite: {fileID: 21300000, guid: 233b6a4d635552649b9c12da8f1119bf, type: 3}
+  maxLevel: 2
+  skillLeveling:
+  - needMp: 0
+    needSoul: 0
+    needRage: 0
+    damageFactor: 1
+    value1: 1
+    value2: 0
+    value3: 0
+    buffNDebuffObject: {fileID: 11400000, guid: 4ba7fc2a386ebf948843c9f4b52eaba2,
+      type: 2}
+    buffNDebuffObject2: {fileID: 0}
+    coolTime: 12
+  - needMp: 0
+    needSoul: 0
+    needRage: 0
+    damageFactor: 1.5
+    value1: 2
+    value2: 0
+    value3: 0
+    buffNDebuffObject: {fileID: 11400000, guid: e4d5baf375139654a9c8acfd7f8bd559,
+      type: 2}
+    buffNDebuffObject2: {fileID: 0}
+    coolTime: 11
+  - needMp: 0
+    needSoul: 0
+    needRage: 0
+    damageFactor: 2
+    value1: 3
+    value2: 0
+    value3: 0
+    buffNDebuffObject: {fileID: 11400000, guid: 72869195b958e7d4d8a630604d820265,
+      type: 2}
+    buffNDebuffObject2: {fileID: 0}
+    coolTime: 10
+  PassiveSkill: 0
+  skillDescription: 

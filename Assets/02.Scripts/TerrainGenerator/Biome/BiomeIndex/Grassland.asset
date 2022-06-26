@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f31f024e81a05a84ab34118a3b1af37f, type: 3}
+  m_Name: Grassland
+  m_EditorClassIdentifier: 
+  BiomeName: Grassland
+  biomeType: 0
+  GroundColor: {r: 0.15045391, g: 0.6509434, b: 0.17221431, a: 1}
+  sculpture:
+  - sculptureGameobject:
+    - {fileID: 1368848454159399171, guid: 510194e5ea4d26d4faf11b5ef4dd9781, type: 3}
+    - {fileID: 1470052159299525877, guid: 32fd41d111debe04b965516d4b488269, type: 3}
+    - {fileID: 7336032989477063106, guid: 440e97a670ecb444b999b4b1d92bfc53, type: 3}
+    - {fileID: 5136325899515684556, guid: fcd960ccfa5514a489503f35f3e4b340, type: 3}
+    - {fileID: 6981378721713837632, guid: 9ed20f2087f638749ab440a15ba3a0af, type: 3}
+    population: 3
+    minSculptureSize: 3
+    maxSculptureSize: 3
+  - sculptureGameobject:
+    - {fileID: 128935683, guid: 8d931b3fb82717949a490ba2479926c4, type: 3}
+    - {fileID: 2023517905, guid: 1d7cf80ff985b3d4da86a46d77ed1a1e, type: 3}
+    - {fileID: 945401805, guid: a9b2c2ea8472caa40b47a88cf3badc04, type: 3}
+    - {fileID: 2095414199, guid: a60a8f0bf6c2c2e43959578425ce1015, type: 3}
+    population: 1
+    minSculptureSize: 1
+    maxSculptureSize: 1
+  - sculptureGameobject:
+    - {fileID: 869306036444926184, guid: 27ac525b87d8f394c80d5a41ad7c58ed, type: 3}
+    population: 3
+    minSculptureSize: 1
+    maxSculptureSize: 1
+  - sculptureGameobject:
+    - {fileID: 2655511051223068870, guid: e4af01e0a0051ab42bf4f72b6ff9650c, type: 3}
+    population: 1
+    minSculptureSize: 1
+    maxSculptureSize: 1

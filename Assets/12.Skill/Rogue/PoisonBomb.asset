@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3583e0a0782c8947a36be224672e897, type: 3}
+  m_Name: PoisonBomb
+  m_EditorClassIdentifier: 
+  Name: PoisonBomb
+  Sprite: {fileID: 21300000, guid: 32cf9b9385c55bb4582382983deaf3aa, type: 3}
+  maxLevel: 2
+  skillLeveling:
+  - needMp: 0
+    needSoul: 0
+    needRage: 0
+    damageFactor: 0.3
+    value1: 1
+    value2: 10
+    value3: 4
+    buffNDebuffObject: {fileID: 11400000, guid: 5787f3ddb166f28419ec491cda5be2ee,
+      type: 2}
+    buffNDebuffObject2: {fileID: 0}
+    coolTime: 25
+  - needMp: 0
+    needSoul: 0
+    needRage: 0
+    damageFactor: 0.4
+    value1: 1
+    value2: 10
+    value3: 5
+    buffNDebuffObject: {fileID: 11400000, guid: 68388c291d9764d42a261fc939bbdccd,
+      type: 2}
+    buffNDebuffObject2: {fileID: 0}
+    coolTime: 25
+  - needMp: 0
+    needSoul: 0
+    needRage: 0
+    damageFactor: 0.5
+    value1: 1
+    value2: 10
+    value3: 6
+    buffNDebuffObject: {fileID: 11400000, guid: b5b03215633e13a47960d3afd635141a,
+      type: 2}
+    buffNDebuffObject2: {fileID: 0}
+    coolTime: 25
+  PassiveSkill: 0
+  skillDescription: 

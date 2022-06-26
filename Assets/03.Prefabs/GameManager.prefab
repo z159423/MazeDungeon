@@ -1,0 +1,617 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7339844083004019464
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7339844083004019466}
+  - component: {fileID: 7339844083004019465}
+  - component: {fileID: 7339844083004019467}
+  - component: {fileID: 7339844083004019468}
+  m_Layer: 5
+  m_Name: SpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7339844083004019466
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083004019464}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7339844083755955598}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7339844083004019465
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083004019464}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3, y: 3, z: 3}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &7339844083004019467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083004019464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7298584993284ff47a2823607d50b353, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isTrigged: 0
+--- !u!114 &7339844083004019468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083004019464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9b74b6c6dce8a941b496d0b6c5cdafc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemDataBase: {fileID: 11400000, guid: 7ef892d9553b7aa46aecced14b85273d, type: 2}
+  itemPickupPrefab: {fileID: 0}
+  DropItemLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  normalMonsterDropTable:
+    EXPDropAmount: 0
+    DropCoinMinAmount: 0
+    DropCoinMaxAmount: 0
+    EquipmentItemDropPercent: 0
+    MinEquipmentItemDropCount: 0
+    MaxEquipmentItemDropCount: 0
+    ConsumeableItemDropPercent: 0
+    KeyDropPercent: 0
+    ArtifactDropPercent: 0
+  minibossDropTable:
+    EXPDropAmount: 0
+    DropCoinMinAmount: 0
+    DropCoinMaxAmount: 0
+    EquipmentItemDropPercent: 0
+    MinEquipmentItemDropCount: 0
+    MaxEquipmentItemDropCount: 0
+    ConsumeableItemDropPercent: 0
+    KeyDropPercent: 0
+    ArtifactDropPercent: 0
+  bossMonsterDropTable:
+    EXPDropAmount: 0
+    DropCoinMinAmount: 0
+    DropCoinMaxAmount: 0
+    EquipmentItemDropPercent: 0
+    MinEquipmentItemDropCount: 0
+    MaxEquipmentItemDropCount: 0
+    ConsumeableItemDropPercent: 0
+    KeyDropPercent: 0
+    ArtifactDropPercent: 0
+  enchantClassification: {fileID: 0}
+--- !u!1 &7339844083755955596
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7339844083755955598}
+  - component: {fileID: 7339844083755955599}
+  - component: {fileID: 7339844083755955597}
+  - component: {fileID: 555096146039577543}
+  - component: {fileID: 474507401104641223}
+  - component: {fileID: 7339844083755955609}
+  - component: {fileID: 7339844083755955608}
+  - component: {fileID: 7339844083755955587}
+  - component: {fileID: 7339844083755955588}
+  - component: {fileID: 7339844083755955589}
+  - component: {fileID: 7339844083755955590}
+  - component: {fileID: 5244559560240888448}
+  - component: {fileID: 7339844083755955591}
+  - component: {fileID: 7339844083755955584}
+  - component: {fileID: 7339844083755955585}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7339844083755955598
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083755955596}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -59.86346, y: -52.575428, z: 471.8432}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7339844083004019466}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7339844083755955599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083755955596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaa9119c78279e94c880e470e95cdd3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  defaultItems: []
+  targetMesh: {fileID: 0}
+  currentEquipment: []
+  currentSkinnedMeshes: []
+  Equipment: {fileID: 0}
+  playerController: {fileID: 0}
+  equipmentSlotList: []
+--- !u!114 &7339844083755955597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083755955596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b37a1cf8c908e4bac254e1a4ce40d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemsParent: {fileID: 0}
+  space: 60
+  coinAmount: 0
+  keyAmount: 0
+  inventoryitemName: []
+  items: []
+  iteminfos: []
+  prefabItem: {fileID: 1932208597798590, guid: 9a0b454868a0a7f41bdd6222ae61a8d2, type: 3}
+  prefabPickup: {fileID: 1967284316358762, guid: 742d63eeb28bade4b99bdb8f941d48a3,
+    type: 3}
+  mesh: {fileID: 241799187791297286, guid: 20d457b79207bd14cbd5fca7000a272c, type: 3}
+  MeshSize: {x: 0, y: 0, z: 0}
+  slots: []
+  defaultVertexMat: []
+  Test: {fileID: 0}
+--- !u!114 &555096146039577543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083755955596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9b74b6c6dce8a941b496d0b6c5cdafc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemDataBase: {fileID: 11400000, guid: 7ef892d9553b7aa46aecced14b85273d, type: 2}
+  itemPickupPrefab: {fileID: 0}
+  DropItemLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  normalMonsterDropTable:
+    EXPDropAmount: 0
+    DropCoinMinAmount: 0
+    DropCoinMaxAmount: 0
+    EquipmentItemDropPercent: 0
+    MinEquipmentItemDropCount: 0
+    MaxEquipmentItemDropCount: 0
+    ConsumeableItemDropPercent: 0
+    KeyDropPercent: 0
+    ArtifactDropPercent: 0
+  minibossDropTable:
+    EXPDropAmount: 0
+    DropCoinMinAmount: 0
+    DropCoinMaxAmount: 0
+    EquipmentItemDropPercent: 0
+    MinEquipmentItemDropCount: 0
+    MaxEquipmentItemDropCount: 0
+    ConsumeableItemDropPercent: 0
+    KeyDropPercent: 0
+    ArtifactDropPercent: 0
+  bossMonsterDropTable:
+    EXPDropAmount: 0
+    DropCoinMinAmount: 0
+    DropCoinMaxAmount: 0
+    EquipmentItemDropPercent: 0
+    MinEquipmentItemDropCount: 0
+    MaxEquipmentItemDropCount: 0
+    ConsumeableItemDropPercent: 0
+    KeyDropPercent: 0
+    ArtifactDropPercent: 0
+  enchantClassification: {fileID: 0}
+--- !u!114 &474507401104641223
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083755955596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc70173ad76ec024c9d006e612eb3ce7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skillSlotList: []
+--- !u!114 &7339844083755955609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083755955596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba6f12a323825e45997c93605a9022c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxNPCSpawnCount: 20
+  SpawnRange: 500
+  SpawnRate: 1
+  NPCDstCheckLate: 2
+  MaxNPCViewDist: 600
+  SpawnedNpc: []
+--- !u!114 &7339844083755955608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083755955596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bae4848f90b70674abc2fcb16f9e1701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dontSpawn: 0
+  pools:
+  - tag: Skeleton
+    prefab: {fileID: 4148629536871376320, guid: fb89832bc6ba08944a66775e340d16b7,
+      type: 3}
+    size: 10
+    "\uC2A4\uD3F0\uB418\uB294\uC9C0\uD615": 3
+  - tag: Scorpion
+    prefab: {fileID: 2965983682766240657, guid: 73d8e8ca41ba487418d2ea2731178443,
+      type: 3}
+    size: 10
+    "\uC2A4\uD3F0\uB418\uB294\uC9C0\uD615": 1
+  - tag: Knight
+    prefab: {fileID: 4148629536871376320, guid: fb89832bc6ba08944a66775e340d16b7,
+      type: 3}
+    size: 10
+    "\uC2A4\uD3F0\uB418\uB294\uC9C0\uD615": 0
+  - tag: Skeleton2
+    prefab: {fileID: 4148629536871376320, guid: fb89832bc6ba08944a66775e340d16b7,
+      type: 3}
+    size: 10
+    "\uC2A4\uD3F0\uB418\uB294\uC9C0\uD615": 0
+  - tag: CactusMan
+    prefab: {fileID: 2965983682766240657, guid: 73d8e8ca41ba487418d2ea2731178443,
+      type: 3}
+    size: 10
+    "\uC2A4\uD3F0\uB418\uB294\uC9C0\uD615": 1
+  - tag: Knight2
+    prefab: {fileID: 2646985474247255397, guid: 6dee2ed9b23fb184dab5c3d5db4a234d,
+      type: 3}
+    size: 10
+    "\uC2A4\uD3F0\uB418\uB294\uC9C0\uD615": 2
+  - tag: Zombie
+    prefab: {fileID: 2646985474247255397, guid: 6dee2ed9b23fb184dab5c3d5db4a234d,
+      type: 3}
+    size: 10
+    "\uC2A4\uD3F0\uB418\uB294\uC9C0\uD615": 3
+  - tag: Ghost
+    prefab: {fileID: 6925517254652059193, guid: 75313e1fd7b3d5e42b8f6549a11755a3,
+      type: 3}
+    size: 10
+    "\uC2A4\uD3F0\uB418\uB294\uC9C0\uD615": 3
+--- !u!114 &7339844083755955587
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083755955596}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27c568e44dc9fa84f9d5e48c7fa7d0f3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NPCInfo:
+  - NPCPrefabs: {fileID: 2965983682766240657, guid: 73d8e8ca41ba487418d2ea2731178443,
+      type: 3}
+    SpawnTime: 3
+    MaxStack: 10
+  - NPCPrefabs: {fileID: 4148629536871376320, guid: fb89832bc6ba08944a66775e340d16b7,
+      type: 3}
+    SpawnTime: 3
+    MaxStack: 10
+  - NPCPrefabs: {fileID: 2736835122488643348, guid: 54ba64b104c87eb4b9a4d3aa8f7e3bd9,
+      type: 3}
+    SpawnTime: 3
+    MaxStack: 10
+  Player: {fileID: 0}
+  NPCPoolTransform: {fileID: 0}
+  SpawnRange: 200
+--- !u!114 &7339844083755955588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083755955596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14016217b42cfac40a333ae592e28398, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemDataBase: {fileID: 11400000, guid: 7ef892d9553b7aa46aecced14b85273d, type: 2}
+--- !u!114 &7339844083755955589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083755955596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2513a950a4e1afb469010678eae744da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterclass: 0
+  characterSelectMenu: {fileID: 0}
+--- !u!114 &7339844083755955590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083755955596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18424e8a264abd14a9722f485979b6dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  arrow: {fileID: 3502737671077095781, guid: 75216cd4b1e01f24d878d2e446446ab3, type: 3}
+  arrow2: {fileID: 0}
+  Chargingarrow: {fileID: 7823147665583519388, guid: 7995a9be0e1d14b40b8eaeae06901212,
+    type: 3}
+  magicBall: {fileID: 5587529374088537673, guid: 2948bd8aaf2a0f649b5063733b611380,
+    type: 3}
+  Bomb: {fileID: 8305563007524099835, guid: 3958b9aab0435fe4e8c9c8b247e98967, type: 3}
+  FireBall: {fileID: 1129792658060394719, guid: 7b42cdabc0aaeb44daff8b0bb4de41aa,
+    type: 3}
+  SoulFire: {fileID: 0}
+  SoulSkull: {fileID: 0}
+  GhostArrow: {fileID: 0}
+  Skill_ChainOfPurgatory: {fileID: 0}
+  IceSpear: {fileID: 0}
+  LightingOrb: {fileID: 0}
+  MagicOrb: {fileID: 0}
+  BouncingBall: {fileID: 0}
+  ThrowingKnife: {fileID: 0}
+  DoubleShackle: {fileID: 0}
+  PoisonBomb: {fileID: 0}
+  GrapplingArrow: {fileID: 0}
+  ThrowRock01: {fileID: 0}
+  FlameTick: {fileID: 0}
+  shockBomb: {fileID: 0}
+  magicMissileSprayProjectile: {fileID: 0}
+  magicBomb: {fileID: 0}
+  flameExplosionChargingParticle: {fileID: 0}
+  flameExplosion: {fileID: 0}
+  FireFlameSummon: {fileID: 0}
+  PurpleFlameSummon: {fileID: 0}
+  ShieldShockWaveTick: {fileID: 0}
+  SkeletonMinion: {fileID: 0}
+  SkeletonArcherMinion: {fileID: 0}
+  SkeletonKnightMinion: {fileID: 0}
+  LichMinion: {fileID: 0}
+  Room_Minimap: {fileID: 0}
+  AudioSource: {fileID: 0}
+  GoldCoin: {fileID: 0}
+  SilverCoin: {fileID: 0}
+  CopperCoin: {fileID: 0}
+  FloatingText: {fileID: 6215671399216843376, guid: c6f3a115aa0e2f14a91a2aefb385bc22,
+    type: 3}
+  ChainOfPurgatoryEffect: {fileID: 0}
+  OverChargeParticle: {fileID: 0}
+  BearTrap: {fileID: 0}
+  ExplosionTrap: {fileID: 0}
+  PoisonGas: {fileID: 0}
+  SoulDrainParticle: {fileID: 0}
+  LifeDrainParticle: {fileID: 0}
+  DefaultVertexMat: []
+  DefaultVertexMatWithStencil: []
+  PoisonParticle: {fileID: 0}
+  BurnParticle: {fileID: 0}
+  SlowDownParticle: {fileID: 0}
+  LightingRenderer: {fileID: 0}
+  ExplodeParticle: {fileID: 0}
+  nothingBomb: {fileID: 0}
+  StunParticle: {fileID: 0}
+  MaimedParticle: {fileID: 0}
+  SteelArrowCell: {fileID: 0}
+  PoisonArrowCell: {fileID: 0}
+  ExplosionArrowCell: {fileID: 0}
+  HealthGenerationParticle: {fileID: 0}
+  DamageIncreaseParticle: {fileID: 0}
+  PurpleShield: {fileID: 0}
+  DiggingDustParticle: {fileID: 0}
+  miniBomb: {fileID: 0}
+  miniTrap: {fileID: 0}
+  keyPickUp: {fileID: 0}
+  ShopIcon: {fileID: 0}
+  BossIcon: {fileID: 0}
+  TreasureIcon: {fileID: 0}
+  DecreseDefenseParticle: {fileID: 0}
+  eliteMonsterNameColor: {r: 0, g: 0, b: 0, a: 0}
+  levelUpParticle: {fileID: 0}
+  mouseLeftButtonIcon: {fileID: 0}
+  mouseRightButtonIcon: {fileID: 0}
+  mouseMiddleButtonIcon: {fileID: 0}
+  ShieldShockWaveParticle: {fileID: 0}
+  BuffDebuffIconPrefab: {fileID: 0}
+  defenseIncreseParticle: {fileID: 0}
+  BombRobot: {fileID: 0}
+  CrossbowTurret: {fileID: 0}
+  MissileDrone: {fileID: 0}
+  missile: {fileID: 0}
+  IceShield: {fileID: 0}
+  AdventureSkill: {fileID: 0}
+  WarriorSkill: {fileID: 0}
+  ArcherSkill: {fileID: 0}
+  RogueSkill: {fileID: 0}
+  MageSkill: {fileID: 0}
+  AlchemistSkill: {fileID: 0}
+  NecromencerSkill: {fileID: 0}
+  TinkerSkill: {fileID: 0}
+  FlameSkill: {fileID: 0}
+  ShockBombSkill: {fileID: 0}
+  BlockSkill: {fileID: 0}
+  BackAttack: {fileID: 0}
+  ThrowingKnifeSkill: {fileID: 0}
+  SteelArrowSkill: {fileID: 0}
+  PoisonArrowSkill: {fileID: 0}
+  ExplosionArrowSkill: {fileID: 0}
+  FireBallSkill: {fileID: 0}
+  BearTrapSkill: {fileID: 0}
+  ExplosionTrapSkill: {fileID: 0}
+  superArmor: {fileID: 0}
+  CoupDeGrace: {fileID: 0}
+  ShieldReflect: {fileID: 0}
+  QuickShot: {fileID: 0}
+  PoisonBombSkill: {fileID: 0}
+  magicMissileSpraySkill: {fileID: 0}
+  magicbombSkill: {fileID: 0}
+  IceShieldSkill: {fileID: 0}
+  IceSpearSkill: {fileID: 0}
+  LightingOrbSkill: {fileID: 0}
+  ChargingShotSkill: {fileID: 0}
+  flameExplosionSkill: {fileID: 0}
+  overChargeSkill: {fileID: 0}
+  Flame: {fileID: 0}
+  ShieldBlock: {fileID: 0}
+  Sneak: {fileID: 0}
+  ChargingShot: {fileID: 0}
+  continuousFiring: {fileID: 0}
+  MultiShot: {fileID: 0}
+  ShieldShockWave: {fileID: 0}
+  StunImmunity: {fileID: 0}
+  SlowdownImmunity: {fileID: 0}
+  npcMask:
+    serializedVersion: 2
+    m_Bits: 0
+  playerMask:
+    serializedVersion: 2
+    m_Bits: 0
+  targetMask:
+    serializedVersion: 2
+    m_Bits: 0
+  obstacleMask:
+    serializedVersion: 2
+    m_Bits: 0
+--- !u!114 &5244559560240888448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083755955596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0548c98b5a581334bbfe7e14538910bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skillSlot:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  ShieldBlockSlot: {fileID: 0}
+  FlameSlot: {fileID: 0}
+  SneakSlot: {fileID: 0}
+  ChargingShotSlot: {fileID: 0}
+--- !u!114 &7339844083755955591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083755955596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 217afeb7f58139a4d98b7c974dcfd2da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  particleStructs:
+  - S: Common
+    PS: {fileID: 1636424985375858507, guid: 0671e221925b3264b95eca1fca256b28, type: 3}
+  - S: Uncommon
+    PS: {fileID: 8366455845451113054, guid: d58abc587627ac040bd81a45d2a8d135, type: 3}
+  - S: Rare
+    PS: {fileID: 2016511227910094675, guid: 8337bf67d9bd8284a9ce0c13da6a00a2, type: 3}
+  - S: Unique
+    PS: {fileID: 5071700504943815946, guid: b4b92fa1ea7b38840b0b7083546347ef, type: 3}
+  - S: Epic
+    PS: {fileID: 7478182654461200182, guid: dc695e97479cba74bb8b92cac189292c, type: 3}
+  - S: Death
+    PS: {fileID: 822980579048238968, guid: 177a83af6b6a64645a48a504d4d08c79, type: 3}
+  - S: Hit
+    PS: {fileID: 4561106107529349936, guid: 8f4d27f24d1c94d4a979f1b2e3946680, type: 3}
+  LootEffectStruects: []
+--- !u!114 &7339844083755955584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083755955596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 751cd29937091724491545f20b1b8402, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &7339844083755955585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339844083755955596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 657320f9eb8990047b8564ff939154ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

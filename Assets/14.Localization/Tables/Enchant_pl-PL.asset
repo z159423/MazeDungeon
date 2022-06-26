@@ -1,0 +1,326 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Enchant_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: 763e0beb1543a3d4aa77e096b38e1fa4, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 270066937856
+    m_Localized: "Zwi\u0119ksz obra\u017Cenia {value3}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 521754537984
+    m_Localized: "Zwi\u0119ksz szybko\u015B\u0107 ataku {value3}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 652323221504
+    m_Localized: " Kiedy zabijesz wroga, odzyskaj HP a\u017C do {value1}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 730018508800
+    m_Localized: "Zmniejszono pr\u0119dko\u015B\u0107 ruchu wroga o {value3}% z {value4}%
+      szans\u0105 na atak wroga."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 777472864256
+    m_Localized: "Zwi\u0105zanie wroga {value1} sekunda z {value2}% szans\u0105,
+      \u017Ce zaatakujesz wroga."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 843323437056
+    m_Localized: "\rKiedy atakujesz wroga, istnieje {value3}% szans na zatrucie wroga
+      na {value2} sek., zadaj\u0105c {value1} obra\u017Ce\u0144 co {value4} sek."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 895227949056
+    m_Localized: "\rKiedy atakujesz wroga, istnieje {value3}% szansa na spalenie
+      wroga przez {value2} sek., zadaj\u0105c {value1} obra\u017Ce\u0144 co {value4}
+      sek."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 936143384576
+    m_Localized: "\rKiedy atakujesz wroga, istnieje {value3}% szansa na og\u0142uszenie
+      wroga na {value1} sekund"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 998248443904
+    m_Localized: 
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1050488500224
+    m_Localized: "\rZwi\u0119ksza ilo\u015B\u0107 pieni\u0119dzy upuszczanych przez
+      wrog\xF3w o {value1}% po ich zabiciu."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1133397307392
+    m_Localized: "Zwi\u0119ksz szans\u0119 na trafienie krytyczne {value3}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1214250905600
+    m_Localized: "Podczas atakowania wroga istnieje {Percent}% szansa na zadanie
+      ataku obszarowego r\xF3wnego {Value}% pobliskim wrogom."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1265119424512
+    m_Localized: "Podczas wystrzeliwania strza\u0142y istnieje {value3}% szansa na
+      wystrzelenie jeszcze jednej strza\u0142y."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1318806515712
+    m_Localized: "Podczas ataku istnieje {value3}% szansa na wystrzelenie strza\u0142y,
+      kt\xF3ra przebije wroga."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1398410211328
+    m_Localized: "Obra\u017Cenia od ataku w plecy zwi\u0119kszone o {value3}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1468694163456
+    m_Localized: "\rZwi\u0119ksza obron\u0119 tarcz\u0105 o {value3}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1530061025280
+    m_Localized: "Zwi\u0119ksza obron\u0119 o {value3}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1674437357568
+    m_Localized: "Zwi\u0119ksza maksymalne HP o {value3}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1746474528768
+    m_Localized: "Zwi\u0119ksza maksymaln\u0105 wytrzyma\u0142o\u015B\u0107 o {value3}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1785791934464
+    m_Localized: "Zwi\u0119ksza maksymaln\u0105 man\u0119 o {value1}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1893111590912
+    m_Localized: "Szybko\u015B\u0107 skradania si\u0119 zwi\u0119kszona o {value1}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1963122913280
+    m_Localized: "\rZwi\u0119ksza w\u015Bciek\u0142o\u015B\u0107 uzyskan\u0105 po
+      zabiciu wrog\xF3w o {value1}%."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1989660274688
+    m_Localized: "Zwi\u0119ksz odzyskiwanie many o {value1} na sekund\u0119"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2035285913600
+    m_Localized: "Kiedy zostaje zaatakowany przez wroga, odbija si\u0119 {value3}%
+      moich obra\u017Ce\u0144 od ataku na zaatakowany wr\xF3g"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2101472030720
+    m_Localized: "Tworzy mro\u017An\u0105 zbroj\u0119, kt\xF3ra \u0142aduje si\u0119
+      do {Value}, kt\xF3ra \u0142aduje si\u0119 w {Percent} na {Time}sekund\u0119."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2147580014592
+    m_Localized: "Szybko\u015B\u0107 ruchu zwi\u0119kszona o {value3}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2188789051392
+    m_Localized: "Zwi\u0119ksza pr\u0119dko\u015B\u0107 ruchu podczas ukrycia o {value3}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 35523952000266240
+    m_Localized: "Zwi\u0119ksza przyrost w\u015Bciek\u0142o\u015Bci o {value1} podczas
+      obrony tarcz\u0105"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 35536765720621056
+    m_Localized: Zyskaj {value1} many, gdy zabijesz wroga.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 162030055424
+    m_Localized: "Zwi\u0119kszenie obra\u017Ce\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399289249792
+    m_Localized: "Zwi\u0119kszenie szybko\u015Bci ataku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 577186459648
+    m_Localized: "Wysysanie \u017Cycia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696950616064
+    m_Localized: Kierowco zwolnij
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753242370048
+    m_Localized: "Wi\u0105\u017C\u0105cy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 790798168064
+    m_Localized: Zatrucie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 863091191808
+    m_Localized: Oparzenie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 911216635904
+    m_Localized: "Oszo\u0142omi\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 949690986496
+    m_Localized: "Wstrz\u0105s elektryczny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1021392613376
+    m_Localized: "Grabie\u017C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069450948608
+    m_Localized: "Zwi\u0119ksz szans\u0119 krytyczn\u0105"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1158437302272
+    m_Localized: Szeroki atak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1233330794496
+    m_Localized: "Podw\xF3jny strza\u0142"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1282861330432
+    m_Localized: "Przeniknij Strza\u0142"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344194637824
+    m_Localized: Zamach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428168798208
+    m_Localized: Solidna Tarcza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490617790464
+    m_Localized: "Zwi\u0119kszenie obrony"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1556984262656
+    m_Localized: Maksymalny wzrost zdrowia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1714132250624
+    m_Localized: "Maksymalny wzrost wytrzyma\u0142o\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1785229897728
+    m_Localized: Maksymalny przyrost many
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1861864026112
+    m_Localized: "Szybkie skradanie si\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1929287462912
+    m_Localized: Berserker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986602627072
+    m_Localized: "Zwi\u0119kszenie regeneracji many"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2031418765312
+    m_Localized: "Cier\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2099693645824
+    m_Localized: "Mro\u017Ana Zbroja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2147391270912
+    m_Localized: "Zwi\u0119kszenie pr\u0119dko\u015Bci ruchu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2186306023424
+    m_Localized: "podkrada\u0107 si\u0119 Zwi\u0119kszenie pr\u0119dko\u015Bci ruchu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35523869238259712
+    m_Localized: Absorpcja ataku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35536742542897152
+    m_Localized: ManaDrain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44036554422644736
+    m_Localized: Podczas atakowania wroga istnieje {value3}% szansa na zmniejszenie
+      obrony wroga o {value2}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 43649852537466880
+    m_Localized: spadek obrony
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47151523552980992
+    m_Localized: "\rZwi\u0119ksza odzyskiwanie many o {value1}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 47151496021569536
+    m_Localized: "Zwi\u0119kszona szybko\u015B\u0107 odzyskiwania many"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50726734927917056
+    m_Localized: Odzyskaj {value1} many, gdy zabijesz wroga.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00703ee13e0000000070fe7a7900000000707ee19700000000707ef8a90000000070fe04b50000000070fe59c40000000070be6fd000000000707ef6d900000000703e6ce80000000070fe95f40000000070bee3070100000070feb61a0100000070fe8e260100000070fe0e330100000070be97450100000070fef4550100000070be3e6401000000703edc850100000070fea19601000000707ec99f01000000703ec6b801000000703e13c90100000070fe40cf01000000707ee0d901000000707e49e90100000070be05f40100000070fe9dfd0100000070fe9bd8347e0000703e0980407e0000707e4f03739c000070fe930f84a7000070fe57b237b400

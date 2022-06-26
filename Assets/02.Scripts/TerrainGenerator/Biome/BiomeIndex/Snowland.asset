@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f31f024e81a05a84ab34118a3b1af37f, type: 3}
+  m_Name: Snowland
+  m_EditorClassIdentifier: 
+  BiomeName: Snowland
+  biomeType: 2
+  GroundColor: {r: 0.8867924, g: 0.8407796, b: 0.8407796, a: 1}
+  sculpture:
+  - sculptureGameobject:
+    - {fileID: 8643615024409201670, guid: 9a1758b2e10dbab46861008e491a383e, type: 3}
+    - {fileID: 4990667188779369988, guid: 15fedd51ded8bcd4a9820912bcba1111, type: 3}
+    - {fileID: 7309281831062558938, guid: a42d510d0b6f1064f9d284c44846348f, type: 3}
+    - {fileID: 6581156084792973703, guid: 7f745bb9b13877246b29511a7eb68a0c, type: 3}
+    - {fileID: 1731812709163283949, guid: b5a731c95b5d4fb40b3c67dbce737acf, type: 3}
+    population: 3
+    minSculptureSize: 3
+    maxSculptureSize: 3

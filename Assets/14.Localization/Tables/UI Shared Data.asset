@@ -1,0 +1,684 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 06d4aac871359754a8fc708a86b5054e
+  m_Entries:
+  - m_Id: 59273801728
+    m_Key: GameStart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132405686272
+    m_Key: Option
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224164474880
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1580401061888
+    m_Key: Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1630363611136
+    m_Key: Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1647518314496
+    m_Key: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1660520656896
+    m_Key: Input
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1676488372224
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1698739154944
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726027296768
+    m_Key: Master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726106988544
+    m_Key: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1789285789696
+    m_Key: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2396574871552
+    m_Key: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310767614062592
+    m_Key: Warrior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310926213279744
+    m_Key: Rogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310973214650368
+    m_Key: Wizard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311005506596864
+    m_Key: Archer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311046010990592
+    m_Key: Alchemist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311175443017728
+    m_Key: Necromancer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311254614700032
+    m_Key: CharcaterSelect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311347191377920
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311385330184192
+    m_Key: MainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311435745718272
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312927013728256
+    m_Key: QuitGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316547398529024
+    m_Key: Purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316557204811776
+    m_Key: PickUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316913796149248
+    m_Key: Block
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317017961689088
+    m_Key: Reflection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317083589963776
+    m_Key: DoubleShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317142247305216
+    m_Key: PenetrateShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317200581685248
+    m_Key: Poison
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317244412162048
+    m_Key: Burn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317278969032704
+    m_Key: SlowDown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317331200700416
+    m_Key: Stun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317368710361088
+    m_Key: BackAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317447940763648
+    m_Key: Critical
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317492442329088
+    m_Key: Binding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317554182483968
+    m_Key: Tier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321680480038912
+    m_Key: Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321724545396736
+    m_Key: ShieldPower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321798667137024
+    m_Key: Defence
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321902622961664
+    m_Key: MoveSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322631387475968
+    m_Key: PickUpText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323617061498880
+    m_Key: EnchantLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 347560602398720
+    m_Key: HPPotionComment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350178192027648
+    m_Key: Head
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350183220998144
+    m_Key: Chest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350184445734912
+    m_Key: Legs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350187478216704
+    m_Key: Weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350189478899712
+    m_Key: SecondaryWeapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350191676715008
+    m_Key: Accessory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350193090195456
+    m_Key: Consumable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350583135301632
+    m_Key: Potion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350594556391424
+    m_Key: Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350612952608768
+    m_Key: Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350627645255680
+    m_Key: Dagger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350650164473856
+    m_Key: Wand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350661417791488
+    m_Key: Shield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350675506458624
+    m_Key: HandCrossBow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6557901766160384
+    m_Key: NotEnoughMoney
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7876820602875904
+    m_Key: NotEnoughKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9071193264910336
+    m_Key: Dodge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10312011829112832
+    m_Key: DamagePopUpTextEnable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10714973768413184
+    m_Key: Pray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13690106820849664
+    m_Key: Maimed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15365502373097472
+    m_Key: WarriorDetail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15366367016284160
+    m_Key: RogueDetail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15366835914305536
+    m_Key: WizardDetail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15367222968872960
+    m_Key: ArcherDetail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15383559329968128
+    m_Key: Sneak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15383856894865408
+    m_Key: BackAttactInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15384204640415744
+    m_Key: Flame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15384408118685696
+    m_Key: ChargingShoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16086914863886336
+    m_Key: MouseSensitive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16289786029305856
+    m_Key: PrayToHealthStatue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16289970545127424
+    m_Key: PrayToStrengthStatue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16294729943511040
+    m_Key: HealthRegeneration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16294732015497216
+    m_Key: DamageIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16954683155181568
+    m_Key: StunImmunization
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16954754403823616
+    m_Key: SlowDownImmunization
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16955456727445504
+    m_Key: Roll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18065920098201600
+    m_Key: SkillPoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19200644883574784
+    m_Key: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19200876644036608
+    m_Key: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941197170503680
+    m_Key: 'Unlock:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941291357794304
+    m_Key: Unlock_Archer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941364703588352
+    m_Key: Unlock_Rogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941397263970304
+    m_Key: Unlock_Mage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309030802550784
+    m_Key: BasicAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309100553826304
+    m_Key: SecondaryAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309156765888512
+    m_Key: Rolling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309196997652480
+    m_Key: Dash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21330996464873472
+    m_Key: Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21367061779214336
+    m_Key: WaitForInput
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21386267539173376
+    m_Key: Inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21423998269026304
+    m_Key: Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424185922187264
+    m_Key: Minimap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424228079136768
+    m_Key: Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424277337042944
+    m_Key: Artifact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424685396684800
+    m_Key: ConsumableQuickUseFirstSlot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424943916806144
+    m_Key: ConsumableQuickUseSecondSlot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425090167992320
+    m_Key: ConsumableQuickUseFirstSlotChange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425238797348864
+    m_Key: ConsumableQuickUseSecondSlotChange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425336348471296
+    m_Key: EscMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425485778939904
+    m_Key: Interaction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21605907703951360
+    m_Key: SkillHotKey1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606038264246272
+    m_Key: SkillHotKey2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606050536779776
+    m_Key: SkillHotKey3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606058623397888
+    m_Key: SkillHotKey4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606076981866496
+    m_Key: SkillHotKey5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606085492109312
+    m_Key: SkillHotKey6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606096212750336
+    m_Key: SkillHotKey7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606106371354624
+    m_Key: SkillHotKey8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606116647399424
+    m_Key: SkillHotKey9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606125430272000
+    m_Key: SkillHotKey0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21621891324080128
+    m_Key: SettingSaved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21622021934706688
+    m_Key: SettingReset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23350865716736000
+    m_Key: Exp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27263376568512512
+    m_Key: OpenDoor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27263398500528128
+    m_Key: OpenChest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29158024337584128
+    m_Key: Loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29547478759927808
+    m_Key: DecreaseDefense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29616994768547840
+    m_Key: PlayTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29617299002388480
+    m_Key: DiedBy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29617609800314880
+    m_Key: GetArtifactAmount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29617770370854912
+    m_Key: EnemyKillCount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29907708526096384
+    m_Key: NotEnoughInvenTorySpace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30226483137900544
+    m_Key: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30226486040358912
+    m_Key: FullScreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30411516813406208
+    m_Key: ToMainMenu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30413144652148736
+    m_Key: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30413148720623616
+    m_Key: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30413825584820224
+    m_Key: ExitGame?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30987721853792256
+    m_Key: levelUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31847311654940672
+    m_Key: StartHp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31847887839064064
+    m_Key: HpGrowth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31848988713840640
+    m_Key: StartMoveSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31849361897844736
+    m_Key: StartCriticalChance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31849363428765696
+    m_Key: DodgeChance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31853430259478528
+    m_Key: attackPower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31853766420361216
+    m_Key: defencePower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32559067209560064
+    m_Key: fpsDisplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33325758730366976
+    m_Key: Stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33611420184506368
+    m_Key: BuffDeBuffPopUpTextEnable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33716371850162176
+    m_Key: block
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34005119083114496
+    m_Key: MaxSteamina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34064690099154944
+    m_Key: FOV
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34064691332280320
+    m_Key: LOD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34064692406022144
+    m_Key: FrameLateLimit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34408527480909824
+    m_Key: AttackSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34423241162256384
+    m_Key: Producer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34423870215581696
+    m_Key: soundtrack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34721918019858432
+    m_Key: NPCHpBarDisplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34728054156587008
+    m_Key: UIDisplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35212177572786176
+    m_Key: IncreseDefense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35842572219740160
+    m_Key: IncreaseMoveSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35842665526226944
+    m_Key: DecreaseMoveSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35846565020987392
+    m_Key: IncreaseAttackSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35846568892329984
+    m_Key: DecreaseAttackSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35848252318183424
+    m_Key: DecreaseDamage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38614128968757248
+    m_Key: allowConsole
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42267052706000896
+    m_Key: InteractionHotKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48432261661356032
+    m_Key: graphicQuality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48466968788758528
+    m_Key: uisize
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1642292164558

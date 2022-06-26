@@ -1,0 +1,338 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Item_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 38828ad947cfa8442a4cf832572b3e84, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11068665856
+    m_Localized: Wood Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226643308544
+    m_Localized: Broken Iron Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229931642880
+    m_Localized: Broken Shield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424693597106176
+    m_Localized: Short Iron Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424552215506944
+    m_Localized: Wood Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424716011466752
+    m_Localized: Long Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424729802338304
+    m_Localized: Silver Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424741936459776
+    m_Localized: Heroic Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424754611646464
+    m_Localized: Golem Slayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427035016982528
+    m_Localized: Broken Shield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427036887642112
+    m_Localized: Wood Shield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427037978161152
+    m_Localized: Iron Shield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427038682804224
+    m_Localized: Knight Shield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427039513276416
+    m_Localized: Heroic Shield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427826683473920
+    m_Localized: Wood Helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427828034039808
+    m_Localized: Iron Helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427828998729728
+    m_Localized: Bloody Helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427829766287360
+    m_Localized: Berserker Helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427830538039296
+    m_Localized: Heroic Helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429122413031424
+    m_Localized: Iron Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429122991845376
+    m_Localized: Knight Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429123570659328
+    m_Localized: Bloody Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429124275302400
+    m_Localized: Berserker Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431088316870656
+    m_Localized: Iron Boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431088870518784
+    m_Localized: Knight Boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431089453527040
+    m_Localized: Berserker Boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645634465886208
+    m_Localized: Wood Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645635111809024
+    m_Localized: Wood Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645635946475520
+    m_Localized: Teak Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645636722421760
+    m_Localized: Ebony Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645637557088256
+    m_Localized: Black Panther Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645638265925632
+    m_Localized: Bow of Dragon Blood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646398353502208
+    m_Localized: Dark Leather Hood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646398978453504
+    m_Localized: Swamp Hunter Hood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646399624376320
+    m_Localized: Magical Hood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649856364212224
+    m_Localized: Gery Mage Hat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649856934637568
+    m_Localized: Firebrand MageHat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649857702195200
+    m_Localized: Phantasmal MageHat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649858159374336
+    m_Localized: MoonLight MageHat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650970836922368
+    m_Localized: Gery Shoes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650971419930624
+    m_Localized: Stardust Shoes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650972065853440
+    m_Localized: Wyvern Skin Shoes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 651859492499456
+    m_Localized: Grey Robe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 651860109062144
+    m_Localized: SandStorm Robe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 651860658515968
+    m_Localized: MoonLight Robe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652697925480448
+    m_Localized: Iron Dagger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652698521071616
+    m_Localized: Fangs Dagger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652699095691264
+    m_Localized: Dark Venom Dagger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653089837051904
+    m_Localized: HandCrossBow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653090445225984
+    m_Localized: HandCrossBow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653090961125376
+    m_Localized: HandCrossBow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654873217363968
+    m_Localized: Gery Hood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654873351581696
+    m_Localized: Hood of Fog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654876073684992
+    m_Localized: Hood of Twilight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663640214499328
+    m_Localized: Grey Leather Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663640793313280
+    m_Localized: Cow Leather Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663641388904448
+    m_Localized: Leather Armor of SandStorm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663642059993088
+    m_Localized: Wyvern SkinArmor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674794978570240
+    m_Localized: Wood Wand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674838817435648
+    m_Localized: Wood Wand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674843619913728
+    m_Localized: FrostFlower Wand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674844169367552
+    m_Localized: FlameFlower Wand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674844819484672
+    m_Localized: Void Wand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674865614843904
+    m_Localized: Cosmic Wand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 678178930454528
+    m_Localized: Leather Armor of SandStorm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146781345673216
+    m_Localized: 'Lizard Skin Boots '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146586532835328
+    m_Localized: Gery Leather Boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146587111649280
+    m_Localized: Boots of SandStorm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146587686268928
+    m_Localized: Wyvern Skin Boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147247529979904
+    m_Localized: Iron Dagger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147248104599552
+    m_Localized: Assassin Dagger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147248754716672
+    m_Localized: Rupture Dagger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22603713533079552
+    m_Localized: Small Hp Potion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22603719535128576
+    m_Localized: Hp Potion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22603731346288640
+    m_Localized: Large Hp Potion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41597387377897472
+    m_Localized: Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51157912428376064
+    m_Localized: "\rshabby leather boots"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51157980527095808
+    m_Localized: wolf leather boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51157992837378048
+    m_Localized: dragon scale boots
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

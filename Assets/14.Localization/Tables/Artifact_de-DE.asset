@@ -1,0 +1,561 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Artifact_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: aad134bfcd86b204cba9ac183ee5eba7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 193286008832
+    m_Localized: Silberring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 502573985792
+    m_Localized: "Es ist ein silberner Ring mit Magie, der die Verteidigung verst\xE4rkt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 632052150272
+    m_Localized: Goldring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 668114776064
+    m_Localized: Es ist ein Ring mit Magie, der dich stark macht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748808990720
+    m_Localized: Silberne Kette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753242370048
+    m_Localized: Es ist eine magische Halskette, die Ihren Angriff schnell macht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 962810769408
+    m_Localized: Goldene Halskette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 965268631552
+    m_Localized: Es ist eine Halskette mit Magie, die dich stark macht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1025087795200
+    m_Localized: Zahn-Halskette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027730206720
+    m_Localized: "Es ist eine Halskette, die deinen Angriff t\xF6dlich macht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090510548992
+    m_Localized: Rubin-Ring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1128032792576
+    m_Localized: "Es ist ein magischer Ring, der Ihre Gesundheit erh\xF6ht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1203484127232
+    m_Localized: Artefakt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1226020122624
+    m_Localized: Blauer Kristall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571270433239040
+    m_Localized: "Dieser Kristall kann Sie unterst\xFCtzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621093530267648
+    m_Localized: Roter Kristall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621371990110208
+    m_Localized: "Dieser Kristall kann Sie unterst\xFCtzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621485827715072
+    m_Localized: Gelber Kristall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621486461054976
+    m_Localized: "Dieser Kristall kann Sie unterst\xFCtzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077246672400384
+    m_Localized: Gefrorenes Herz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077248958296064
+    m_Localized: "Es ist ein Herz, das kalt gefroren ist. Sie k\xF6nnen jedoch das
+      kraftvolle Manapumpen sp\xFCren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114047076265984
+    m_Localized: Feder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114049785786368
+    m_Localized: "Es sieht aus wie eine gew\xF6hnliche Feder, aber wenn Sie es herumtragen,
+      f\xFChlen Sie sich etwas leichter."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499125707075584
+    m_Localized: Elfenbrot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499127716147200
+    m_Localized: Es ist ein Elfenbrot, das sogar mit einem Bissen voll ist.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1516783320068096
+    m_Localized: Seelensammler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1516785022955520
+    m_Localized: "Es ist schrecklich, die Seele wegzunehmen, aber es ist auch n\xFCtzlich."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1690945837756416
+    m_Localized: Magma-Stein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1690976389066752
+    m_Localized: "Es ist so hei\xDF, dass es schwer zu ber\xFChren ist, Der Feind
+      wird Angst haben, anzugreifen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1795657463394304
+    m_Localized: Stein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1795659136921600
+    m_Localized: Es ist ein Stein, der fest aussieht. Ich glaube, mir wird schwindelig,
+      wenn ich getroffen werde.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830790618836992
+    m_Localized: Spinnenei des Parasiten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830791373811712
+    m_Localized: "Es gibt Kreaturen auf der Welt, die Eier in den K\xF6rper anderer
+      Kreaturen legen, das ist gruselig!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830934336663552
+    m_Localized: Steinhandschuh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830935255216128
+    m_Localized: Es macht es schwer, aber kraftvoll.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1885416307191808
+    m_Localized: "Rei\xDFzahn der Viper"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1885416856645632
+    m_Localized: "Es sind die Rei\xDFz\xE4hne einer Viper, die noch ein wenig Gift
+      enthalten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912447162019840
+    m_Localized: Eiszapfen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912447686307840
+    m_Localized: Es ist ein kalter und scharfer Eiszapfen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926509505703936
+    m_Localized: Schild-Charme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926510243901440
+    m_Localized: "Es ist ein kleiner Schildzauber, der dich besch\xFCtzt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588068108201984
+    m_Localized: Ausweichzauber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588068687015936
+    m_Localized: "M\xF6chten Sie sicherer rollen? Tragen Sie diesen Charme bei sich."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678880984788992
+    m_Localized: Drittes Auge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678881626517504
+    m_Localized: "Dies sind die Augen derjenigen, die in der Vergangenheit Kampfk\xFCnste
+      gemeistert haben, und Sie k\xF6nnen Erleuchtung erlangen, indem Sie sie einfach
+      halten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2679281805062144
+    m_Localized: "Fu\xDF der Donnerbestie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2679283361148928
+    m_Localized: "Es sind die F\xFC\xDFe einer Bestie, die mit Donner fertig werden
+      kann, und Sie k\xF6nnen das Kribbeln sp\xFCren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3178190558097408
+    m_Localized: Geldtasche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3178191132717056
+    m_Localized: "Es ist eine Tasche mit Geld, wir wissen nicht, wie viel es enth\xE4lt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200255675756544
+    m_Localized: "H\xFChnerbein"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200256254570496
+    m_Localized: "Es ist ein H\xE4hnchenschenkel, von dem Sie sich satt f\xFChlen,
+      wenn Sie hineinbei\xDFen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200496063901696
+    m_Localized: Verlorene Fee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200496579801088
+    m_Localized: ' Er ist eine kleine, machtlose Fee.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3361631631208448
+    m_Localized: Altes Schneckenhaus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3361632205828096
+    m_Localized: Es ist ein Schneckenhaus und sieht sehr robust aus.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374508651999232
+    m_Localized: Dietrich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374557679218688
+    m_Localized: "Nur die H\xE4lfte davon sind effektive Allround-Tasten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379837120966656
+    m_Localized: "Eisw\xFCrfel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379838928711680
+    m_Localized: "Es ist ein St\xFCck Eis, das niemals schmilzt, es ist sehr kalt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3413251240914944
+    m_Localized: Flammennadel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3413251886837760
+    m_Localized: "Es ist ein Niddle, der die Energie des Feuers enth\xE4lt, das dem
+      Feind m\xE4chtige Verbrennungen zuf\xFCgen kann."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3420482908876800
+    m_Localized: Kralle der Donnerbestie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3420483487690752
+    m_Localized: "Es sind die F\xFC\xDFe einer Bestie, die mit Donner fertig werden
+      kann, und Sie k\xF6nnen das Kribbeln sp\xFCren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421718710218752
+    m_Localized: Blutiger Edelstein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421719293227008
+    m_Localized: Es ist ein gieriger, blutiger Edelstein, der sich nach Blut sehnt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422148617990144
+    m_Localized: Das alte Buch des Nekromanten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422149138083840
+    m_Localized: "Es ist ein altes Buch des Nekromanten, das das Wissen enth\xE4lt,
+      den K\xF6rper mit Skeletten wiederzubeleben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423287593824256
+    m_Localized: Kampfhandschuh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423288176832512
+    m_Localized: "Handschuhe, die helfen, feindliche Schw\xE4chen zu erkennen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423907788779520
+    m_Localized: Berserker-Augenklappe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423908384370688
+    m_Localized: Berserker haben keine Angst davor, verletzt zu werden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423984926224384
+    m_Localized: BerserkerHeadBand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423985446318080
+    m_Localized: "Dieses blutige Stirnband f\xFCllt deinen Wahnsinn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424850173390848
+    m_Localized: Bombentasche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424850756399104
+    m_Localized: "Es ist eine Tasche voller Bomben, pass auf, dass du sie nicht fallen
+      l\xE4sst!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424852761276416
+    m_Localized: Trap-Tasche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424853344284672
+    m_Localized: "Es ist eine Tasche voller Fallen, pass auf, dass du sie nicht fallen
+      l\xE4sst!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3425606460928000
+    m_Localized: Oger-Club
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3425606913912832
+    m_Localized: Es ist eine schwere, langweilige, aber kraftvolle Keule.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805341032542208
+    m_Localized: "Vampir-Anh\xE4nger"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805341544247296
+    m_Localized: "Dieser m\xE4chtige Vampir-Anh\xE4nger hat eine enorme Lebensabsorption."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4054562549690368
+    m_Localized: Gebrochener Dirk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4054563069784064
+    m_Localized: "Es muss t\xF6dlich gewesen sein, bevor es kaputt ging."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103413557620736
+    m_Localized: Griffin-Feder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103414132240384
+    m_Localized: Diese Feder wird Sie jedes Mal mit Energie versorgen, wenn Ihr Level
+      steigt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17849768583524352
+    m_Localized: "Verteidigung um 10 % erh\xF6ht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17850776646742016
+    m_Localized: "Angriffsgeschwindigkeit um 10 % erh\xF6ht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851438470164480
+    m_Localized: "Maximale HP um 20 erh\xF6ht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851662399860736
+    m_Localized: "5 % erh\xF6hte kritische Trefferchance"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851817232592896
+    m_Localized: "Erh\xF6ht Verteidigung um 10 % MAX HP um 10 %"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17852410307178496
+    m_Localized: "Erh\xF6ht Angriffsgeschwindigkeit um 10 % Kritische Trefferchance
+      um 5 %"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17852640339587072
+    m_Localized: "Beschw\xF6re Kristalle, um den Kampf zu unterst\xFCtzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853063674884096
+    m_Localized: "Beschw\xF6re Kristalle, um den Kampf zu unterst\xFCtzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853113314471936
+    m_Localized: "Beschw\xF6re Kristalle, um den Kampf zu unterst\xFCtzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853207870861312
+    m_Localized: "Ein Schild, das um 30 % der maximalen Gesundheit aufgeladen ist,
+      l\xE4dt sich alle 5 Sekunden um 5 auf"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853979845095424
+    m_Localized: "Bewegungsgeschwindigkeit um 10 % erh\xF6ht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854370561290240
+    m_Localized: "Maximale Ausdauer um 20 % erh\xF6ht Ausdauerwiederherstellungsgeschwindigkeit
+      um 10 % erh\xF6ht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854585875886080
+    m_Localized: "Bewegungsgeschwindigkeit um 10 % verringert Angriffskraft um 10
+      % erh\xF6ht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854784492957696
+    m_Localized: "Angriffskraft um 10 % erh\xF6ht. Chance von 20 %, beim Angriff
+      die Bewegungsgeschwindigkeit des Feindes f\xFCr 3 Sekunden um 30 % zu verringern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855535785078784
+    m_Localized: "Verteidigung um 5 erh\xF6ht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855661001830400
+    m_Localized: "20 % l\xE4ngere Roll-Unbesiegbarkeitszeit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855955441971200
+    m_Localized: "\r30 % erh\xF6hte Ausweichchance"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17856092251779072
+    m_Localized: "M\xFCnze zuf\xE4llig bekommen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857053523341312
+    m_Localized: "Maximale HP um 20 erh\xF6ht. Stellt 50 % der HP wieder her"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857384680419328
+    m_Localized: "Beschw\xF6re eine Fee, die dich im Kampf unterst\xFCtzt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857718207279104
+    m_Localized: "\r50 % mehr Angriffskraft\r Kritische Treffer werden nicht ausgel\xF6st"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17858156512047104
+    m_Localized: "10 % Chance, den Feind beim Angriff 2 Sekunden lang zu bet\xE4uben"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859023252385792
+    m_Localized: Beim Angriff besteht eine Chance von 10 %, den Feind 6 Sekunden
+      lang zu vergiften
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859545615200256
+    m_Localized: "20 % Chance, Gegnern in der N\xE4he beim Angriff zus\xE4tzlichen
+      Schaden zuzuf\xFCgen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859846363574272
+    m_Localized: "\rErh\xF6ht die kritische Trefferchance beim Angriff 10 Sekunden
+      lang um 1 %"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860223557332992
+    m_Localized: "Erh\xF6ht die Angriffsgeschwindigkeit beim Angriff 10 Sekunden
+      lang um 1 %"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860464301993984
+    m_Localized: 25% Chance, beim Angriff HP um 1 % der max. HP wiederherzustellen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860753960628224
+    m_Localized: "Zus\xE4tzlicher Schaden f\xFCr alle 7 Angriffe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861456917590016
+    m_Localized: Bei einem Treffer besteht eine Chance von 50 %, den Feind 3 Sekunden
+      lang zu verbrennen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861731170545664
+    m_Localized: Chance von 50 %, Feinde beim Angriff 3 Sekunden lang zu verlangsamen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861953338634240
+    m_Localized: "30 % Chance, Gegnern in der N\xE4he Schaden zuzuf\xFCgen, wenn
+      sie angegriffen werden"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862229927817216
+    m_Localized: "3 Ladungen auf einen Schild, der bis zu 50 aufl\xE4dt, wenn Sie
+      einen Feind t\xF6ten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862381434466304
+    m_Localized: "50 % Chance, eine Spinne zu beschw\xF6ren, um den Kampf zu unterst\xFCtzen,
+      wenn ein Feind get\xF6tet wird"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862616655228928
+    m_Localized: "Erhalte 3 Gesundheit, wenn du einen Feind t\xF6test"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862685760581632
+    m_Localized: "30 % Chance, ein Skelett zu beschw\xF6ren, um den Kampf zu unterst\xFCtzen,
+      wenn ein Feind get\xF6tet wird"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862848705097728
+    m_Localized: "Beschw\xF6rt bei jedem Wurf eine Bombe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862972164435968
+    m_Localized: "Beschw\xF6rt bei jedem Wurf eine Falle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17868589465759744
+    m_Localized: "Erh\xF6ht Verteidigung um 15, wenn HP weniger als 30 % betr\xE4gt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17869545859346432
+    m_Localized: "50%ige Chance, bei Verwendung eines Schl\xFCssels keinen Schl\xFCssel
+      zu verbrauchen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17869692223778816
+    m_Localized: Verbrennt den Feind bei einem kritischen Treffer 3 Sekunden lang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17870936170459136
+    m_Localized: "Erh\xF6ht den Schaden um 50 %, wenn HP weniger als 50 % betr\xE4gt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17871808761851904
+    m_Localized: Stellt beim Levelaufstieg alle HP wieder her
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

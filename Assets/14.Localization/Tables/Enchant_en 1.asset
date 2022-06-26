@@ -1,0 +1,323 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Enchant_en 1
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 763e0beb1543a3d4aa77e096b38e1fa4, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 162030055424
+    m_Localized: Damage Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399289249792
+    m_Localized: Attack Speed Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 577186459648
+    m_Localized: Leech Life
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696950616064
+    m_Localized: Slow Down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753242370048
+    m_Localized: Binding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 790798168064
+    m_Localized: Poisoning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 863091191808
+    m_Localized: Burn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 911216635904
+    m_Localized: Stun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 949690986496
+    m_Localized: ElectricShock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1021392613376
+    m_Localized: Plunder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069450948608
+    m_Localized: Increase Critical Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1158437302272
+    m_Localized: Wide Attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1233330794496
+    m_Localized: Double Shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1282861330432
+    m_Localized: Penetrate Shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344194637824
+    m_Localized: Assassination
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428168798208
+    m_Localized: Sturdy Shield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490617790464
+    m_Localized: Defense Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1556984262656
+    m_Localized: Max Health Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1714132250624
+    m_Localized: Max Stamina Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1785229897728
+    m_Localized: Max Mana Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1861864026112
+    m_Localized: Quick Sneak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1929287462912
+    m_Localized: Berserker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986602627072
+    m_Localized: Mana Recovery Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2031418765312
+    m_Localized: Thorn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2099693645824
+    m_Localized: Frost Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2147391270912
+    m_Localized: Move Speed Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2186306023424
+    m_Localized: sneak Move Speed Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270066937856
+    m_Localized: Increase Damage {value3}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 521754537984
+    m_Localized: Increase Attack Speed {value3}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 652323221504
+    m_Localized: 'When kill enemy recover HP as much as {value1} '
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 730018508800
+    m_Localized: Reduced enemy movement speed by {value3}% with a {value4}% chance
+      of enemy attack.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 777472864256
+    m_Localized: Binding enemy {value1} second with a {value2}% chance of when you
+      attack enemy.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 843323437056
+    m_Localized: "\rWhen attacking an enemy, there is a {value3}% chance to poison
+      the enemy for {value2} seconds, dealing {value1} damage every {value4} seconds."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 895227949056
+    m_Localized: "\rWhen attacking an enemy, there is a {value3}% chance to burn
+      the enemy for {value2} seconds, dealing {value1} damage every {value4} seconds."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 936143384576
+    m_Localized: "\rWhen attacking an enemy, there is a {value3}% chance to stun
+      the enemy for {value1} seconds"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 998248443904
+    m_Localized: 
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1050488500224
+    m_Localized: "\rIncreases the amount of money dropped by enemies by {value1}%
+      when you kill them."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1133397307392
+    m_Localized: Increase Critical Chance {value3}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1214250905600
+    m_Localized: When attacking an enemy, there is a {Percent}% chance to inflict
+      an area attack equal to {Value}% on nearby enemies.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1265119424512
+    m_Localized: When firing an arrow, there is a {value3}% chance to fire one more
+      arrow.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1318806515712
+    m_Localized: When attacking, there is a {value3}% chance to fire an arrow that
+      pierces the enemy.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1398410211328
+    m_Localized: Back attack damage increased by {value3}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1468694163456
+    m_Localized: "\rIncreases shield defense by {value3}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1530061025280
+    m_Localized: Increases defense by {value3}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1674437357568
+    m_Localized: Increases maximum HP by {value3}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1746474528768
+    m_Localized: Increases maximum stamina by {value3}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1785791934464
+    m_Localized: Increases maximum mana by {value1}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1893111590912
+    m_Localized: Sneak speed increased by {value1}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1963122913280
+    m_Localized: "\rIncreases Rage gained from attacking enemies by {value1}%."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1989660274688
+    m_Localized: Increase Mana recovery {value1} for second
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2035285913600
+    m_Localized: When attacked by an enemy, there is reflect {value3}% of my attack
+      damage to the attacked enemy
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2101472030720
+    m_Localized: Creates Frost armor that charges up to {Value}, which charges at
+      {Percent} per {Time}second.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2147580014592
+    m_Localized: Movement speed increased by {value3}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2188789051392
+    m_Localized: Increases movement speed while stealth by {value3}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 35523869238259712
+    m_Localized: AttackAbsorption
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35523952000266240
+    m_Localized: Increases Rage gain by {value1} when defending with a shield
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 35536765720621056
+    m_Localized: Gain {value1} mana when you kill an enemy.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 35536742542897152
+    m_Localized: ManaDrain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43649852537466880
+    m_Localized: Decrese Defense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44036554422644736
+    m_Localized: When attacking an enemy, there is a {value3}% chance to decrease
+      the enemy's defense by {value2}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 47151496021569536
+    m_Localized: Mana recovery speed increased
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47151523552980992
+    m_Localized: Increases mana recovery rate by {value1}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 50726734927917056
+    m_Localized: Recover {value1} mana when you kill an enemy.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00703ee13e0000000070fe7a7900000000707ee19700000000707ef8a90000000070fe04b50000000070fe59c40000000070be6fd000000000707ef6d900000000703e6ce80000000070fe95f40000000070bee3070100000070feb61a0100000070fe8e260100000070fe0e330100000070be97450100000070fef4550100000070be3e6401000000703edc850100000070fea19601000000707ec99f01000000703ec6b801000000703e13c90100000070fe40cf01000000707ee0d901000000707e49e90100000070be05f40100000070fe9dfd0100000070fe9bd8347e0000703e0980407e0000707e4f03739c000070fe930f84a7000070fe57b237b400

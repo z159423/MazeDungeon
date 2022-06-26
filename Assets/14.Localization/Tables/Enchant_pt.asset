@@ -1,0 +1,323 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Enchant_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 763e0beb1543a3d4aa77e096b38e1fa4, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 270066937856
+    m_Localized: Aumentar o Dano {value3}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 521754537984
+    m_Localized: Aumente a velocidade de ataque {value3}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 652323221504
+    m_Localized: ' Ao matar o inimigo, recupere HP tanto quanto {value1}'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 730018508800
+    m_Localized: Reduzimos a velocidade de movimento do inimigo em {value3}% com
+      uma chance de {value4}% de ataque inimigo.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 777472864256
+    m_Localized: "Vinculando o inimigo {value1} segundo com uma chance de {value2}%
+      de quando voc\xEA atacar o inimigo."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 843323437056
+    m_Localized: "\rAo atacar um inimigo, h\xE1 uma chance de {value3}% de envenenar
+      o inimigo por {value2} segundos, causando {value1} dano a cada {value4} segundos."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 895227949056
+    m_Localized: "\rAo atacar um inimigo, h\xE1 uma chance de {value3}% de queimar
+      o inimigo por {value2} segundos, causando {value1} dano a cada {value4} segundos."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 936143384576
+    m_Localized: "\rAo atacar um inimigo, h\xE1 uma chance de {value3}% de atordoar
+      o inimigo por {value1} segundos"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 998248443904
+    m_Localized: 
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1050488500224
+    m_Localized: "\rAumenta a quantidade de dinheiro deixada pelos inimigos em {value1}%
+      quando voc\xEA os mata."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1133397307392
+    m_Localized: "Aumentar a chance cr\xEDtica {value3}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1214250905600
+    m_Localized: "Ao atacar um inimigo, h\xE1 uma chance de {Percent}% de infligir
+      um ataque de \xE1rea igual a {Value}% em inimigos pr\xF3ximos."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1265119424512
+    m_Localized: "Ao disparar uma flecha, h\xE1 uma chance de {value3}% de disparar
+      mais uma flecha."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1318806515712
+    m_Localized: "Ao atacar, h\xE1 uma chance de {value3}% de disparar uma flecha
+      que perfura o inimigo."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1398410211328
+    m_Localized: Dano de ataque pelas costas aumentado em {value3}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1468694163456
+    m_Localized: "\rAumenta a defesa do escudo em {value3}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1530061025280
+    m_Localized: Aumenta a defesa em {value3}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1674437357568
+    m_Localized: "Aumenta o HP m\xE1ximo em {value3}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1746474528768
+    m_Localized: "Aumenta a resist\xEAncia m\xE1xima em {value3}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1785791934464
+    m_Localized: "Aumenta o m\xE1ximo de mana em {value1}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1893111590912
+    m_Localized: Velocidade de fuga aumentada em {value1}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1963122913280
+    m_Localized: "\rAumenta a F\xFAria obtida ao matar inimigos em {value1}%."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1989660274688
+    m_Localized: "Aumente a recupera\xE7\xE3o de Mana {value1} por segundo"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2035285913600
+    m_Localized: Quando atacado por um inimigo, reflete {value3}% do meu dano de
+      ataque ao inimigo atacado
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2101472030720
+    m_Localized: "Cria uma armadura de Gelo que carrega at\xE9 {Value}, que carrega
+      {Percent} por {Time}segundo."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2147580014592
+    m_Localized: Velocidade de movimento aumentada em {value3}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2188789051392
+    m_Localized: Aumenta a velocidade de movimento enquanto furtivo em {value3}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 35523952000266240
+    m_Localized: "Aumenta o ganho de F\xFAria em {value1} ao defender com um escudo"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 35536765720621056
+    m_Localized: Ganhe {value1} mana ao matar um inimigo.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 162030055424
+    m_Localized: Aumento de dano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399289249792
+    m_Localized: Aumento da velocidade de ataque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 577186459648
+    m_Localized: Vida de sanguessuga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696950616064
+    m_Localized: Desacelerar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753242370048
+    m_Localized: Vinculativo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 790798168064
+    m_Localized: Envenenamento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 863091191808
+    m_Localized: Queimar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 911216635904
+    m_Localized: Atordoar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 949690986496
+    m_Localized: "Choque el\xE9trico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1021392613376
+    m_Localized: Pilhagem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069450948608
+    m_Localized: "Aumentar a chance cr\xEDtica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1158437302272
+    m_Localized: Ataque Amplo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1233330794496
+    m_Localized: Tiro duplo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1282861330432
+    m_Localized: Tiro penetrante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344194637824
+    m_Localized: Assassinato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428168798208
+    m_Localized: Escudo Resistente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490617790464
+    m_Localized: Aumento de Defesa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1556984262656
+    m_Localized: "Aumento m\xE1ximo de sa\xFAde"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1714132250624
+    m_Localized: "Aumento m\xE1ximo de resist\xEAncia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1785229897728
+    m_Localized: "Aumento M\xE1ximo de Mana"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1861864026112
+    m_Localized: "Espreitadela R\xE1pida"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1929287462912
+    m_Localized: Berserker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986602627072
+    m_Localized: "Aumento de Recupera\xE7\xE3o de Mana"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2031418765312
+    m_Localized: Espinho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2099693645824
+    m_Localized: Armadura de Gelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2147391270912
+    m_Localized: Aumento de velocidade de movimento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2186306023424
+    m_Localized: Aumento de velocidade de movimento furtivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35523869238259712
+    m_Localized: "Absor\xE7\xE3o de Ataque"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35536742542897152
+    m_Localized: Drenagem de mana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44036554422644736
+    m_Localized: "Ao atacar um inimigo, h\xE1 uma chance de {value3}% de diminuir
+      a defesa do inimigo em {value2}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 43649852537466880
+    m_Localized: "diminui\xE7\xE3o da defesa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47151523552980992
+    m_Localized: "Aumenta a taxa de recupera\xE7\xE3o de mana em {value1}%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 47151496021569536
+    m_Localized: "Velocidade de recupera\xE7\xE3o de mana aumentada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50726734927917056
+    m_Localized: Recupere {value1} mana ao matar um inimigo.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00703ee13e0000000070fe7a7900000000707ee19700000000707ef8a90000000070fe04b50000000070fe59c40000000070be6fd000000000707ef6d900000000703e6ce80000000070fe95f40000000070bee3070100000070feb61a0100000070fe8e260100000070fe0e330100000070be97450100000070fef4550100000070be3e6401000000703edc850100000070fea19601000000707ec99f01000000703ec6b801000000703e13c90100000070fe40cf01000000707ee0d901000000707e49e90100000070be05f40100000070fe9dfd0100000070fe9bd8347e0000703e0980407e0000707e4f03739c000070fe930f84a7000070fe57b237b400

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c99bda905a5b314194a2595c2909c62, type: 3}
+  m_Name: Stun
+  m_EditorClassIdentifier: 
+  enchants:
+    enchantType: 7
+    EnchantCurrentLevel: 0
+    EnchantMaxLevel: 3
+  value1:
+    name: endtime
+    element:
+    - value: 1
+    - value: 1
+    - value: 1
+  value2:
+    name: realPercent
+    element:
+    - value: 0.05
+    - value: 0.1
+    - value: 0.15
+  value3:
+    name: visiblePercent
+    element:
+    - value: 5
+    - value: 10
+    - value: 15
+  value4:
+    name: valueName
+    element:
+    - value: 0
+    - value: 0
+    - value: 0
+  value5:
+    name: valueName
+    element:
+    - value: 0
+    - value: 0
+    - value: 0

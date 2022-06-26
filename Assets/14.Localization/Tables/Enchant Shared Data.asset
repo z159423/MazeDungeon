@@ -1,0 +1,280 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Enchant Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Enchant
+  m_TableCollectionNameGuidString: 763e0beb1543a3d4aa77e096b38e1fa4
+  m_Entries:
+  - m_Id: 162030055424
+    m_Key: Name.DamageIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270066937856
+    m_Key: Explanation.DamageIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399289249792
+    m_Key: Name.AttackSpeedIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 521754537984
+    m_Key: Explanation.AttackSpeedIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 577186459648
+    m_Key: Name.LeechLife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652323221504
+    m_Key: Explanation.LeechLife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696950616064
+    m_Key: Name.SlowDown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 730018508800
+    m_Key: Explanation.SlowDown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753242370048
+    m_Key: Name.Binding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 777472864256
+    m_Key: Explanation.Binding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 790798168064
+    m_Key: Name.Poisoning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 843323437056
+    m_Key: Explanation.Poisoning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 863091191808
+    m_Key: Name.Burn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 895227949056
+    m_Key: Explanation.Burn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 911216635904
+    m_Key: Name.Stun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 936143384576
+    m_Key: Explanation.Stun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 949690986496
+    m_Key: Name.ElectricShock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 998248443904
+    m_Key: Explanation.ElecticShock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1021392613376
+    m_Key: Name.Plunder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050488500224
+    m_Key: Explanation.Plunder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069450948608
+    m_Key: Name.IncreaseCriticalChance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1133397307392
+    m_Key: Explanation.IncreaseCriticalChance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1158437302272
+    m_Key: Name.WideAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1214250905600
+    m_Key: Explanation.WideAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1233330794496
+    m_Key: Name.DoubleShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1265119424512
+    m_Key: Explanation.DoubleShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1282861330432
+    m_Key: Name.PenetrateShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1318806515712
+    m_Key: Explanation.PenetrateShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344194637824
+    m_Key: Name.Assassination
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1398410211328
+    m_Key: Explanation.Assassination
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428168798208
+    m_Key: Name.SturdyShield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1468694163456
+    m_Key: Explanation.SturdyShield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490617790464
+    m_Key: Name.ArmorIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530061025280
+    m_Key: Explanation.ArmorIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1556984262656
+    m_Key: Name.MaxHealthIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1674437357568
+    m_Key: Explanation.MaxHealthIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1714132250624
+    m_Key: Name.MaxStaminaIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1746474528768
+    m_Key: Explanation.MaxStaminaIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1785229897728
+    m_Key: Name.MaxManaIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1785791934464
+    m_Key: Explanation.MaxManaIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1861864026112
+    m_Key: Name.QuickStealth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1893111590912
+    m_Key: Explanation.QuickStealth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1929287462912
+    m_Key: Name.Berserker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1963122913280
+    m_Key: Explanation.Berserker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986602627072
+    m_Key: Name.ManaRecoveryIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1989660274688
+    m_Key: Explanation.ManaRecoveryIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2031418765312
+    m_Key: Name.Thorn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2035285913600
+    m_Key: Explanation.Thorn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2099693645824
+    m_Key: Name.FrostArmor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2101472030720
+    m_Key: Explanation.FrostArmor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2147391270912
+    m_Key: Name.MoveSpeedIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2147580014592
+    m_Key: Explanation.MoveSpeedIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2186306023424
+    m_Key: Name.sneakMoveSpeedIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188789051392
+    m_Key: Explanation.sneakMoveSpeedIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35523869238259712
+    m_Key: Name.AttackAbsorption
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35523952000266240
+    m_Key: Explanation.AttackAbsorption
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35536742542897152
+    m_Key: Name.ManaDrain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35536765720621056
+    m_Key: Explanation.DanaDrain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43649852537466880
+    m_Key: Name.DecreaseDefense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44036554422644736
+    m_Key: Explanation.DecreaseDefense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47151496021569536
+    m_Key: Name.ManaRecoverySpeedIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47151523552980992
+    m_Key: Explanation.ManaRecoverySpeedIncrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50726734927917056
+    m_Key: Explanation.ManaDrain
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1638834772164

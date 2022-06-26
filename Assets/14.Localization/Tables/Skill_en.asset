@@ -1,0 +1,423 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Skill_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: cd6437555d7d5c24488d33b1998f0ec6, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 3797728260096
+    m_Localized: WhirlWind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3656589930496
+    m_Localized: Smite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3729000394752
+    m_Localized: SkullSmash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3878439251968
+    m_Localized: ShieldBlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3689527799808
+    m_Localized: ShieldBash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3937285337088
+    m_Localized: Shield Reflect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3768141639680
+    m_Localized: Maimed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4270896082944
+    m_Localized: Hit the sword to damage as much as the AttackDamage * {DM1}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5040638947328
+    m_Localized: Attack the enemy with a shield, damage as much as attack damage
+      * {DM1}% and stun for {BT1} seconds.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5485084176384
+    m_Localized: Cut the enemy's tendon with a sword to damage as much as the attack
+      damage * {DM1}% and cripple the enemy for {BT1} seconds.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 8577896837120
+    m_Localized: CoolTime {coolTime}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 8530635419648
+    m_Localized: Skill Level {skillLevel}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 7806618857472
+    m_Localized: Rage {Rage}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 7751056912384
+    m_Localized: Mana {Mana}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 43184398692352
+    m_Localized: You can block enemy attacks and projectiles with your shield. Upon
+      successful defense, gain {value1} Rage.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 44459437748224
+    m_Localized: Leap forward and attack the enemy with a shield, damaging them by
+      * {DM1}% and stun them by {BT1} seconds.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 145950970376192
+    m_Localized: Spinning for 5 seconds, periodically damage to nearby enemies as
+      much as attack damage * {DM1}% and reducing damage by 50%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 177887659323392
+    m_Localized: Sneak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177933947662336
+    m_Localized: PoisonJab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177984929427456
+    m_Localized: ShockBomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178108980162560
+    m_Localized: BearTrap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178159282450432
+    m_Localized: Knife Throwing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178247811624960
+    m_Localized: ExplosionTrap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178580327657472
+    m_Localized: You can hide from the enemy. The enemy can't detect you when the
+      sneakGague is over 70%. Attacking an enemy in a sneak state damages as much
+      as AttackDamage * {DM1}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 179367556575232
+    m_Localized: Poison the dagger to attack the enemy, damaging it as much as AttackDamage
+      * {DM1}%, and poisoning the enemy for {BT1} seconds, dealing {BD1} damage every
+      {BRT1} seconds.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 179707404251136
+    m_Localized: Throw a bomb and Stun the enemies around bomb for {BT1} seconds.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 180103535292416
+    m_Localized: 'Install bearTrap on the floor to damage enemies who trap by AttackDamage
+      * {DM1}% and Stun them for {BT1} seconds.
+
+      A maximum of {value1} can
+      be installed."'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 180379570827264
+    m_Localized: Throws a poisoned Knife, dealing AttackDamage * {DM1}% of the hit
+      enemy and poisoning the enemy for {BT1} seconds, dealing {BD1} damage every
+      {BRT1} seconds.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 181097874747392
+    m_Localized: PoisonBomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188182142283776
+    m_Localized: BackAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188209258459136
+    m_Localized: Attacking from behind the enemy causes {value1}% times more damage.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 223377809633280
+    m_Localized: Flame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223378971455488
+    m_Localized: FireBall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223381047635968
+    m_Localized: IceSpear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223382918295552
+    m_Localized: LightingOrb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223395350212608
+    m_Localized: IceShield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180576380153856
+    m_Localized: Install traps that cause explosions that damage the surrounding
+      enemies by AttackDamage * {DM1}% when stepped on.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 369744171397120
+    m_Localized: Multi Shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369826786603008
+    m_Localized: ChargingShot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369876661071872
+    m_Localized: Continuous Firing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369916716675072
+    m_Localized: Steel Arrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369977446002688
+    m_Localized: Poison Arrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370003941421056
+    m_Localized: Explosion Arrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371235972083712
+    m_Localized: BackStep Shoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371740421025792
+    m_Localized: Fires {value1} arrows at once.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 371865088323584
+    m_Localized: When fully charged, increases damage by {DM1}% and fires an arrow
+      that pierces the enemy.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 372474461974528
+    m_Localized: "\rFires {value1} arrows quickly."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 372657996328960
+    m_Localized: Loads {value1} arrows that increase damage by {DM1}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 372952109314048
+    m_Localized: "\rLoads {value1} arrows that poison the enemy on hit."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 373065464573952
+    m_Localized: Loads {value1} arrows that explode when it collides that deal damage
+      {DM1}% AttackDamage to nearby enemies.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 373365063708672
+    m_Localized: "\rFires arrows while leaping backwards."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450611489173504
+    m_Localized: Kick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754489963212800
+    m_Localized: Fire flames forward, Dealing AttackDamage * {DM1}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2331896465747968
+    m_Localized: Super Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2331926496964608
+    m_Localized: Increases defense by {value1} for {value2} seconds and becomes stunned
+      and slowed immune.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2350265894072320
+    m_Localized: CoupDeGrace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2350292158803968
+    m_Localized: Consumes all of your rage to create a powerful explosion in front
+      of you, dealing damage ATK * {DM1}% and the amount of Rage consumed.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2357522526531584
+    m_Localized: 'When blocking an enemy projectile with a shield, there is a {value1}%
+      chance to reflect it.
+
+      Reflected projectiles deal {DM1}% more damage.
+
+      Shield
+      strength increased by {value3}.'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2378688981004288
+    m_Localized: Quick Shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2378832195514368
+    m_Localized: increse Attack Speed {value1}%
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2986222985048064
+    m_Localized: Magic Arrow Spray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2986343835529216
+    m_Localized: Fires {value1} magic arrows equal to {DM1}% of attack damage.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2996863221264384
+    m_Localized: MagicBomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996894946979840
+    m_Localized: 'Throws a Magic bomb that deals damage * {DM1}%.
+
+      Enemies
+      hit are stunned for {BT1} seconds.'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3047442488389632
+    m_Localized: 'Creates a poison cloud at the location of the bomb, dealing {DM1}%
+      of AttackDamage per 1 seconds to enemies entering the cloud and poisoning the
+      enemy for {BT1} seconds, dealing {BD1} damage every {BRT1} seconds.
+
+      Clouds
+      last {value3} seconds.'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3066003055341568
+    m_Localized: "\rFires {value1} ice spears, dealing {DM1}% of AttackDamage to
+      enemies hit and slowed them for {BT1} seconds."
+    m_Metadata:
+      m_Items:
+      - id: 1
+      - id: 0
+  - m_Id: 3070537756471296
+    m_Localized: Summons an ice shield that blocks {value1} damage. Shield lasts
+      {value2} seconds.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3295838151274496
+    m_Localized: Kicks the enemy, dealing {DM1}% of AttackDamage and stunning them
+      for {BT1} seconds.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3363505377800192
+    m_Localized: Fires an exploding fireball, dealing {DM1}% of AttackDamage to nearby
+      enemies and inflicting burns, dealing {BD1} damage every {BRT1} seconds for
+      {BT1} seconds.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3384945384779776
+    m_Localized: 'Fires a lightning orb forward.
+
+      The orb moves forward slowly,
+      dealing damage  {DM1}% of AttackDamage every {value3} seconds to up to {value2}
+      nearby enemies.'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5606210292051968
+    m_Localized: Flame Explosion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5606210858283008
+    m_Localized: Creates a flame explosion in front, dealing damag {DM1}% of AttackDamage,
+      stunning the enemy for {BT1} seconds and burning for {BT2} seconds, dealing
+      {BD2} damage for {BRT2} seconds.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5679872697331712
+    m_Localized: OverCharge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5682296602390528
+    m_Localized: Becomes overcharged, increasing mana regeneration by {value2}% for
+      {value1} seconds.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 14602029674426368
+    m_Localized: Shock Wave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20240379756310528
+    m_Localized: Slams the shield with a sword, creating a shockwave forward. The
+      shock wave dealing AttackDamage * {DM1}% of the hit enemy, stuns them for {BT1}
+      seconds and reduces their Defense by {B2value2} for {BT2} seconds.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00703e65e203000000707e9d9504000000707e18fd04000000707e32cd07000000707e31c20700000070be9e190700000070feae0c0700000070fe846f2800000070bedbbd8400000070fef86aa2000000707e4322a300000070fe6371a3000000703e9fcda3000000703ee40da400000070fee12cab00000070be8f1852010000707e96355201000070fe77c352010000707e33ee5201000070fead3253010000707e124d53010000703e6234ae020000707ef2df48080000703e09945908000070be7c276008000070fe078973080000707e5b109c0a000070befaa8a50a000070fefea1d30a000070feb63ba400000070fe7683e40a0000703e48a3e80a0000703e1e8cb50b000070fe60f0f20b0000703e1f17f30b0000703e0397060c000070beaed1ea130000707ec6043014000070bea64627000000707ea584e84700
+    00000001:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 

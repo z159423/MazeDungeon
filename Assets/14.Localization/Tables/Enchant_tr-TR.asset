@@ -1,0 +1,331 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Enchant_tr-TR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr-TR
+  m_SharedData: {fileID: 11400000, guid: 763e0beb1543a3d4aa77e096b38e1fa4, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 270066937856
+    m_Localized: "Hasar\u0131 %{value3} art\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 521754537984
+    m_Localized: "Sald\u0131r\u0131 H\u0131z\u0131n\u0131 %{value3} Artt\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 652323221504
+    m_Localized: " D\xFC\u015Fman\u0131 \xF6ld\xFCrd\xFC\u011F\xFCn\xFCzde {value1}
+      kadar HP yenileyin"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 730018508800
+    m_Localized: "D\xFC\u015Fman sald\u0131r\u0131s\u0131 olas\u0131l\u0131\u011F\u0131
+      %{value4} olan d\xFC\u015Fman hareket h\u0131z\u0131 %{value3} azalt\u0131ld\u0131."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 777472864256
+    m_Localized: "D\xFC\u015Fmana sald\u0131rma ihtimaliniz %{value2} olacak \u015Fekilde
+      d\xFC\u015Fman\u0131 {value1} saniye ba\u011Flar."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 843323437056
+    m_Localized: "\rBir d\xFC\u015Fmana sald\u0131r\u0131rken, d\xFC\u015Fman\u0131
+      {value2} saniye boyunca zehirlemek ve her {value4} saniyede bir {value1} hasar
+      vermek i\xE7in %{value3} \u015Fans vard\u0131r."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 895227949056
+    m_Localized: "\rBir rakibe sald\u0131r\u0131rken, d\xFC\u015Fman\u0131 {value2}
+      saniye boyunca yakmak i\xE7in %{value3} \u015Fans vard\u0131r ve her {value4}
+      saniyede bir {value1} hasar verir."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 936143384576
+    m_Localized: "\rBir d\xFC\u015Fmana sald\u0131r\u0131rken, d\xFC\u015Fman\u0131
+      {value1} saniye boyunca sersemletmek i\xE7in %{value3} \u015Fans vard\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 998248443904
+    m_Localized: 
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1050488500224
+    m_Localized: "\rD\xFC\u015Fmanlar\u0131 \xF6ld\xFCrd\xFC\u011F\xFCn\xFCzde b\u0131rakt\u0131\u011F\u0131n\u0131z
+      para miktar\u0131n\u0131 %{value1} art\u0131r\u0131r."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1133397307392
+    m_Localized: "Kritik \u015Eans\u0131 %{value3} Artt\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1214250905600
+    m_Localized: "Bir d\xFC\u015Fmana sald\u0131r\u0131rken, yak\u0131ndaki d\xFC\u015Fmanlara
+      %{Value} e\u015Fit bir alan sald\u0131r\u0131s\u0131 uygulamak i\xE7in %{Percent}
+      \u015Fans vard\u0131r."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1265119424512
+    m_Localized: "Ok atarken, bir ok daha atmak i\xE7in %{value3} \u015Fans vard\u0131r."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1318806515712
+    m_Localized: "Sald\u0131r\u0131rken, d\xFC\u015Fman\u0131 delip ge\xE7en bir
+      ok atmak i\xE7in %{value3} \u015Fans vard\u0131r."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1398410211328
+    m_Localized: "Geri sald\u0131r\u0131 hasar\u0131 %{value3} artt\u0131r\u0131ld\u0131"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1468694163456
+    m_Localized: "\rKalkan savunmas\u0131n\u0131 %{value3} art\u0131r\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1530061025280
+    m_Localized: "Savunmay\u0131 %{value3} art\u0131r\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1674437357568
+    m_Localized: "Maksimum HP'yi %{value3} art\u0131r\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1746474528768
+    m_Localized: "Maksimum dayan\u0131kl\u0131l\u0131\u011F\u0131 %{value3} artt\u0131r\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1785791934464
+    m_Localized: "Maksimum manay\u0131 %{value1} artt\u0131r\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1893111590912
+    m_Localized: "Gizli h\u0131z %{value1} art\u0131r\u0131ld\u0131"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1963122913280
+    m_Localized: "\rD\xFC\u015Fmanlar\u0131 \xF6ld\xFCrmekten kazan\u0131lan \xD6fkeyi
+      %{value1} art\u0131r\u0131r."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1989660274688
+    m_Localized: "Mana kazan\u0131m\u0131n\u0131 {value1} saniyeli\u011Fine art\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2035285913600
+    m_Localized: "Bir d\xFC\u015Fman taraf\u0131ndan sald\u0131r\u0131ya u\u011Frad\u0131\u011F\u0131nda,
+      sald\u0131r\u0131 hasar\u0131m\u0131n %{value3} kadar\u0131 sald\u0131r\u0131ya
+      u\u011Frayan d\xFC\u015Fmana yans\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2101472030720
+    m_Localized: "{Value} de\u011Ferine kadar \u015Farj olan ve {Time}saniyede {Percent}
+      oran\u0131nda \u015Farj olan Frost z\u0131rh\u0131 olu\u015Fturur."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2147580014592
+    m_Localized: "Hareket h\u0131z\u0131 %{value3} art\u0131r\u0131ld\u0131"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2188789051392
+    m_Localized: "Gizliyken hareket h\u0131z\u0131n\u0131 %{value3} art\u0131r\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 35523952000266240
+    m_Localized: "Kalkanla savunurken \xD6fke kazan\u0131m\u0131n\u0131 {value1}
+      art\u0131r\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 35536765720621056
+    m_Localized: "Bir d\xFC\u015Fman\u0131 \xF6ld\xFCrd\xFC\u011F\xFCn\xFCzde {value1}
+      mana kazan\u0131n."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 162030055424
+    m_Localized: "Hasar art\u0131\u015F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399289249792
+    m_Localized: "Sald\u0131r\u0131 H\u0131z\u0131 Art\u0131\u015F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 577186459648
+    m_Localized: "Tembel ya\u015Fam"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696950616064
+    m_Localized: "Yava\u015Fla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753242370048
+    m_Localized: "ba\u011Flama"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 790798168064
+    m_Localized: zehirlenme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 863091191808
+    m_Localized: Yakmak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 911216635904
+    m_Localized: sersemletme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 949690986496
+    m_Localized: "Elektrik \u015Foku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1021392613376
+    m_Localized: "ya\u011Fma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069450948608
+    m_Localized: "Kritik \u015Eans\u0131 Art\u0131r\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1158437302272
+    m_Localized: "Geni\u015F Sald\u0131r\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1233330794496
+    m_Localized: "\xC7ift vuru\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1282861330432
+    m_Localized: "n\xFCfuz at\u0131\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344194637824
+    m_Localized: suikast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428168798208
+    m_Localized: "Sa\u011Flam Kalkan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490617790464
+    m_Localized: "Savunma Art\u0131\u015F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1556984262656
+    m_Localized: "Maksimum Sa\u011Fl\u0131k Art\u0131\u015F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1714132250624
+    m_Localized: "Maksimum Dayan\u0131kl\u0131l\u0131k Art\u0131\u015F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1785229897728
+    m_Localized: "Maksimum Mana Art\u0131\u015F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1861864026112
+    m_Localized: "h\u0131zl\u0131 gizlice"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1929287462912
+    m_Localized: "\xE7\u0131lg\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986602627072
+    m_Localized: "Mana Yenileme Art\u0131\u015F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2031418765312
+    m_Localized: Diken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2099693645824
+    m_Localized: "Don Z\u0131rh\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2147391270912
+    m_Localized: "Hareket H\u0131z\u0131 Art\u0131\u015F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2186306023424
+    m_Localized: "gizlice Hareket H\u0131z\u0131 Art\u0131\u015F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35523869238259712
+    m_Localized: "Sald\u0131r\u0131Absorpsiyon"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35536742542897152
+    m_Localized: ManaDrenaj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44036554422644736
+    m_Localized: "Bir d\xFC\u015Fmana sald\u0131r\u0131rken, d\xFC\u015Fman\u0131n
+      savunmas\u0131n\u0131 {value2} azaltmak i\xE7in %{value3} \u015Fans vard\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 43649852537466880
+    m_Localized: savunmada azalma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47151523552980992
+    m_Localized: "Mana kurtarma oran\u0131n\u0131 %{value1} art\u0131r\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 47151496021569536
+    m_Localized: "\rMana kurtarma h\u0131z\u0131 artt\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50726734927917056
+    m_Localized: "Bir d\xFC\u015Fman\u0131 \xF6ld\xFCrd\xFC\u011F\xFCn\xFCzde {value1}
+      mana yenileyin."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00703ee13e0000000070fe7a7900000000707ee19700000000707ef8a90000000070fe04b50000000070fe59c40000000070be6fd000000000707ef6d900000000703e6ce80000000070fe95f40000000070bee3070100000070feb61a0100000070fe8e260100000070fe0e330100000070be97450100000070fef4550100000070be3e6401000000703edc850100000070fea19601000000707ec99f01000000703ec6b801000000703e13c90100000070fe40cf01000000707ee0d901000000707e49e90100000070be05f40100000070fe9dfd0100000070fe9bd8347e0000703e0980407e0000707e4f03739c000070fe930f84a7000070fe57b237b400

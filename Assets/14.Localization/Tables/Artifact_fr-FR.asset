@@ -1,0 +1,566 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Artifact_fr-FR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: aad134bfcd86b204cba9ac183ee5eba7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 193286008832
+    m_Localized: Bague en argent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 502573985792
+    m_Localized: "C'est une bague en argent avec de la magie qui am\xE9liore la d\xE9fense"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 632052150272
+    m_Localized: Bague en or
+    m_Metadata:
+      m_Items: []
+  - m_Id: 668114776064
+    m_Localized: C'est un anneau avec de la magie qui te rend fort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748808990720
+    m_Localized: Collier en argent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753242370048
+    m_Localized: C'est un collier magique qui rend votre attaque rapide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 962810769408
+    m_Localized: Collier en or
+    m_Metadata:
+      m_Items: []
+  - m_Id: 965268631552
+    m_Localized: C'est un collier avec de la magie qui te rend puissant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1025087795200
+    m_Localized: Dent Collier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027730206720
+    m_Localized: C'est un collier qui rend ton attaque fatale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090510548992
+    m_Localized: Bague rubis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1128032792576
+    m_Localized: "C'est un anneau magique qui augmente votre sant\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1203484127232
+    m_Localized: Artefact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1226020122624
+    m_Localized: Cristal bleu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571270433239040
+    m_Localized: Ce cristal peut vous soutenir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621093530267648
+    m_Localized: Cristal rouge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621371990110208
+    m_Localized: Ce cristal peut vous soutenir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621485827715072
+    m_Localized: Cristal jaune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621486461054976
+    m_Localized: Ce cristal peut vous soutenir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077246672400384
+    m_Localized: "C\u0153ur gel\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077248958296064
+    m_Localized: "C'est un c\u0153ur gel\xE9. Cependant, vous pouvez sentir le puissant
+      pompage de mana."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114047076265984
+    m_Localized: La plume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114049785786368
+    m_Localized: "Il ressemble \xE0 une plume ordinaire, mais lorsque vous le portez,
+      vous vous sentez un peu plus l\xE9ger."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499125707075584
+    m_Localized: Pain d'elfe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499127716147200
+    m_Localized: "C'est un pain d'elfe qui est plein m\xEAme avec une bouch\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1516783320068096
+    m_Localized: "Collecteur d'\xE2mes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1516785022955520
+    m_Localized: "C'est terrible d'enlever l'\xE2me, mais c'est aussi utile."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1690945837756416
+    m_Localized: Pierre de magma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1690976389066752
+    m_Localized: "Il fait si chaud qu'il est difficile \xE0 toucher, l'ennemi aura
+      peur d'attaquer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1795657463394304
+    m_Localized: Calcul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1795659136921600
+    m_Localized: "C'est une pierre qui a l'air ferme. Je pense que je vais avoir
+      le vertige si je suis touch\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830790618836992
+    m_Localized: "Oeuf d'araign\xE9e parasite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830791373811712
+    m_Localized: "Il y a des cr\xE9atures dans le monde qui pondent des \u0153ufs
+      dans le corps d'autres cr\xE9atures, c'est effrayant\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830934336663552
+    m_Localized: Gantelet de pierre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830935255216128
+    m_Localized: Cela le rend lourd mais puissant.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1885416307191808
+    m_Localized: "Croc de vip\xE8re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1885416856645632
+    m_Localized: "Ce sont des crocs de vip\xE8re qui ont encore un peu de poison."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912447162019840
+    m_Localized: Stalactite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912447686307840
+    m_Localized: "C'est un gla\xE7on froid et pointu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926509505703936
+    m_Localized: Charme de bouclier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926510243901440
+    m_Localized: "C'est un petit charme de bouclier qui vous prot\xE8ge."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588068108201984
+    m_Localized: Charme d'esquive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588068687015936
+    m_Localized: "Vous voulez rouler en toute s\xE9curit\xE9 ? Portez ce charme avec
+      vous."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678880984788992
+    m_Localized: "Troisi\xE8me oeil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678881626517504
+    m_Localized: "Ce sont les yeux de ceux qui ont ma\xEEtris\xE9 les arts martiaux
+      dans le pass\xE9, et vous pouvez obtenir l'illumination simplement en le tenant."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2679281805062144
+    m_Localized: "Pied de b\xEAte du tonnerre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2679283361148928
+    m_Localized: "Ce sont les pieds d'une b\xEAte qui a la capacit\xE9 de g\xE9rer
+      le tonnerre, et vous pouvez sentir la sensation de picotement."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3178190558097408
+    m_Localized: Sac d'argent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3178191132717056
+    m_Localized: C'est une poche avec de l'argent, on ne sait pas combien elle contient.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200255675756544
+    m_Localized: Cuisse de poulet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200256254570496
+    m_Localized: "C'est une cuisse de poulet qui vous fait vous sentir rassasi\xE9
+      quand vous en prenez une bouch\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200496063901696
+    m_Localized: "F\xE9e perdue"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200496579801088
+    m_Localized: " C'est une petite f\xE9e impuissante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3361631631208448
+    m_Localized: Ancienne coquille d'escargot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3361632205828096
+    m_Localized: "C'est une coquille d'escargot, et \xE7a a l'air tr\xE8s solide."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374508651999232
+    m_Localized: Passe-partout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374557679218688
+    m_Localized: "Seulement la moiti\xE9 d'entre eux sont des cl\xE9s polyvalentes
+      efficaces."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379837120966656
+    m_Localized: "Gla\xE7on"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379838928711680
+    m_Localized: "C'est un morceau de glace qui ne fond jamais, il fait tr\xE8s froid."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3413251240914944
+    m_Localized: Aiguille de flamme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3413251886837760
+    m_Localized: "C'est un Niddle qui d\xE9tient l'\xE9nergie du feu, ce qui peut
+      causer de puissantes br\xFBlures \xE0 l'ennemi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3420482908876800
+    m_Localized: "Griffe de b\xEAte du tonnerre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3420483487690752
+    m_Localized: "Ce sont les pieds d'une b\xEAte qui a la capacit\xE9 de g\xE9rer
+      le tonnerre, et vous pouvez sentir la sensation de picotement."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421718710218752
+    m_Localized: Gemme sanglante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421719293227008
+    m_Localized: C'est une gemme sanglante gourmande, avide de sang.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422148617990144
+    m_Localized: "Vieux livre du n\xE9cromancien"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422149138083840
+    m_Localized: "C'est un ancien livre du n\xE9cromancien, qui contient la connaissance
+      de faire revivre le corps avec un squelette."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423287593824256
+    m_Localized: Gant de combattant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423288176832512
+    m_Localized: "Gants qui aident \xE0 identifier les faiblesses de l'ennemi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423907788779520
+    m_Localized: Cache-oeil berserker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423908384370688
+    m_Localized: "Les Berserkers n'ont pas peur d'\xEAtre bless\xE9s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423984926224384
+    m_Localized: "BerserkerT\xEAteBande"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423985446318080
+    m_Localized: Ce bandeau sanglant comble votre folie.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424850173390848
+    m_Localized: "Sac \xE0 bombes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424850756399104
+    m_Localized: "C'est un sac plein de bombes, attention \xE0 ne pas les l\xE2cher
+      !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424852761276416
+    m_Localized: "Sac pi\xE8ge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424853344284672
+    m_Localized: "C'est un sac rempli de Pi\xE8ges, attention \xE0 ne pas les laisser
+      tomber !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3425606460928000
+    m_Localized: Club des ogres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3425606913912832
+    m_Localized: C'est un club lourd, terne, mais puissant.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805341032542208
+    m_Localized: Pendentif vampire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805341544247296
+    m_Localized: "Ce puissant pendentif vampire a une absorption de vie \xE9norme."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4054562549690368
+    m_Localized: "Dirk bris\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4054563069784064
+    m_Localized: "Il a d\xFB \xEAtre mortel avant de se casser."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103413557620736
+    m_Localized: Plume de Griffon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103414132240384
+    m_Localized: "Cette plume vous dynamisera \xE0 chaque fois que votre niveau augmentera."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17849768583524352
+    m_Localized: "D\xE9fense augment\xE9e de 10%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17850776646742016
+    m_Localized: "Vitesse d'attaque augment\xE9e de 10%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851438470164480
+    m_Localized: "Max HP augment\xE9 de 20"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851662399860736
+    m_Localized: 5% d'Augmentation des Chances de coup critique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851817232592896
+    m_Localized: "Augmente la d\xE9fense de 10% MAX HP de 10%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17852410307178496
+    m_Localized: "Augmente la vitesse d'attaque de 10\_% et les chances de coup critique
+      de 5\_%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17852640339587072
+    m_Localized: Invoquez des cristaux pour soutenir la bataille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853063674884096
+    m_Localized: Invoquez des cristaux pour soutenir la bataille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853113314471936
+    m_Localized: Invoquez des cristaux pour soutenir la bataille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853207870861312
+    m_Localized: "Un bouclier qui est charg\xE9 de 30% de la sant\xE9 maximale charge
+      5 toutes les 5 secondes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853979845095424
+    m_Localized: "Vitesse de d\xE9placement augment\xE9e de 10%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854370561290240
+    m_Localized: "Endurance max augment\xE9e de 20% vitesse de r\xE9cup\xE9ration
+      d'endurance augment\xE9e de 10%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854585875886080
+    m_Localized: "Vitesse de d\xE9placement r\xE9duite de 10\_%, puissance d'attaque
+      augment\xE9e de 10\_%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854784492957696
+    m_Localized: "Puissance d'attaque augment\xE9e de 10\_% 20\_% de chances lors
+      de l'attaque de r\xE9duire la vitesse de d\xE9placement de l'ennemi de 30\_%
+      pendant 3 secondes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855535785078784
+    m_Localized: "D\xE9fense augment\xE9e de 5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855661001830400
+    m_Localized: "20\_% d'augmentation du temps d'invincibilit\xE9 au roulement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855955441971200
+    m_Localized: "\r30\_% d'Augmentation des Chances d'esquive"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17856092251779072
+    m_Localized: "obtenir des pi\xE8ces au hasard"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857053523341312
+    m_Localized: "Max HP augment\xE9 de 20 R\xE9cup\xE8re 50% des HP"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857384680419328
+    m_Localized: "Invoquez une f\xE9e pour vous soutenir au combat"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857718207279104
+    m_Localized: "\r50\_% d'augmentation de la puissance d'attaque\r Les coups critiques
+      ne se d\xE9clenchent pas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17858156512047104
+    m_Localized: "10\_% de chances d'\xE9tourdir l'ennemi pendant 2 secondes en attaquant"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859023252385792
+    m_Localized: En attaquant, il y a 10 % de chances d'empoisonner l'ennemi pendant
+      6 secondes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859545615200256
+    m_Localized: "20\_% de chances d'infliger des d\xE9g\xE2ts suppl\xE9mentaires
+      aux ennemis proches lors de l'attaque"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859846363574272
+    m_Localized: "\rAugmente les chances de coup critique de 1\_% pendant 10 secondes
+      lors de l'attaque"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860223557332992
+    m_Localized: Augmente la vitesse d'attaque de 1% pendant 10 secondes lors de
+      l'attaque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860464301993984
+    m_Localized: "25% de chances de r\xE9cup\xE9rer les PV de 1\_% des PV max en
+      attaquant"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860753960628224
+    m_Localized: "D\xE9g\xE2ts suppl\xE9mentaires toutes les 7 attaques"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861456917590016
+    m_Localized: "Lorsqu'il est touch\xE9, il y a 50 % de chances de br\xFBler l'ennemi
+      pendant 3 secondes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861731170545664
+    m_Localized: "50\_% de chances de ralentir les ennemis pendant 3 secondes lorsqu'ils
+      sont attaqu\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861953338634240
+    m_Localized: "30\_% de chances d'infliger des d\xE9g\xE2ts aux ennemis proches
+      lorsqu'ils sont attaqu\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862229927817216
+    m_Localized: "3 charges sur un bouclier qui charge jusqu'\xE0 50 lorsque vous
+      tuez un ennemi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862381434466304
+    m_Localized: "50\_% de chances d'invoquer une araign\xE9e pour soutenir la bataille
+      en tuant un ennemi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862616655228928
+    m_Localized: Gagnez 3 points de vie lorsque vous tuez un ennemi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862685760581632
+    m_Localized: "30\_% de chances d'invoquer un squelette pour soutenir la bataille
+      en tuant un ennemi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862848705097728
+    m_Localized: "Invoque une bombe \xE0 chaque lancer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862972164435968
+    m_Localized: "Invoque un pi\xE8ge \xE0 chaque lancer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17868589465759744
+    m_Localized: "Augmente la d\xE9fense de 15 lorsque les PV sont inf\xE9rieurs
+      \xE0 30\_%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17869545859346432
+    m_Localized: "50\_% de chances de ne pas utiliser une cl\xE9 lors de l'utilisation
+      d'une cl\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17869692223778816
+    m_Localized: "Br\xFBle l'ennemi pendant 3 secondes sur un coup critique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17870936170459136
+    m_Localized: "Augmente les d\xE9g\xE2ts de 50\_% lorsque les PV sont inf\xE9rieurs
+      \xE0 50\_%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17871808761851904
+    m_Localized: "R\xE9cup\xE8re tous les HP lors de la mise \xE0 niveau"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

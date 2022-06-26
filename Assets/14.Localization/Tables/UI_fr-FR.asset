@@ -1,0 +1,717 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_fr-FR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: 06d4aac871359754a8fc708a86b5054e, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 59273801728
+    m_Localized: "D\xE9but du jeu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316547398529024
+    m_Localized: Achat = {PurchaseKey}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 317554182483968
+    m_Localized: Niveau {Tier}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321680480038912
+    m_Localized: "D\xE9g\xE2ts {MinDamage} ~ {MaxDamage}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321724545396736
+    m_Localized: BouclierPuissance {ShieldPower}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321798667137024
+    m_Localized: "D\xE9fense {Defense}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321902622961664
+    m_Localized: "Vitesse de d\xE9placement {MoveSpeed}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 322631387475968
+    m_Localized: Ramasser = {PickUpKey}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 323617061498880
+    m_Localized: Niv {EnchantLevel}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 347560602398720
+    m_Localized: "R\xE9cup\xE9ration HP par {HpRecoverValue} lorsqu'il est utilis\xE9"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 23350865716736000
+    m_Localized: EXP + {value1}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 27263376568512512
+    m_Localized: '{InteractionKey} Ouvrir la porte'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 27263398500528128
+    m_Localized: '{InteractionKey} Coffre ouvert'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 132405686272
+    m_Localized: Option
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224164474880
+    m_Localized: Sortir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1580401061888
+    m_Localized: Jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1630363611136
+    m_Localized: "Vid\xE9o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1647518314496
+    m_Localized: l'audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1660520656896
+    m_Localized: Contribution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1676488372224
+    m_Localized: Langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1698739154944
+    m_Localized: "Arri\xE8re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726027296768
+    m_Localized: "Ma\xEEtre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726106988544
+    m_Localized: La musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1789285789696
+    m_Localized: "Effets sp\xE9ciaux"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2396574871552
+    m_Localized: "R\xE9glage"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310767614062592
+    m_Localized: guerrier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310926213279744
+    m_Localized: Voyou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310973214650368
+    m_Localized: sorcier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311005506596864
+    m_Localized: Archer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311046010990592
+    m_Localized: Alchimiste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311175443017728
+    m_Localized: "N\xE9cromancien"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311254614700032
+    m_Localized: "S\xE9lection de personnage"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311347191377920
+    m_Localized: "D\xE9marrer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311385330184192
+    m_Localized: Menu principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311435745718272
+    m_Localized: Continuer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312927013728256
+    m_Localized: Quitter le jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316557204811776
+    m_Localized: "R\xE9cup\xE9rer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316913796149248
+    m_Localized: Bloquer!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317017961689088
+    m_Localized: "R\xE9flexion!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317083589963776
+    m_Localized: Coup double!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317142247305216
+    m_Localized: "P\xE9n\xE9trerShot\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317200581685248
+    m_Localized: Poison!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317244412162048
+    m_Localized: "Br\xFBler!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317278969032704
+    m_Localized: "Ralenti\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317331200700416
+    m_Localized: "\xC9tourdi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317368710361088
+    m_Localized: "BackAttack\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317447940763648
+    m_Localized: Critique!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317492442329088
+    m_Localized: Obligatoire!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350178192027648
+    m_Localized: "Armure de t\xEAte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350183220998144
+    m_Localized: Armure de poitrine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350184445734912
+    m_Localized: Armure de jambe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350187478216704
+    m_Localized: Arme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350189478899712
+    m_Localized: Arme Secondaire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350191676715008
+    m_Localized: Accessoire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350193090195456
+    m_Localized: Consommable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350583135301632
+    m_Localized: Potion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350594556391424
+    m_Localized: "\xC9p\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350612952608768
+    m_Localized: Arc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350627645255680
+    m_Localized: Dague
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350650164473856
+    m_Localized: Baguette magique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350661417791488
+    m_Localized: Bouclier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350675506458624
+    m_Localized: MainCroixArc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6557901766160384
+    m_Localized: Pas assez d'argent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7876820602875904
+    m_Localized: "Pas assez de cl\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9071193264910336
+    m_Localized: Esquive!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10312011829112832
+    m_Localized: Activer le texte contextuel des dommages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10714973768413184
+    m_Localized: Prier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13690106820849664
+    m_Localized: "Estropi\xE9!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15365502373097472
+    m_Localized: "Les guerriers se battent \xE0 l'aide d'\xE9p\xE9es et de boucliers.\r\nAccumule
+      la rage \xE0 chaque attaque et d\xE9fense et utilise votre rage pour utiliser
+      de puissantes comp\xE9tences."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15366367016284160
+    m_Localized: "Les voleurs utilisent des poignards pour se battre. En utilisant
+      l'attaque furtive et arri\xE8re, vous pouvez attaquer secr\xE8tement et puissamment
+      derri\xE8re l'ennemi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15366835914305536
+    m_Localized: "Les sorciers utilisent des baguettes pour se battre. Vous pouvez
+      utiliser le mana pour utiliser diverses comp\xE9tences magiques puissantes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15367222968872960
+    m_Localized: "Les archers utilisent des arcs pour combattre. Vous pouvez attaquer
+      l'ennemi \xE0 longue distance et diverses fl\xE8ches peuvent \xEAtre utilis\xE9es
+      pour attaquer l'ennemi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15383559329968128
+    m_Localized: "utilisez furtivement pour vous d\xE9placer secr\xE8tement."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15383856894865408
+    m_Localized: "Attaquez par derri\xE8re l'ennemi et infligez des d\xE9g\xE2ts
+      suppl\xE9mentaires."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15384204640415744
+    m_Localized: Des flammes de feu vers l'avant, endommageant plusieurs ennemis.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15384408118685696
+    m_Localized: "Concentrez-vous et tirez une fl\xE8che puissante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16086914863886336
+    m_Localized: "Sensible \xE0 la souris"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16289786029305856
+    m_Localized: Priez la statue de la vie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16289970545127424
+    m_Localized: Priez la Statue de la Force
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16294729943511040
+    m_Localized: "R\xE9g\xE9n\xE9ration de la sant\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16294732015497216
+    m_Localized: Dommage accru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16954683155181568
+    m_Localized: "Immunit\xE9 aux \xE9tourdissements"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16954754403823616
+    m_Localized: "Immunit\xE9 ralentie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16955456727445504
+    m_Localized: Rouler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18065920098201600
+    m_Localized: "Point de comp\xE9tence"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19200644883574784
+    m_Localized: sauvegarder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19200876644036608
+    m_Localized: "R\xE9initialiser"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941197170503680
+    m_Localized: "D\xE9verrouiller\_:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941291357794304
+    m_Localized: 'Tuez 20 archers squelettes
+
+
+      Nombre de victimes : {killedSkeletonArcherCount}'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 19941364703588352
+    m_Localized: "\xC9tape 3 clair"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941397263970304
+    m_Localized: Tuez la liche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309030802550784
+    m_Localized: Attaque de base
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309100553826304
+    m_Localized: Attaque secondaire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309156765888512
+    m_Localized: Roulant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309196997652480
+    m_Localized: Tiret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21330996464873472
+    m_Localized: Saut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21367061779214336
+    m_Localized: "Attendre l'entr\xE9e...."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21386267539173376
+    m_Localized: Inventaire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21423998269026304
+    m_Localized: "Comp\xE9tence"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424185922187264
+    m_Localized: Minicarte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424228079136768
+    m_Localized: Carte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424277337042944
+    m_Localized: Artefact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424685396684800
+    m_Localized: Consommable Utilisation rapide en premier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424943916806144
+    m_Localized: Consommable Utilisation rapide Seconde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425090167992320
+    m_Localized: Changer de consommable Utilisation rapide Premier changement d'emplacement
+      (maintenir)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425238797348864
+    m_Localized: Changer de consommable Utilisation rapide Second slot (Hold)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425336348471296
+    m_Localized: "\xC9chapMenu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425485778939904
+    m_Localized: Interaction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21605907703951360
+    m_Localized: "Comp\xE9tenceHotKey1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606038264246272
+    m_Localized: "Comp\xE9tenceHotKey2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606050536779776
+    m_Localized: "Comp\xE9tenceHotKey3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606058623397888
+    m_Localized: "Comp\xE9tenceHotKey4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606076981866496
+    m_Localized: "Comp\xE9tenceHotKey5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606085492109312
+    m_Localized: "Comp\xE9tenceHotKey6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606096212750336
+    m_Localized: "Comp\xE9tenceHotKey7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606106371354624
+    m_Localized: "Comp\xE9tenceHotKey8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606116647399424
+    m_Localized: "Comp\xE9tenceHotKey9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606125430272000
+    m_Localized: "Comp\xE9tenceHotKey0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21621891324080128
+    m_Localized: "Enregistr\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21622021934706688
+    m_Localized: "Il a \xE9t\xE9 r\xE9initialis\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29158024337584128
+    m_Localized: Chargement...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29547478759927808
+    m_Localized: "D\xE9cretD\xE9fense !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29616994768547840
+    m_Localized: 'Temps de lecture : {PlayMin} minutes {PlaySec} secondes'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29617299002388480
+    m_Localized: "L'ennemi qui vous a tu\xE9 : {DiedBy}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29617609800314880
+    m_Localized: 'Nombre d''artefacts acquis : {ArtifactNumber}'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29617770370854912
+    m_Localized: "Nombre d'ennemis tu\xE9s : {KillEnemyNumber}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29907708526096384
+    m_Localized: pas assez de place dans votre inventaire.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30226483137900544
+    m_Localized: "R\xE9solution"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30226486040358912
+    m_Localized: "Plein \xE9cran"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30411516813406208
+    m_Localized: "Votre progression n'est pas enregistr\xE9e.\r\nVoulez-vous vraiment
+      acc\xE9der au menu principal ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30413144652148736
+    m_Localized: Confirmer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30413148720623616
+    m_Localized: Annuler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30413825584820224
+    m_Localized: "Votre progression n'est pas enregistr\xE9e.\r\n Voulez-vous vraiment
+      quitter le jeu ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30987721853792256
+    m_Localized: "niveau sup\xE9rieur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31847311654940672
+    m_Localized: "\rHp de d\xE9marrage"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31847887839064064
+    m_Localized: Hp augmenter la valeur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31848988713840640
+    m_Localized: "Vitesse de d\xE9placement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31849361897844736
+    m_Localized: Chance de coup critique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31849363428765696
+    m_Localized: Esquiver les chances
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31853430259478528
+    m_Localized: Puissance d'attaque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31853766420361216
+    m_Localized: "\rla d\xE9fense"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32559067209560064
+    m_Localized: Affichage FPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33325758730366976
+    m_Localized: "\xE9tape {stage}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 33611420184506368
+    m_Localized: Activer le texte contextuel de l'effet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33716371850162176
+    m_Localized: Vous pouvez bloquer les attaques et les projectiles ennemis avec
+      votre bouclier.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34005119083114496
+    m_Localized: "\rendurance maximale"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34064692406022144
+    m_Localized: Limite de framelate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34064690099154944
+    m_Localized: FOV (angle de vue)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34064691332280320
+    m_Localized: Distance visible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34408527480909824
+    m_Localized: "\rvitesse d'attaque"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34423241162256384
+    m_Localized: producteur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34423870215581696
+    m_Localized: "\rbande sonore"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34721918019858432
+    m_Localized: NPC Hp Bar Display
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34728054156587008
+    m_Localized: "d\xE9sactiver l'interface utilisateur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35212177572786176
+    m_Localized: "Augmentation de la d\xE9fense !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35842572219740160
+    m_Localized: "augmentation de la vitesse de d\xE9placement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35842665526226944
+    m_Localized: "diminution de la vitesse de d\xE9placement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35846565020987392
+    m_Localized: "augmentation de la vitesse d'attaque\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35846568892329984
+    m_Localized: "diminution de la vitesse d'attaque\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35848252318183424
+    m_Localized: "diminution de la puissance d'attaque\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38614128968757248
+    m_Localized: Autoriser la console
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42267052706000896
+    m_Localized: '[{interactionHotKey}]'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 48432261661356032
+    m_Localized: "Qualit\xE9 graphique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48466968788758528
+    m_Localized: UI Size
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00703eefe51f010000703e58d02001000070be129124010000703e559b24010000703e97ac24010000707ecbc424010000703e796e2501000070fef75326010000703ec21a3c010000703e187df552000070be83e5db60000070fe9eeadb600000707ef47f38690000703ecac638690000703e270f3969000070fe89343969000070feda996576000070beb37fd8460000703e16a9299600

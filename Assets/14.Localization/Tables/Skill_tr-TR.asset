@@ -1,0 +1,423 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Skill_tr-TR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr-TR
+  m_SharedData: {fileID: 11400000, guid: cd6437555d7d5c24488d33b1998f0ec6, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 145950970376192
+    m_Localized: "5 saniye d\xF6nerek yak\u0131ndaki d\xFC\u015Fmanlara periyodik
+      olarak sald\u0131r\u0131 g\xFCc\xFC * %{DM1} kadar hasar verir ve hasar\u0131
+      %50 azalt\u0131r."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2331926496964608
+    m_Localized: "{value2} saniye boyunca savunmay\u0131 {value1} artt\u0131r\u0131r
+      ve sersemletir ve ba\u011F\u0131\u015F\u0131kl\u0131\u011F\u0131 yava\u015Flar."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 372657996328960
+    m_Localized: "Hasar\u0131 %{DM1} art\u0131ran {value1} ok y\xFCkler."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 178580327657472
+    m_Localized: "D\xFC\u015Fmandan saklanabilirsin. Sinsi Gague %70'in \xFCzerindeyken
+      d\xFC\u015Fman sizi tespit edemez. Bir d\xFC\u015Fmana sinsi bir durumda sald\u0131rmak,
+      AttackDamage * %{DM1} kadar hasar verir."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4270896082944
+    m_Localized: "AttackDamage * %{DM1} kadar hasar vermek i\xE7in k\u0131l\u0131ca
+      vur"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 44459437748224
+    m_Localized: "\u0130leri s\u0131\xE7ray\u0131n ve bir kalkanla d\xFC\u015Fmana
+      sald\u0131r\u0131n, onlara %* {DM1} hasar verin ve onlar\u0131 {BT1} saniye
+      sersemletin."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 8530635419648
+    m_Localized: Beceri Seviyesi {skillLevel}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 179707404251136
+    m_Localized: "Bir bomba at\u0131n ve bomban\u0131n etraf\u0131ndaki d\xFC\u015Fmanlar\u0131
+      {BT1} saniye boyunca Sersemletin."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 8577896837120
+    m_Localized: CoolTime {coolTime}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2357522526531584
+    m_Localized: "Bir d\xFC\u015Fman mermisini kalkanla bloke ederken, onu yans\u0131tmak
+      i\xE7in %{value1} \u015Fans vard\u0131r. Yans\u0131yan mermiler %{DM1} daha
+      fazla hasar verir.\nKalkan g\xFCc\xFC {value3} artt\u0131."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5040638947328
+    m_Localized: "D\xFC\u015Fmana bir kalkanla sald\u0131r\u0131n, sald\u0131r\u0131
+      hasar\u0131 kadar hasar verin * %{DM1} ve {BT1} saniye sersemletin."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 7806618857472
+    m_Localized: "\xD6fke {Rage}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2378832195514368
+    m_Localized: "Sald\u0131r\u0131 H\u0131z\u0131n\u0131 %{value1} art\u0131r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 179367556575232
+    m_Localized: "Han\xE7eri d\xFC\u015Fmana sald\u0131rmak i\xE7in zehirleyin, ona
+      AttackDamage * %{DM1} kadar hasar verin ve d\xFC\u015Fman\u0131 {BT1} saniye
+      zehirleyerek her {BRT1} saniyede bir {BD1} hasar verin."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3047442488389632
+    m_Localized: "Bomban\u0131n bulundu\u011Fu yerde bir zehir bulutu olu\u015Fturur,
+      buluta giren d\xFC\u015Fmanlara 1 saniyede %{DM1} Sald\u0131r\u0131 Hasar\u0131
+      verir ve d\xFC\u015Fman\u0131 {BT1} saniye zehirleyerek her {BRT1} saniyede
+      bir {BD1} hasar verir. Bulutlar {value3} saniye s\xFCrer."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 372952109314048
+    m_Localized: "\rVuruldu\u011Funda d\xFC\u015Fman\u0131 zehirleyen {value1} oklar\u0131
+      y\xFCkler."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5485084176384
+    m_Localized: "Sald\u0131r\u0131 hasar\u0131 * %{DM1} kadar hasar vermek i\xE7in
+      d\xFC\u015Fman\u0131n tendonunu bir k\u0131l\u0131\xE7la kesin ve d\xFC\u015Fman\u0131
+      {BT1} saniye boyunca sakat b\u0131rak\u0131n."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 7751056912384
+    m_Localized: Mana {Mana}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2986343835529216
+    m_Localized: "Sald\u0131r\u0131 g\xFCc\xFCn\xFCn %{DM1} kadar\u0131na e\u015Fit
+      {value1} sihirli ok f\u0131rlat\u0131r."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2996894946979840
+    m_Localized: "% * {DM1} hasar veren bir Sihirli bomba atar.\nVurulan d\xFC\u015Fmanlar
+      {BT1} saniye boyunca sersemletilir."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 180379570827264
+    m_Localized: "Zehirli bir B\u0131\xE7ak f\u0131rlat\u0131r, isabet alan d\xFC\u015Fmana
+      Sald\u0131r\u0131 Hasar\u0131 * %{DM1} verir ve d\xFC\u015Fman\u0131 {BT1}
+      saniye boyunca zehirler, her {BRT1} saniyede bir {BD1} hasar verir."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3066003055341568
+    m_Localized: "\rBuzdan bir m\u0131zrak ate\u015Fler ve isabet alan rakiplere
+      Sald\u0131r\u0131 Hasar\u0131n\u0131n %{DM1} kadar\u0131n\u0131 verir ve onlar\u0131
+      {BT1} saniyeli\u011Fine yava\u015Flat\u0131r."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 754489963212800
+    m_Localized: "Ate\u015F alevleri ileri, Sald\u0131r\u0131 Hasar\u0131 Vermek
+      * %{DM1}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 180576380153856
+    m_Localized: "\xDCzerine bas\u0131ld\u0131\u011F\u0131nda %{DM1} AttackDamage
+      taraf\u0131ndan \xE7evredeki d\xFC\u015Fmanlara hasar veren patlamalara neden
+      olan tuzaklar kurun."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 373065464573952
+    m_Localized: "\xC7arp\u0131\u015Ft\u0131\u011F\u0131nda patlayan ve yak\u0131ndaki
+      d\xFC\u015Fmanlara %{DM1} Sald\u0131r\u0131 Hasar\u0131 veren {value1} ok y\xFCkler."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 371740421025792
+    m_Localized: "{value1} oklar\u0131n\u0131 ayn\u0131 anda ate\u015Fler."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2350292158803968
+    m_Localized: "\xD6n\xFCn\xFCzde g\xFC\xE7l\xFC bir patlama yaratmak i\xE7in t\xFCm
+      \xF6fkenizi t\xFCketir, SDR * %{DM1} ve t\xFCketilen \xD6fke miktar\u0131 kadar
+      hasar verir."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 372474461974528
+    m_Localized: "\rH\u0131zl\u0131 bir \u015Fekilde {value1} ok atar."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 371865088323584
+    m_Localized: "Tamamen \u015Farj oldu\u011Funda, hasar\u0131 %{DM1} artt\u0131r\u0131r
+      ve d\xFC\u015Fman\u0131 delip ge\xE7en bir ok f\u0131rlat\u0131r."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 180103535292416
+    m_Localized: "AttackDamage * %{DM1} taraf\u0131ndan tuza\u011Fa d\xFC\u015F\xFCr\xFClen
+      d\xFC\u015Fmanlara hasar vermek ve onlar\u0131 {BT1} saniye Sersemletmek i\xE7in
+      bearTrap'i yere kurun. En fazla {value1} y\xFCklenebilir.\""
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 188209258459136
+    m_Localized: "D\xFC\u015Fman\u0131n arkas\u0131ndan sald\u0131rmak, %{value1}
+      kat daha fazla hasara neden olur."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3070537756471296
+    m_Localized: "{value1} hasar\u0131 engelleyen bir buz kalkan\u0131 \xE7a\u011F\u0131r\u0131r.
+      Kalkan {value2} saniye s\xFCrer."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5606210292051968
+    m_Localized: "alev patlamas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3384945384779776
+    m_Localized: "\u0130leriye bir y\u0131ld\u0131r\u0131m k\xFCresi f\u0131rlat\u0131r.\r\nK\xFCre
+      yava\u015F\xE7a ilerleyerek yak\u0131ndaki en fazla {value2} d\xFC\u015Fmana
+      kadar her {value3} saniyede bir AttackDamage de\u011Ferinin %{DM1} kadar\u0131n\u0131
+      verir."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3363505377800192
+    m_Localized: "Patlayan bir ate\u015F topu ate\u015Fler, yak\u0131ndaki d\xFC\u015Fmanlara
+      %{DM1} Sald\u0131r\u0131 Hasar\u0131 verir ve yanmalara neden olarak {BT1}
+      saniye boyunca her {BRT1} saniyede bir {BD1} hasar verir."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3295838151274496
+    m_Localized: "D\xFC\u015Fman\u0131 tekmeleyerek %{DM1} Sald\u0131r\u0131 Hasar\u0131
+      verir ve onu {BT1} saniyeli\u011Fine sersemletir."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5606210858283008
+    m_Localized: "\xD6n\xFCnde bir alev patlamas\u0131 olu\u015Fturarak, Sald\u0131r\u0131
+      Hasar\u0131n\u0131n %{DM1} kadar\u0131n\u0131 veren, d\xFC\u015Fman\u0131 {BT1}
+      saniyeli\u011Fine sersemleten ve {BT2} saniyeli\u011Fine yanarak {BRT2} saniyeli\u011Fine
+      {BD2} Hasar veren bir alev patlamas\u0131 olu\u015Fturur."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5682296602390528
+    m_Localized: "{value1} saniye boyunca mana yenilenmesini %{value2} art\u0131rarak
+      a\u015F\u0131r\u0131 y\xFCklenir."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3656589930496
+    m_Localized: vur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3689527799808
+    m_Localized: Kalkan iteleme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3729000394752
+    m_Localized: "Kafatas\u0131Smash"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3768141639680
+    m_Localized: sakat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3797728260096
+    m_Localized: "Kas\u0131rga"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3878439251968
+    m_Localized: "KalkanBlo\u011Fu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3937285337088
+    m_Localized: "Kalkan Yans\u0131tmak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43184398692352
+    m_Localized: "Kalkan\u0131n\u0131zla d\xFC\u015Fman sald\u0131r\u0131lar\u0131n\u0131
+      ve mermilerini engelleyebilirsiniz. Ba\u015Far\u0131l\u0131 savunman\u0131n
+      ard\u0131ndan, {value1} \xD6fke kazan\u0131n."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 177887659323392
+    m_Localized: gizlice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177933947662336
+    m_Localized: "zehirli i\u011Fne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177984929427456
+    m_Localized: "\u015Fok bombas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178108980162560
+    m_Localized: "Ay\u0131 tuza\u011F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178159282450432
+    m_Localized: "b\u0131\xE7ak atma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 178247811624960
+    m_Localized: "Patlama Tuza\u011F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 181097874747392
+    m_Localized: "Zehir Bombas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188182142283776
+    m_Localized: "GeriSald\u0131r\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223377809633280
+    m_Localized: Alev
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223378971455488
+    m_Localized: "ate\u015F topu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223381047635968
+    m_Localized: "Buz M\u0131zra\u011F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223382918295552
+    m_Localized: "Ayd\u0131nlatmaOrb"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223395350212608
+    m_Localized: "Buz Kalkan\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369744171397120
+    m_Localized: "\xC7oklu at\u0131\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369826786603008
+    m_Localized: "\u015Earj At\u0131\u015F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369876661071872
+    m_Localized: "S\xFCrekli Ate\u015Fleme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369916716675072
+    m_Localized: "\xE7elik ok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369977446002688
+    m_Localized: Zehir oku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370003941421056
+    m_Localized: Patlama Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371235972083712
+    m_Localized: "Geri Ad\u0131m Vur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 373365063708672
+    m_Localized: "\r Geriye do\u011Fru s\u0131\xE7rarken oklar\u0131 ate\u015Fler."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450611489173504
+    m_Localized: Tekme atmak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2331896465747968
+    m_Localized: "s\xFCper z\u0131rh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2350265894072320
+    m_Localized: Son Darbe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2378688981004288
+    m_Localized: "H\u0131zl\u0131 at\u0131\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2986222985048064
+    m_Localized: Sihirli Ok Spreyi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2996863221264384
+    m_Localized: Sihirli Bomba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5679872697331712
+    m_Localized: "Kaz\u0131klamak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20240379756310528
+    m_Localized: "Kalkan\u0131 bir k\u0131l\u0131\xE7la \xE7arparak ileri do\u011Fru
+      bir \u015Fok dalgas\u0131 yarat\u0131r. Vurulan d\xFC\u015Fman\u0131n Sald\u0131r\u0131
+      Hasar\u0131 * %{DM1} kadar\u0131n\u0131 veren \u015Fok dalgas\u0131, onlar\u0131
+      {BT1} saniye sersemletir ve Savunmalar\u0131n\u0131 {BT2} saniye boyunca {B2value2}
+      azalt\u0131r."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 14602029674426368
+    m_Localized: "\u015Eok dalgas\u0131"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0070bedbbd84000000707ef2df48080000707e33ee5201000070fef86aa2000000703e65e20300000070fe846f28000000707e31c20700000070fe6371a3000000707e32cd0700000070be7c2760080000707e9d950400000070be9e190700000070fe078973080000707e4322a300000070fefea1d30a000070fead3253010000707e18fd0400000070feae0c07000000707e5b109c0a000070befaa8a50a0000703ee40da400000070fe7683e40a0000703e6234ae02000070feb63ba4000000707e124d5301000070be8f1852010000703e09945908000070fe77c352010000707e963552010000703e9fcda300000070fee12cab000000703e48a3e80a000070beaed1ea130000703e0397060c0000703e1f17f30b0000703e1e8cb50b0000707ec6043014000070bea64627000000707ea584e84700

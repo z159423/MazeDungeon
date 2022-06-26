@@ -1,0 +1,571 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Artifact_tr-TR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr-TR
+  m_SharedData: {fileID: 11400000, guid: aad134bfcd86b204cba9ac183ee5eba7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 193286008832
+    m_Localized: "G\xFCm\xFC\u015F y\xFCz\xFCk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 502573985792
+    m_Localized: "Savunmay\u0131 g\xFC\xE7lendiren sihirli g\xFCm\xFC\u015F bir y\xFCz\xFCk."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 632052150272
+    m_Localized: "Alt\u0131n y\xFCz\xFCk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 668114776064
+    m_Localized: "Seni g\xFC\xE7l\xFC yapan sihirli bir y\xFCz\xFCk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748808990720
+    m_Localized: "G\xFCm\xFC\u015F kolye"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753242370048
+    m_Localized: "Sald\u0131r\u0131n\u0131z\u0131 h\u0131zland\u0131ran sihirli bir
+      kolye"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 962810769408
+    m_Localized: "Alt\u0131n kolye"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 965268631552
+    m_Localized: "Seni g\xFC\xE7l\xFC yapan sihirli bir kolye"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1025087795200
+    m_Localized: "Di\u015F Kolye"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027730206720
+    m_Localized: "Sald\u0131r\u0131n\u0131 \xF6l\xFCmc\xFCl yapan bir kolye"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090510548992
+    m_Localized: "Yakut Y\xFCz\xFCk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1128032792576
+    m_Localized: "Sa\u011Fl\u0131\u011F\u0131n\u0131z\u0131 art\u0131ran sihirli
+      bir y\xFCz\xFCk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1203484127232
+    m_Localized: eser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1226020122624
+    m_Localized: mavi kristal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571270433239040
+    m_Localized: Bu Kristal size destek olabilir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621093530267648
+    m_Localized: "k\u0131rm\u0131z\u0131 kristal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621371990110208
+    m_Localized: Bu Kristal size destek olabilir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621485827715072
+    m_Localized: "Sar\u0131 Kristal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621486461054976
+    m_Localized: Bu Kristal size destek olabilir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077246672400384
+    m_Localized: "Donmu\u015F kalp"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077248958296064
+    m_Localized: "So\u011Fuktan donmu\u015F bir kalp. Ancak, g\xFC\xE7l\xFC manan\u0131n
+      pompaland\u0131\u011F\u0131n\u0131 hissedebilirsiniz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114047076265984
+    m_Localized: "Ku\u015F t\xFCy\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114049785786368
+    m_Localized: "S\u0131radan bir t\xFCy gibi g\xF6r\xFCn\xFCyor, ancak onu ta\u015F\u0131d\u0131\u011F\u0131n\u0131z
+      zaman biraz daha hafif hissediyorsunuz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499125707075584
+    m_Localized: "Elf'in Ekme\u011Fi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499127716147200
+    m_Localized: "Bir lokmayla bile tok kalan bir Elf ekme\u011Fi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1516783320068096
+    m_Localized: "ruh toplay\u0131c\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1516785022955520
+    m_Localized: "Ruhu almak korkun\xE7 ama ayn\u0131 zamanda yararl\u0131d\u0131r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1690945837756416
+    m_Localized: "Magma Ta\u015F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1690976389066752
+    m_Localized: "O kadar s\u0131cak ki dokunmas\u0131 zor, D\xFC\u015Fman sald\u0131rmaktan
+      korkacak."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1795657463394304
+    m_Localized: "Ta\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1795659136921600
+    m_Localized: "Sa\u011Flam g\xF6r\xFCnen bir ta\u015F. San\u0131r\u0131m vurulursam
+      ba\u015F\u0131m d\xF6ner."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830790618836992
+    m_Localized: "Parazit \xD6r\xFCmcek Yumurtas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830791373811712
+    m_Localized: "D\xFCnyada ba\u015Fka canl\u0131larda v\xFCcutlar\u0131na yumurta
+      b\u0131rakan yarat\u0131klar var, bu \xFCrk\xFCt\xFCc\xFC!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830934336663552
+    m_Localized: "ta\u015F eldiven"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830935255216128
+    m_Localized: "A\u011F\u0131r ama g\xFC\xE7l\xFC yapar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1885416307191808
+    m_Localized: "Engerek Di\u015Fi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1885416856645632
+    m_Localized: "H\xE2l\xE2 biraz zehir kalm\u0131\u015F bir engerek di\u015Fleridir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912447162019840
+    m_Localized: "buz sa\xE7a\u011F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912447686307840
+    m_Localized: "So\u011Fuk ve keskin bir buz sark\u0131t\u0131."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926509505703936
+    m_Localized: "Kalkan T\u0131ls\u0131m\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926510243901440
+    m_Localized: "Seni koruyan k\xFC\xE7\xFCk bir kalkan b\xFCy\xFCs\xFC."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588068108201984
+    m_Localized: Dodge Charm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588068687015936
+    m_Localized: "Daha g\xFCvenli bir \u015Fekilde yuvarlanmak ister misiniz? Bu
+      Charm'\u0131 yan\u0131n\u0131zda ta\u015F\u0131y\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678880984788992
+    m_Localized: "\xDC\xE7\xFCnc\xFC g\xF6z"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678881626517504
+    m_Localized: "Bu, ge\xE7mi\u015Fte d\xF6v\xFC\u015F sanatlar\u0131nda ustala\u015Fm\u0131\u015F
+      ki\u015Filerin g\xF6zleridir ve sadece onu tutarak ayd\u0131nlanma elde edebilirsiniz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2679281805062144
+    m_Localized: "G\xF6k g\xFCr\xFClt\xFCs\xFC canavar\u0131 aya\u011F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2679283361148928
+    m_Localized: "Bu, g\xF6k g\xFCr\xFClt\xFCs\xFCyle ba\u015Fa \xE7\u0131kma yetene\u011Fine
+      sahip bir canavar\u0131n ayaklar\u0131d\u0131r ve kar\u0131ncalanma hissini
+      hissedebilirsiniz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3178190558097408
+    m_Localized: "Para \xE7antas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3178191132717056
+    m_Localized: "\u0130\xE7inde para olan bir cep, ne kadar i\xE7erdi\u011Fini bilmiyoruz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200255675756544
+    m_Localized: "Tavuk baca\u011F\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200256254570496
+    m_Localized: "Bir \u0131s\u0131r\u0131k ald\u0131\u011F\u0131n\u0131zda sizi
+      tok hissettiren bir tavuk budu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200496063901696
+    m_Localized: "kay\u0131p peri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200496579801088
+    m_Localized: " O k\xFC\xE7\xFCk, g\xFC\xE7s\xFCz bir peri."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3361631631208448
+    m_Localized: "Antik Salyangoz Kabu\u011Fu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3361632205828096
+    m_Localized: "Bu bir salyangoz kabu\u011Fu ve \xE7ok sa\u011Flam g\xF6r\xFCn\xFCyor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374508651999232
+    m_Localized: "\u0130skelet anahtar\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374557679218688
+    m_Localized: "Bunlar\u0131n sadece yar\u0131s\u0131 etkili \xE7ok y\xF6nl\xFC
+      anahtard\u0131r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379837120966656
+    m_Localized: "Buz k\xFCp\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379838928711680
+    m_Localized: "Asla erimeyen bir buz par\xE7as\u0131, \xE7ok so\u011Fuk."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3413251240914944
+    m_Localized: "alev i\u011Fnesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3413251886837760
+    m_Localized: "D\xFC\u015Fmanda g\xFC\xE7l\xFC yan\u0131klara neden olabilen ate\u015F
+      enerjisini tutan bir Niddle'd\u0131r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3420482908876800
+    m_Localized: "Y\u0131ld\u0131r\u0131m Canavar\u0131 Pen\xE7esi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3420483487690752
+    m_Localized: "Bu, g\xF6k g\xFCr\xFClt\xFCs\xFCyle ba\u015Fa \xE7\u0131kma yetene\u011Fine
+      sahip bir canavar\u0131n ayaklar\u0131d\u0131r ve kar\u0131ncalanma hissini
+      hissedebilirsiniz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421718710218752
+    m_Localized: "kanl\u0131 m\xFCcevher"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421719293227008
+    m_Localized: "Kan i\xE7in can atan a\xE7g\xF6zl\xFC kanl\u0131 bir m\xFCcevher."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422148617990144
+    m_Localized: "Necromancer'\u0131n Eski Kitab\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422149138083840
+    m_Localized: "V\xFCcudu iskeletle diriltme bilgisini i\xE7eren necromancer'\u0131n
+      eski bir kitab\u0131d\u0131r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423287593824256
+    m_Localized: "Sava\u015F\xE7\u0131 Eldiveni"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423288176832512
+    m_Localized: "D\xFC\u015Fman zay\u0131fl\u0131klar\u0131n\u0131 belirlemeye yard\u0131mc\u0131
+      olan eldivenler."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423907788779520
+    m_Localized: "Vah\u015Fi G\xF6z Yamas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423908384370688
+    m_Localized: Berserker yaralanmaktan korkmaz.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423984926224384
+    m_Localized: "Vah\u015Fi Kafa Band\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423985446318080
+    m_Localized: "Bu kanl\u0131 kafa band\u0131 \xE7\u0131lg\u0131nl\u0131\u011F\u0131n\u0131z\u0131
+      dolduruyor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424850173390848
+    m_Localized: "Bomba \xC7anta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424850756399104
+    m_Localized: "Bomba dolu bir \xE7anta, d\xFC\u015F\xFCrmemeye dikkat edin!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424852761276416
+    m_Localized: "tuzak \xE7anta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424853344284672
+    m_Localized: "Tuzaklarla dolu bir \xE7anta, d\xFC\u015F\xFCrmemeye dikkat edin!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3425606460928000
+    m_Localized: "Ogre Kul\xFCb\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3425606913912832
+    m_Localized: "A\u011F\u0131r, s\u0131k\u0131c\u0131 ama g\xFC\xE7l\xFC bir kul\xFCp."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805341032542208
+    m_Localized: Vampir Kolye
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805341544247296
+    m_Localized: "Bu g\xFC\xE7l\xFC vampir kolye, muazzam bir ya\u015Fam emilimine
+      sahiptir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4054562549690368
+    m_Localized: "k\u0131r\u0131k kakma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4054563069784064
+    m_Localized: "K\u0131r\u0131lmadan \xF6nce \xF6l\xFCmc\xFCl olmal\u0131."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103413557620736
+    m_Localized: "akbaba t\xFCy\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103414132240384
+    m_Localized: "Bu t\xFCy, seviyeniz her y\xFCkseldi\u011Finde size enerji verecek."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17849768583524352
+    m_Localized: "Savunma %10 artt\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17850776646742016
+    m_Localized: "Sald\u0131r\u0131 h\u0131z\u0131 %10 artt\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851438470164480
+    m_Localized: "Maks HP 20 artt\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851662399860736
+    m_Localized: "%5 artt\u0131r\u0131lm\u0131\u015F Kritik Vuru\u015F \u015Eans\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851817232592896
+    m_Localized: "Savunmay\u0131 %10 MAKS SP'yi %10 art\u0131r\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17852410307178496
+    m_Localized: "Sald\u0131r\u0131 h\u0131z\u0131n\u0131 %10 kritik vuru\u015F \u015Fans\u0131n\u0131
+      %5 art\u0131r\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17852640339587072
+    m_Localized: "Sava\u015F\u0131 desteklemek i\xE7in kristalleri \xE7a\u011F\u0131r\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853063674884096
+    m_Localized: "Sava\u015F\u0131 desteklemek i\xE7in kristalleri \xE7a\u011F\u0131r\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853113314471936
+    m_Localized: "Sava\u015F\u0131 desteklemek i\xE7in kristalleri \xE7a\u011F\u0131r\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853207870861312
+    m_Localized: "Her 5 saniyede bir maksimum sa\u011Fl\u0131k y\xFCk\xFCn\xFCn %30'u
+      kadar \u015Farj edilen bir kalkan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853979845095424
+    m_Localized: "Hareket h\u0131z\u0131 %10 artt\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854370561290240
+    m_Localized: "Maksimum dayan\u0131kl\u0131l\u0131k %20 artt\u0131r\u0131ld\u0131
+      Dayan\u0131kl\u0131l\u0131k kurtarma h\u0131z\u0131 %10 artt\u0131r\u0131ld\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854585875886080
+    m_Localized: "Hareket h\u0131z\u0131 %10 azald\u0131 sald\u0131r\u0131 g\xFCc\xFC
+      %10 artt\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854784492957696
+    m_Localized: "Sald\u0131r\u0131 g\xFCc\xFC, sald\u0131r\u0131 s\u0131ras\u0131nda
+      d\xFC\u015Fman\u0131n hareket h\u0131z\u0131n\u0131 3 saniyeli\u011Fine %30
+      azaltmak i\xE7in %10 %20 oran\u0131nda art\u0131r\u0131ld\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855535785078784
+    m_Localized: "Savunma 5 artt\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855661001830400
+    m_Localized: "%20 art\u0131r\u0131lm\u0131\u015F yuvarlanma yenilmezlik s\xFCresi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855955441971200
+    m_Localized: "\r30% Artan Ka\xE7ma \u015Eans\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17856092251779072
+    m_Localized: rastgele jeton al
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857053523341312
+    m_Localized: "Maks HP 20 artt\u0131 HP'nin %50'sini kurtar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857384680419328
+    m_Localized: "Sava\u015Fta seni desteklemek i\xE7in bir peri \xE7a\u011F\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857718207279104
+    m_Localized: "\rsald\u0131r\u0131 g\xFCc\xFCnde %50 art\u0131\u015F\r Kritik
+      vuru\u015Flar tetiklenmiyor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17858156512047104
+    m_Localized: "Sald\u0131r\u0131rken d\xFC\u015Fman\u0131 2 saniyeli\u011Fine
+      sersemletme \u015Fans\u0131 %10"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859023252385792
+    m_Localized: "Sald\u0131r\u0131rken, d\xFC\u015Fman\u0131 6 saniye boyunca zehirlemek
+      i\xE7in %10 \u015Fans vard\u0131r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859545615200256
+    m_Localized: "Sald\u0131r\u0131rken yak\u0131ndaki d\xFC\u015Fmanlara ek hasar
+      verme \u015Fans\u0131 %20"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859846363574272
+    m_Localized: "\rSald\u0131r\u0131rken 10 saniye boyunca Kritik Vuru\u015F \u015Eans\u0131n\u0131
+      %1 art\u0131r\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860223557332992
+    m_Localized: "Sald\u0131r\u0131rken sald\u0131r\u0131 h\u0131z\u0131n\u0131 10
+      saniye boyunca %1 art\u0131r\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860464301993984
+    m_Localized: "Sald\u0131r\u0131 s\u0131ras\u0131nda Maks HP'nin %1'i kadar HP
+      Yenileme \u015Fans\u0131 %25"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860753960628224
+    m_Localized: "Her 7 sald\u0131r\u0131 i\xE7in ek hasar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861456917590016
+    m_Localized: "Vuruldu\u011Funda, d\xFC\u015Fman\u0131 3 saniye boyunca yakmak
+      i\xE7in %50 \u015Fans vard\u0131r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861731170545664
+    m_Localized: "Sald\u0131r\u0131ya u\u011Frad\u0131\u011F\u0131nda d\xFC\u015Fmanlar\u0131
+      3 saniyeli\u011Fine yava\u015Flatma \u015Fans\u0131 %50"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861953338634240
+    m_Localized: "Sald\u0131r\u0131ya u\u011Frad\u0131\u011F\u0131nda yak\u0131ndaki
+      d\xFC\u015Fmanlara hasar verme \u015Fans\u0131 %30"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862229927817216
+    m_Localized: "Bir d\xFC\u015Fman\u0131 \xF6ld\xFCrd\xFC\u011F\xFCn\xFCzde 50'ye
+      kadar \u015Farj olan bir kalkana 3 \u015Farj"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862381434466304
+    m_Localized: "Bir d\xFC\u015Fman\u0131 \xF6ld\xFCr\xFCrken sava\u015F\u0131 desteklemek
+      i\xE7in bir \xD6r\xFCmcek \xE7a\u011F\u0131rma \u015Fans\u0131 %50"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862616655228928
+    m_Localized: "Bir d\xFC\u015Fman\u0131 \xF6ld\xFCrd\xFC\u011F\xFCnde 3 sa\u011Fl\u0131k
+      kazan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862685760581632
+    m_Localized: "Bir d\xFC\u015Fman\u0131 \xF6ld\xFCr\xFCrken sava\u015F\u0131 desteklemek
+      i\xE7in bir \u0130skelet \xE7a\u011F\u0131rma \u015Fans\u0131 %30"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862848705097728
+    m_Localized: "Her ruloda bir bomba \xE7a\u011F\u0131r\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862972164435968
+    m_Localized: "Her ruloda bir tuzak \xE7a\u011F\u0131r\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17868589465759744
+    m_Localized: "HP %30'dan az oldu\u011Funda Savunmay\u0131 15 art\u0131r\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17869545859346432
+    m_Localized: "Anahtar kullan\u0131rken anahtar\u0131 t\xFCketmeme \u015Fans\u0131
+      %50"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17869692223778816
+    m_Localized: "Kritik vuru\u015Fta d\xFC\u015Fman\u0131 3 saniye yakar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17870936170459136
+    m_Localized: "HP %50'den az oldu\u011Funda Hasar\u0131 %50 art\u0131r\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17871808761851904
+    m_Localized: "Seviye atlarken t\xFCm HP'yi kurtar\u0131r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,338 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Item_fr-FR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: 38828ad947cfa8442a4cf832572b3e84, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11068665856
+    m_Localized: Arc en bois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226643308544
+    m_Localized: "\xC9p\xE9e de fer bris\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229931642880
+    m_Localized: "Bouclier bris\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424552215506944
+    m_Localized: "\xC9p\xE9e en bois"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424693597106176
+    m_Localized: "\xC9p\xE9e courte en fer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424716011466752
+    m_Localized: "\xC9p\xE9e longue"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424729802338304
+    m_Localized: "\xC9p\xE9e d'argent"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424741936459776
+    m_Localized: "\xC9p\xE9e h\xE9ro\xEFque"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424754611646464
+    m_Localized: Tueur de golems
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427035016982528
+    m_Localized: "Bouclier bris\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427036887642112
+    m_Localized: Bouclier en bois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427037978161152
+    m_Localized: Bouclier de fer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427038682804224
+    m_Localized: Bouclier de chevalier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427039513276416
+    m_Localized: "Bouclier h\xE9ro\xEFque"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427826683473920
+    m_Localized: Casque en bois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427828034039808
+    m_Localized: Casque de fer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427828998729728
+    m_Localized: Casque sanglant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427829766287360
+    m_Localized: Casque de Berserker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427830538039296
+    m_Localized: "Casque h\xE9ro\xEFque"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429122413031424
+    m_Localized: Armure de fer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429122991845376
+    m_Localized: Armure de chevalier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429123570659328
+    m_Localized: Armure sanglante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429124275302400
+    m_Localized: Armure de Berserker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431088316870656
+    m_Localized: Bottes de fer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431088870518784
+    m_Localized: Bottes de chevalier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431089453527040
+    m_Localized: Bottes berserkers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645634465886208
+    m_Localized: Arc en bois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645635111809024
+    m_Localized: Arc en bois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645635946475520
+    m_Localized: Arc en teck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645636722421760
+    m_Localized: "Arc en \xE9b\xE8ne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645637557088256
+    m_Localized: "Arc de panth\xE8re noire"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645638265925632
+    m_Localized: Arc de sang de dragon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646398353502208
+    m_Localized: "Capuche en cuir fonc\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646398978453504
+    m_Localized: Chaperon de chasseur des marais
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646399624376320
+    m_Localized: Capuche magique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649856364212224
+    m_Localized: Chapeau de Gery Mage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649856934637568
+    m_Localized: Chapeau de Mage Brandefeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649857702195200
+    m_Localized: Mage FantasmatiqueChapeau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649858159374336
+    m_Localized: MoonLight MageChapeau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650970836922368
+    m_Localized: Chaussures Gery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650971419930624
+    m_Localized: "Chaussures de poussi\xE8re d'\xE9toiles"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650972065853440
+    m_Localized: Chaussures en peau de wyverne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 651859492499456
+    m_Localized: Peignoir gris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 651860109062144
+    m_Localized: "Robe de temp\xEAte de sable"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 651860658515968
+    m_Localized: Robe clair de lune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652697925480448
+    m_Localized: Dague de fer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652698521071616
+    m_Localized: "Poignard \xE0 crocs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652699095691264
+    m_Localized: Dague de venin sombre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653089837051904
+    m_Localized: MainCroixArc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653090445225984
+    m_Localized: MainCroixArc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653090961125376
+    m_Localized: MainCroixArc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654873217363968
+    m_Localized: "G\xE9ry Hood"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654873351581696
+    m_Localized: Chaperon de brouillard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654876073684992
+    m_Localized: "Chaperon du Cr\xE9puscule"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663640214499328
+    m_Localized: Armure en cuir gris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663640793313280
+    m_Localized: Armure en cuir de vache
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663641388904448
+    m_Localized: Armure en cuir de SandStorm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663642059993088
+    m_Localized: Wyvern SkinArmor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674794978570240
+    m_Localized: Baguette en bois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674838817435648
+    m_Localized: Baguette en bois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674843619913728
+    m_Localized: Baguette De Fleur De Givre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674844169367552
+    m_Localized: FlammeFleur Baguette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674844819484672
+    m_Localized: Baguette du Vide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674865614843904
+    m_Localized: Baguette cosmique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 678178930454528
+    m_Localized: Armure en cuir de SandStorm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146586532835328
+    m_Localized: Bottines en cuir Gery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146587111649280
+    m_Localized: "Bottes de temp\xEAte de sable"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146587686268928
+    m_Localized: Bottes en peau de wyverne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146781345673216
+    m_Localized: "Bottes en peau de l\xE9zard"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147247529979904
+    m_Localized: Dague de fer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147248104599552
+    m_Localized: Dague d'assassin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147248754716672
+    m_Localized: Dague de rupture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22603713533079552
+    m_Localized: Petite potion de vie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22603719535128576
+    m_Localized: Potion de vie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22603731346288640
+    m_Localized: Grande potion de vie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41597387377897472
+    m_Localized: "Cl\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51157912428376064
+    m_Localized: bottes en cuir miteuses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51157980527095808
+    m_Localized: "\rbottes en cuir de loup"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51157992837378048
+    m_Localized: "bottes en \xE9cailles de dragon"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

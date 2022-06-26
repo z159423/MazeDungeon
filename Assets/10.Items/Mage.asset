@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30a6cd8fa8723e241a79c9d05cb0bf6e, type: 3}
+  m_Name: Mage
+  m_EditorClassIdentifier: 
+  characterclass: 1
+  itemlist:
+  - itemType: 3
+    leftWeaponType: 0
+    rightWeaponType: 4
+    itemlist:
+    - {fileID: 11400000, guid: fc89b4756c73b844ebf81e77f09aa764, type: 2}
+    itemlist2:
+    - itemQuality: 0
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: fc89b4756c73b844ebf81e77f09aa764, type: 2}
+        MinDamage: 5
+        MaxDamage: 10
+        Defence: 0
+        Speed: 0
+        ShieldPoint: 0
+      - name: 
+        item: {fileID: 11400000, guid: 70f1638d7c5a37d419964b757b8f5077, type: 2}
+        MinDamage: 5
+        MaxDamage: 10
+        Defence: 0
+        Speed: 0
+        ShieldPoint: 0
+    - itemQuality: 1
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: 70f1638d7c5a37d419964b757b8f5077, type: 2}
+        MinDamage: 6
+        MaxDamage: 11
+        Defence: 0
+        Speed: 0
+        ShieldPoint: 0
+      - name: 
+        item: {fileID: 11400000, guid: ba288f05650967349b8f70e66526ecd3, type: 2}
+        MinDamage: 6
+        MaxDamage: 11
+        Defence: 0
+        Speed: 0
+        ShieldPoint: 0
+    - itemQuality: 2
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: ba288f05650967349b8f70e66526ecd3, type: 2}
+        MinDamage: 7
+        MaxDamage: 12
+        Defence: 0
+        Speed: 0
+        ShieldPoint: 0
+      - name: 
+        item: {fileID: 11400000, guid: 603eea99dc06dc2498c771ae463cabe0, type: 2}
+        MinDamage: 7
+        MaxDamage: 12
+        Defence: 0
+        Speed: 0
+        ShieldPoint: 0
+    - itemQuality: 3
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: 2336617b474404e43b736c79ad124c02, type: 2}
+        MinDamage: 7
+        MaxDamage: 12
+        Defence: 0
+        Speed: 0
+        ShieldPoint: 0
+      - name: 
+        item: {fileID: 11400000, guid: b37ec6a1e06043246b81f5c05c20ab6f, type: 2}
+        MinDamage: 7
+        MaxDamage: 12
+        Defence: 0
+        Speed: 0
+        ShieldPoint: 0
+  - itemType: 0
+    leftWeaponType: 0
+    rightWeaponType: 0
+    itemlist:
+    - {fileID: 11400000, guid: 71e5623032983584a9677ee5ecf207a4, type: 2}
+    - {fileID: 11400000, guid: a58dc42133289244c8243a6b1068d4be, type: 2}
+    - {fileID: 11400000, guid: 55a761553db9df4499147a107831986b, type: 2}
+    itemlist2:
+    - itemQuality: 0
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: 71e5623032983584a9677ee5ecf207a4, type: 2}
+        MinDamage: 0
+        MaxDamage: 0
+        Defence: 1
+        Speed: 0
+        ShieldPoint: 0
+    - itemQuality: 1
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: 71e5623032983584a9677ee5ecf207a4, type: 2}
+        MinDamage: 0
+        MaxDamage: 0
+        Defence: 2
+        Speed: 0
+        ShieldPoint: 0
+      - name: 
+        item: {fileID: 11400000, guid: a58dc42133289244c8243a6b1068d4be, type: 2}
+        MinDamage: 0
+        MaxDamage: 0
+        Defence: 2
+        Speed: 0
+        ShieldPoint: 0
+    - itemQuality: 2
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: 55a761553db9df4499147a107831986b, type: 2}
+        MinDamage: 0
+        MaxDamage: 0
+        Defence: 3
+        Speed: 0
+        ShieldPoint: 0
+    - itemQuality: 3
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: cfa3193963213fe48997e88a194f93fb, type: 2}
+        MinDamage: 0
+        MaxDamage: 0
+        Defence: 3
+        Speed: 0
+        ShieldPoint: 0
+  - itemType: 1
+    leftWeaponType: 0
+    rightWeaponType: 0
+    itemlist:
+    - {fileID: 11400000, guid: 7af6437ba1470f34ca1ef3b006e1002e, type: 2}
+    - {fileID: 11400000, guid: 6845e516713feaf4b8a5cbffe201ce7c, type: 2}
+    - {fileID: 11400000, guid: e3cf5ea0633dce1479329a1c9b3b1263, type: 2}
+    itemlist2:
+    - itemQuality: 0
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: 7af6437ba1470f34ca1ef3b006e1002e, type: 2}
+        MinDamage: 0
+        MaxDamage: 0
+        Defence: 2
+        Speed: 0
+        ShieldPoint: 0
+    - itemQuality: 1
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: 7af6437ba1470f34ca1ef3b006e1002e, type: 2}
+        MinDamage: 0
+        MaxDamage: 0
+        Defence: 3
+        Speed: 0
+        ShieldPoint: 0
+    - itemQuality: 2
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: 6845e516713feaf4b8a5cbffe201ce7c, type: 2}
+        MinDamage: 0
+        MaxDamage: 0
+        Defence: 4
+        Speed: 0
+        ShieldPoint: 0
+    - itemQuality: 3
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: e3cf5ea0633dce1479329a1c9b3b1263, type: 2}
+        MinDamage: 0
+        MaxDamage: 0
+        Defence: 4
+        Speed: 0
+        ShieldPoint: 0
+  - itemType: 2
+    leftWeaponType: 0
+    rightWeaponType: 0
+    itemlist:
+    - {fileID: 11400000, guid: 15100c649102c9a48b8d4b551fb0f6ab, type: 2}
+    - {fileID: 11400000, guid: 0ab9c664514f82247af6d991d6b9a287, type: 2}
+    - {fileID: 11400000, guid: 8cbadc1db8af61c4a9b23410a80ecd80, type: 2}
+    itemlist2:
+    - itemQuality: 0
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: 15100c649102c9a48b8d4b551fb0f6ab, type: 2}
+        MinDamage: 0
+        MaxDamage: 0
+        Defence: 1
+        Speed: 1
+        ShieldPoint: 0
+    - itemQuality: 1
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: 15100c649102c9a48b8d4b551fb0f6ab, type: 2}
+        MinDamage: 0
+        MaxDamage: 0
+        Defence: 2
+        Speed: 2
+        ShieldPoint: 0
+    - itemQuality: 2
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: 0ab9c664514f82247af6d991d6b9a287, type: 2}
+        MinDamage: 0
+        MaxDamage: 0
+        Defence: 3
+        Speed: 3
+        ShieldPoint: 0
+    - itemQuality: 3
+      items:
+      - name: 
+        item: {fileID: 11400000, guid: 8cbadc1db8af61c4a9b23410a80ecd80, type: 2}
+        MinDamage: 0
+        MaxDamage: 0
+        Defence: 3
+        Speed: 3
+        ShieldPoint: 0

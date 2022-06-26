@@ -1,0 +1,557 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Artifact_es-AR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-AR
+  m_SharedData: {fileID: 11400000, guid: aad134bfcd86b204cba9ac183ee5eba7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 193286008832
+    m_Localized: Anillo de plata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 502573985792
+    m_Localized: Es un anillo de plata con magia que potencia la defensa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 632052150272
+    m_Localized: Anillo de oro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 668114776064
+    m_Localized: Es un anillo con magia que te hace fuerte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748808990720
+    m_Localized: Collar de plata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753242370048
+    m_Localized: "Es un collar m\xE1gico que hace que tu ataque sea r\xE1pido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 962810769408
+    m_Localized: Collar de oro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 965268631552
+    m_Localized: Es un collar con magia que te hace poderoso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1025087795200
+    m_Localized: Collar de dientes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027730206720
+    m_Localized: Es un collar que hace que tu ataque sea fatal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090510548992
+    m_Localized: "Anillo de rub\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1128032792576
+    m_Localized: "Es un anillo m\xE1gico que aumenta tu salud."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1203484127232
+    m_Localized: Artefacto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1226020122624
+    m_Localized: Cristal azul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571270433239040
+    m_Localized: Este cristal puede ser de apoyo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621093530267648
+    m_Localized: Cristal rojo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621371990110208
+    m_Localized: Este cristal puede ser de apoyo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621485827715072
+    m_Localized: Cristal amarillo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621486461054976
+    m_Localized: Este cristal puede ser de apoyo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077246672400384
+    m_Localized: "Coraz\xF3n congelado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077248958296064
+    m_Localized: "Es un coraz\xF3n que est\xE1 helado. Sin embargo, puedes sentir
+      el poderoso bombeo de man\xE1."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114047076265984
+    m_Localized: Pluma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114049785786368
+    m_Localized: "Parece una pluma com\xFAn, pero cuando la llevas, te sientes algo
+      m\xE1s ligero."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499125707075584
+    m_Localized: pan de duende
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499127716147200
+    m_Localized: Es un pan de duende que se llena hasta con un bocado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1516783320068096
+    m_Localized: Coleccionista de almas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1516785022955520
+    m_Localized: "Es terrible quitar el alma, pero tambi\xE9n es \xFAtil."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1690945837756416
+    m_Localized: Piedra de magma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1690976389066752
+    m_Localized: "Hace tanto calor que es dif\xEDcil tocarlo, el enemigo tendr\xE1
+      miedo de atacar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1795657463394304
+    m_Localized: Roca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1795659136921600
+    m_Localized: "Es una piedra que parece firme. Creo que me marear\xE9 si me golpean."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830790618836992
+    m_Localized: "Huevo de ara\xF1a par\xE1sita"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830791373811712
+    m_Localized: "Hay criaturas en el mundo que ponen huevos en el cuerpo de otras
+      criaturas, \xA1eso es espeluznante!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830934336663552
+    m_Localized: Guantelete de piedra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830935255216128
+    m_Localized: Lo hace pesado pero poderoso.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1885416307191808
+    m_Localized: "Colmillo de v\xEDbora"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1885416856645632
+    m_Localized: "Son los colmillos de una v\xEDbora a los que a\xFAn les queda un
+      poco de veneno."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912447162019840
+    m_Localized: "Car\xE1mbano"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912447686307840
+    m_Localized: "Es un car\xE1mbano fr\xEDo y afilado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926509505703936
+    m_Localized: Amuleto de escudo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926510243901440
+    m_Localized: "Es un peque\xF1o amuleto de escudo que te protege."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588068108201984
+    m_Localized: esquivar encanto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588068687015936
+    m_Localized: "\xBFQuieres rodar con m\xE1s seguridad? Lleva este amuleto contigo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678880984788992
+    m_Localized: Tercer ojo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678881626517504
+    m_Localized: "Estos son los ojos de aquellos que dominaron las artes marciales
+      en el pasado, y puedes obtener la iluminaci\xF3n con solo sostenerlos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2679281805062144
+    m_Localized: Pie de bestia trueno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2679283361148928
+    m_Localized: "Son los pies de una bestia que tiene la capacidad de manejar el
+      trueno, y puedes sentir la sensaci\xF3n de hormigueo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3178190558097408
+    m_Localized: Bolsa de dinero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3178191132717056
+    m_Localized: "Es un bolsillo con dinero, no sabemos cu\xE1nto contiene."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200255675756544
+    m_Localized: Pierna de pollo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200256254570496
+    m_Localized: Es un muslo de pollo que te hace sentir lleno cuando le das un mordisco.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200496063901696
+    m_Localized: hada perdida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200496579801088
+    m_Localized: " Es un hada peque\xF1a e impotente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3361631631208448
+    m_Localized: Concha de caracol antigua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3361632205828096
+    m_Localized: "Es el caparaz\xF3n de un caracol, y se ve muy resistente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374508651999232
+    m_Localized: Llave maestra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374557679218688
+    m_Localized: Solo la mitad de ellos son claves completas efectivas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379837120966656
+    m_Localized: Cubo de hielo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379838928711680
+    m_Localized: "Es un trozo de hielo que nunca se derrite, hace mucho fr\xEDo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3413251240914944
+    m_Localized: Aguja de llama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3413251886837760
+    m_Localized: "Es un Niddle que contiene la energ\xEDa del fuego, que puede causar
+      poderosas quemaduras al enemigo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3420482908876800
+    m_Localized: Garra de Bestia Trueno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3420483487690752
+    m_Localized: "Son los pies de una bestia que tiene la capacidad de manejar el
+      trueno, y puedes sentir la sensaci\xF3n de hormigueo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421718710218752
+    m_Localized: Gema sangrienta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421719293227008
+    m_Localized: Es una maldita gema codiciosa, ansiosa de sangre.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422148617990144
+    m_Localized: Libro antiguo del nigromante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422149138083840
+    m_Localized: Es un libro antiguo del nigromante, que contiene el conocimiento
+      de revivir el cuerpo con esqueleto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423287593824256
+    m_Localized: Guante de combate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423288176832512
+    m_Localized: Guantes que ayudan a identificar las debilidades del enemigo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423907788779520
+    m_Localized: Parche de ojo de berserker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423908384370688
+    m_Localized: Berserker no tiene miedo de ser herido.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423984926224384
+    m_Localized: BerserkerDiadema
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423985446318080
+    m_Localized: Esta maldita diadema llena tu locura.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424850173390848
+    m_Localized: Bolsa bomba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424850756399104
+    m_Localized: "Es una bolsa llena de bombas, \xA1ten cuidado de no dejarlas caer!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424852761276416
+    m_Localized: Bolsa trampa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424853344284672
+    m_Localized: "Es una bolsa llena de trampas, \xA1ten cuidado de no dejarlas caer!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3425606460928000
+    m_Localized: club de ogros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3425606913912832
+    m_Localized: Es un club pesado, aburrido, pero poderoso.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805341032542208
+    m_Localized: Colgante vampiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805341544247296
+    m_Localized: "Este poderoso colgante de vampiro tiene una tremenda absorci\xF3n
+      de vida."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4054562549690368
+    m_Localized: "pu\xF1al roto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4054563069784064
+    m_Localized: Debe haber sido fatal antes de que se rompiera.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103413557620736
+    m_Localized: Pluma de grifo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103414132240384
+    m_Localized: "Esta pluma te llenar\xE1 de energ\xEDa cada vez que suba de nivel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17849768583524352
+    m_Localized: Defensa aumentada en un 10%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17850776646742016
+    m_Localized: Velocidad de ataque aumentada en un 10%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851438470164480
+    m_Localized: "Max HP aument\xF3 en un 20"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851662399860736
+    m_Localized: "Probabilidad de Golpe Cr\xEDtico aumentada un 5%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851817232592896
+    m_Localized: Aumenta la defensa en un 10% MAX HP en un 10%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17852410307178496
+    m_Localized: "Aumenta la velocidad de ataque en un 10 % y la probabilidad de
+      golpe cr\xEDtico en un 5 %."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17852640339587072
+    m_Localized: Invocar cristales para apoyar la batalla.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853063674884096
+    m_Localized: Invocar cristales para apoyar la batalla.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853113314471936
+    m_Localized: Invocar cristales para apoyar la batalla.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853207870861312
+    m_Localized: "Un escudo que se carga en un 30% de la vida m\xE1xima cobra 5 cada
+      5 segundos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853979845095424
+    m_Localized: Velocidad de movimiento aumentada en un 10%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854370561290240
+    m_Localized: "La resistencia m\xE1xima aument\xF3 en un 20 %. La velocidad de
+      recuperaci\xF3n de la resistencia aument\xF3 en un 10 %."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854585875886080
+    m_Localized: Velocidad de movimiento reducida en un 10% Potencia de ataque aumentada
+      en un 10%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854784492957696
+    m_Localized: "El poder de ataque aument\xF3 en un 10 % 20 % de probabilidad al
+      atacar de disminuir la velocidad de movimiento del enemigo en un 30 % durante
+      3 segundos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855535785078784
+    m_Localized: Defensa aumentada en 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855661001830400
+    m_Localized: 20% de aumento del tiempo de invencibilidad de la tirada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855955441971200
+    m_Localized: "\rProbabilidad de esquivar aumentada un 30 %"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17856092251779072
+    m_Localized: obtener monedas al azar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857053523341312
+    m_Localized: "Max HP aument\xF3 en 20 Recupera el 50% de HP"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857384680419328
+    m_Localized: Invoca a un hada para que te apoye en la batalla.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857718207279104
+    m_Localized: "\r50% de aumento en el poder de ataque\r Los golpes cr\xEDticos
+      no se activan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17858156512047104
+    m_Localized: 10% de probabilidad de aturdir al enemigo durante 2 segundos al
+      atacar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859023252385792
+    m_Localized: Al atacar, hay un 10% de probabilidad de envenenar al enemigo durante
+      6 segundos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859545615200256
+    m_Localized: "20% de probabilidad de infligir da\xF1o adicional a los enemigos
+      cercanos al atacar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859846363574272
+    m_Localized: "\rAumenta la probabilidad de golpe cr\xEDtico en un 1% durante
+      10 segundos al atacar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860223557332992
+    m_Localized: Aumenta la velocidad de ataque en un 1% durante 10 segundos al atacar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860464301993984
+    m_Localized: 25% de probabilidad de Recuperar HP por 1% de Max HP al atacar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860753960628224
+    m_Localized: "Da\xF1o adicional por cada 7 ataques"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861456917590016
+    m_Localized: Cuando se golpea, hay un 50% de posibilidades de quemar al enemigo
+      durante 3 segundos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861731170545664
+    m_Localized: 50% de probabilidad de ralentizar a los enemigos durante 3 segundos
+      cuando son atacados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861953338634240
+    m_Localized: "30% de probabilidad de infligir da\xF1o a los enemigos cercanos
+      cuando son atacados"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862229927817216
+    m_Localized: 3 cargas a un escudo que carga hasta 50 cuando matas a un enemigo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862381434466304
+    m_Localized: "50% de probabilidad de convocar a una ara\xF1a para apoyar la batalla
+      al matar a un enemigo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862616655228928
+    m_Localized: Gana 3 de salud cuando matas a un enemigo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862685760581632
+    m_Localized: 30% de probabilidad de convocar a un esqueleto para apoyar la batalla
+      al matar a un enemigo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862848705097728
+    m_Localized: Invoca una bomba en cada tirada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862972164435968
+    m_Localized: Invoca una trampa en cada tirada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17868589465759744
+    m_Localized: Aumenta la Defensa en 15 cuando HP es inferior al 30%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17869545859346432
+    m_Localized: 50% de probabilidad de no consumir una clave cuando se usa una clave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17869692223778816
+    m_Localized: "Quema al enemigo durante 3 segundos con un golpe cr\xEDtico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17870936170459136
+    m_Localized: "Aumenta el da\xF1o en un 50% cuando HP es inferior al 50%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17871808761851904
+    m_Localized: Recupera todos los HP al subir de nivel
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

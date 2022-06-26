@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 094d7411cc27e6846b10ed94b99ab344
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - textmesh: {fileID: 6215671399216843376, guid: c6f3a115aa0e2f14a91a2aefb385bc22,
+      type: 3}
+  - playercontroller: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

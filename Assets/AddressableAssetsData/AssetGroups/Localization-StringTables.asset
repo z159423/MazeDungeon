@@ -1,0 +1,555 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-StringTables
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-StringTables
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8b83c0675cfeede4fb4e3cabd0fff81e
+  m_SerializeEntries:
+  - m_GUID: ae96d6e29be50c64895e1301a4080bbf
+    m_Address: UI Text_ko-KR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko-KR
+  - m_GUID: efee298e1f1b98d4598496529cc22e62
+    m_Address: UI Text_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 79129e1ae8f41ff41b1ffbadefaf639e
+    m_Address: Item_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 8725a60a39f29724cbec8d1240388dde
+    m_Address: Item_ko-KR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko-KR
+  - m_GUID: d91013b8232e6da4bad536102768aca7
+    m_Address: Enchant_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: ec893ddabe83b174fb8d33e479edbee4
+    m_Address: Enchant_ko-KR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko-KR
+  - m_GUID: 6cc950c342fba52459763f8cf9cf30e6
+    m_Address: UI_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 2a1aec1988e67444399ca7c49c487f30
+    m_Address: UI_ko-KR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko-KR
+  - m_GUID: 7e82952ef26450d408d7f52ffad4d9c5
+    m_Address: Artifact_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: f26b694d19d387d48b86455f0f30193e
+    m_Address: Artifact_ko-KR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko-KR
+  - m_GUID: e4d86616226345c4ea57b69d90c5e6b8
+    m_Address: Skill_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 65f8b35e0ea0ede42a4024ae8fb51475
+    m_Address: Skill_ko-KR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko-KR
+  - m_GUID: 9342c95e9495ff44f9c850d21c31c631
+    m_Address: Conversation_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 21206825fef3580449a07108be5822f3
+    m_Address: Conversation_ko-KR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko-KR
+  - m_GUID: 334630698f6510646b22403fba5fd9d2
+    m_Address: Conversation_ru-RU
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+  - m_GUID: 6c8d21d98dcbaac4dad8294d50a29a1e
+    m_Address: UI_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+  - m_GUID: ae720d58def931441973f3b88e302664
+    m_Address: UI_de-DE
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de-DE
+  - m_GUID: 5b8559870e03c25409647583429c3a02
+    m_Address: UI_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+  - m_GUID: c684ff77ec3a08b458f30fe78507985b
+    m_Address: UI_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+  - m_GUID: b0886e5b9ab47ce458bbba56cedc81bc
+    m_Address: UI_ru-RU
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+  - m_GUID: 0a1e0b5e5eedf1449bbba6672c172b59
+    m_Address: UI_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+  - m_GUID: e1cfd8effb2b53541acb9dec2c33dc83
+    m_Address: UI_tr-TR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr-TR
+  - m_GUID: 42dd61d1d02c62446836c825c2928ea9
+    m_Address: Conversation_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+  - m_GUID: 89baa9262c12bdd4c8ecaea604e8dd8c
+    m_Address: Conversation_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+  - m_GUID: 7e71cc650ae337444bd731613435eafc
+    m_Address: Conversation_de-DE
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de-DE
+  - m_GUID: 624cf1905f2f3a241ae6787edebcce99
+    m_Address: Conversation_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+  - m_GUID: 3a10ba998ab24834fa24750a382af7ea
+    m_Address: Conversation_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+  - m_GUID: 2a4dd3f9a556a0c4f84bb34949258f0a
+    m_Address: Skill_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+  - m_GUID: 76319bdb3de88d24f894c94f94f1f6a5
+    m_Address: Skill_de-DE
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de-DE
+  - m_GUID: acd8cecbafd03a146b469f3b915dcac6
+    m_Address: Skill_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+  - m_GUID: 35bed7a772f708a47af3181895a049de
+    m_Address: Skill_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+  - m_GUID: dfcee7dc26ef8ee4a8d5b57042802702
+    m_Address: Skill_ru-RU
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+  - m_GUID: 500f1324ee5341d41a17a32cee935047
+    m_Address: Skill_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+  - m_GUID: 83ec044046c72eb4f8471657b8995491
+    m_Address: Skill_tr-TR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr-TR
+  - m_GUID: 5c08fe3ae2b4a944497d963598de641f
+    m_Address: Artifact_tr-TR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr-TR
+  - m_GUID: 5074b5155af98c7488e8e723724703bc
+    m_Address: Conversation_tr-TR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr-TR
+  - m_GUID: 93ab8818081c71843a83f5ccee851a64
+    m_Address: Artifact_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+  - m_GUID: b513ede31b3ceb84aac2cc40a96810a2
+    m_Address: Artifact_de-DE
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de-DE
+  - m_GUID: 9fa4f6487786ad94b95d7a4cd18b96b0
+    m_Address: Artifact_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+  - m_GUID: 80de928b2ebf7504cb84aa119dfa57f5
+    m_Address: Artifact_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+  - m_GUID: 53a918a7ceda8404cb4de0878bd6a2d9
+    m_Address: Artifact_ru-RU
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+  - m_GUID: a9a994d02233e9848b954e3b971643cc
+    m_Address: Artifact_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+  - m_GUID: 205c7a41b80988c41926e5e620ea16ba
+    m_Address: Conversation_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+  - m_GUID: 88823fe6d5c22cb468bd396e2da31e12
+    m_Address: Artifact_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+  - m_GUID: 04cfbb6a08724b742949e65f6eba62e0
+    m_Address: UI_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+  - m_GUID: ebcfdfb2b9b2af042b0ae9e22eff85e0
+    m_Address: Enchant_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+  - m_GUID: c685e4192f5172349aa81f47dc1064b8
+    m_Address: Enchant_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+  - m_GUID: 1cc589ab7b14dcb43b586ca70c927816
+    m_Address: Enchant_de-DE
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de-DE
+  - m_GUID: aa8bde5a592c1de45ad34455b8356373
+    m_Address: Enchant_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+  - m_GUID: 946c368e630dec64fa97762d7d2a102e
+    m_Address: Enchant_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+  - m_GUID: 7756be74402d545448aeef9e82b9952a
+    m_Address: Enchant_ru-RU
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+  - m_GUID: 13d4d219d27b2a94e9e7700f9ef4427d
+    m_Address: Enchant_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+  - m_GUID: c40bc3714ce5e9e40b74876620688327
+    m_Address: Enchant_tr-TR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr-TR
+  - m_GUID: 0148890b0279d1a4886d8d22a01766c3
+    m_Address: Item_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+  - m_GUID: 0ab549d318e869349b6d5230c7b53f1a
+    m_Address: Item_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+  - m_GUID: 7ab1625f631e81b4092277526a4dbf89
+    m_Address: Item_de-DE
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de-DE
+  - m_GUID: d11923e962e55b04ab3363a5738f68a0
+    m_Address: Item_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+  - m_GUID: a65166050fc32314981970a5820f61e6
+    m_Address: Item_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+  - m_GUID: 0c1265b10ad10574f900d4b6710bebfd
+    m_Address: Item_ru-RU
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+  - m_GUID: d86561dd2c002874a97776f47f823d1b
+    m_Address: Item_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+  - m_GUID: f940d32c9f5738c448d7306873258112
+    m_Address: Item_tr-TR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr-TR
+  - m_GUID: 63c307b15b3366a4bb631b156ce7fb16
+    m_Address: Skill_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+  - m_GUID: e22c1ed51cf13e749a5a38739d9acde4
+    m_Address: Artifact_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+  - m_GUID: efa86b2c8b1047645928c920f6f4e26c
+    m_Address: Conversation_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+  - m_GUID: e7ce01ce72e140d4ab11bcdea4edb5e8
+    m_Address: Enchant_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+  - m_GUID: a8f21b9da6c1eee40955f91c66299591
+    m_Address: Item_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+  - m_GUID: 4ebf08d0e4275c347b5ac0d7f71b9e76
+    m_Address: Skill_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+  - m_GUID: b39fdccc7bc5e3242bd828a4144f0e80
+    m_Address: UI_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+  - m_GUID: 4940d3fe8cd40f446b0c0c3f634fcf8c
+    m_Address: NpcName_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: f6a5f47e8ab2134499e2e0315957864c
+    m_Address: NpcName_ko-KR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko-KR
+  - m_GUID: 4fdf80b7cefefea4dacb517d127a069d
+    m_Address: NpcName_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+  - m_GUID: 470e57aebb66a164cab9b9f556c2b324
+    m_Address: NpcName_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+  - m_GUID: ab8e0791d1d13964ba7b8a89ebe6561a
+    m_Address: NpcName_de-DE
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de-DE
+  - m_GUID: eb9dc827287d2b1428a990ec8a641bb3
+    m_Address: NpcName_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+  - m_GUID: b64ba87978dcab24fa7b0ce2be9da677
+    m_Address: NpcName_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+  - m_GUID: fc381bd944f516146aabd2c328f4efa0
+    m_Address: NpcName_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+  - m_GUID: bd1d47ed25c0ec944ade019c5ae7dd33
+    m_Address: NpcName_ru-RU
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+  - m_GUID: ca907d6a0d12afb4db0d6e2bae292db4
+    m_Address: NpcName_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+  - m_GUID: e353a614efa9b5b418075cd8dd489a27
+    m_Address: NpcName_tr-TR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr-TR
+  - m_GUID: b14ca8a8cd5f4824493e814583299238
+    m_Address: BuffDebuff_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: d1a48d906bc856643abe007827f3b950
+    m_Address: BuffDebuff_ko-KR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko-KR
+  - m_GUID: cbc136920f666e741bd3a568f1b4d3bf
+    m_Address: BuffDebuff_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+  - m_GUID: 6ddef9ff29493fb43bf69d63714d6712
+    m_Address: BuffDebuff_fr-FR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr-FR
+  - m_GUID: 47d94dd9dbc05674faac237fb3040458
+    m_Address: BuffDebuff_de-DE
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de-DE
+  - m_GUID: 1b77ab114ab05f243bae52c8c2a61842
+    m_Address: BuffDebuff_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+  - m_GUID: b00dec6d8432037488ca8448e4c8ac27
+    m_Address: BuffDebuff_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+  - m_GUID: a6c3d9b468860f5429569c98f9496717
+    m_Address: BuffDebuff_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+  - m_GUID: 66b57caae4815d7418b865c1f1d07ae6
+    m_Address: BuffDebuff_ru-RU
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+  - m_GUID: 275870dd02c6b4b448f981be8b1701da
+    m_Address: BuffDebuff_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+  - m_GUID: 4f7e212d613e8214c9f7dae03c470b9a
+    m_Address: BuffDebuff_tr-TR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr-TR
+  - m_GUID: fa4f9268e80f88f41ab1d5aed6705380
+    m_Address: BuffDebuff_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+  - m_GUID: 3aafc59d85e517a46a5e4b8c17a1671b
+    m_Address: BuffDebuff_es-AR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-AR
+  - m_GUID: ee81b5cd55cb9d34f83742c96b3006ee
+    m_Address: Artifact_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+  - m_GUID: 1f8f5608c27b7504bb15cb8772f6ec4b
+    m_Address: Artifact_es-AR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-AR
+  - m_GUID: 0784b92367a747545be3ac24ea248abc
+    m_Address: Conversation_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+  - m_GUID: 0fc46739dc853294594eccbe6c110add
+    m_Address: Conversation_es-AR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-AR
+  - m_GUID: 409b7fdff0133a747bad4f76741a342c
+    m_Address: Enchant_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+  - m_GUID: 851c2146abd84cd47b346657ec1399f0
+    m_Address: Enchant_es-AR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-AR
+  - m_GUID: f3f9bed7e5dd74141b8abfcbb5a73707
+    m_Address: Item_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+  - m_GUID: 9c0a7a3b0fd3be04a98e953987fc477a
+    m_Address: Item_es-AR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-AR
+  - m_GUID: 0b197cb4368a339428ad35018c422162
+    m_Address: NpcName_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+  - m_GUID: 9cac102724c0ef74e9d75177b6b810d7
+    m_Address: NpcName_es-AR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-AR
+  - m_GUID: 4c1c145774fafb140b6891a1c7005cb0
+    m_Address: Skill_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+  - m_GUID: 4fef9b2f18711f544a1842f0c10eb0e0
+    m_Address: Skill_es-AR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-AR
+  - m_GUID: 8f397e889c5979240a07c5f1a09ed11c
+    m_Address: UI_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+  - m_GUID: 563a668f821b33c4aa71de982feefa1f
+    m_Address: UI_es-AR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-AR
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 444bf72b07d944e4cad4d7942b687eaf, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c1d40d2b393a7ba43ba40ccdd91e9232, type: 2}
+    - {fileID: 11400000, guid: ebfd96ebea0f0344da18a852dd8096d2, type: 2}

@@ -1,0 +1,327 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Enchant_fr-FR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: 763e0beb1543a3d4aa77e096b38e1fa4, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 270066937856
+    m_Localized: "Augmente les d\xE9g\xE2ts de {value3}\_%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 521754537984
+    m_Localized: "Augmente la vitesse d'attaque {value3}\_%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 652323221504
+    m_Localized: " Lorsque vous tuez un ennemi, r\xE9cup\xE9rez autant de HP que
+      {value1}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 730018508800
+    m_Localized: "R\xE9duction de la vitesse de d\xE9placement de l'ennemi de {value3}\_%
+      avec {value4}\_% de chances d'attaque ennemie."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 777472864256
+    m_Localized: "Lie l'ennemi {value1}\_seconde avec {value2}\_% de chances d'attaquer
+      l'ennemi."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 843323437056
+    m_Localized: "\rLorsque vous attaquez un ennemi, il y a {value3}\_% de chances
+      d'empoisonner l'ennemi pendant {value2}\_secondes, infligeant {value1}\_d\xE9g\xE2ts
+      toutes les {value4}\_secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 895227949056
+    m_Localized: "Lorsque vous attaquez un ennemi, il y a {value3}\_% de chances
+      de br\xFBler l'ennemi pendant {value2}\_secondes, infligeant {value1}\_d\xE9g\xE2ts
+      toutes les {value4}\_secondes."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 936143384576
+    m_Localized: "\rLorsque vous attaquez un ennemi, vous avez {value3}\_% de chances
+      d'\xE9tourdir l'ennemi pendant {value1}\_secondes"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 998248443904
+    m_Localized: 
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1050488500224
+    m_Localized: "\rAugmente la quantit\xE9 d'argent l\xE2ch\xE9e par les ennemis
+      de {value1}\_% lorsque vous les tuez."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1133397307392
+    m_Localized: "Augmenter les chances de coup critique {value3}\_%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1214250905600
+    m_Localized: "Lorsque vous attaquez un ennemi, il y a {Percent}\_% de chances
+      d'infliger une attaque de zone \xE9gale \xE0 {Value}\_% aux ennemis proches."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1265119424512
+    m_Localized: "\rLorsque vous tirez une fl\xE8che, il y a {value3} % de chances
+      de tirer une fl\xE8che de plus."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1318806515712
+    m_Localized: "En attaquant, il y a {value3}\_% de chances de tirer une fl\xE8che
+      qui transperce l'ennemi."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1398410211328
+    m_Localized: "D\xE9g\xE2ts des attaques dans le dos augment\xE9s de {value3}\_%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1468694163456
+    m_Localized: "\rAugmente la d\xE9fense du bouclier de {value3}\_%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1530061025280
+    m_Localized: "Augmente la d\xE9fense de {value3}\_%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1674437357568
+    m_Localized: "Augmente les PV maximum de {value3}\_%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1746474528768
+    m_Localized: "Augmente l'endurance maximale de {value3}\_%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1785791934464
+    m_Localized: "Augmente le maximum de mana de {value1}\_%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1893111590912
+    m_Localized: "Vitesse furtive augment\xE9e de {value1}\_%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1963122913280
+    m_Localized: "\rAugmente la rage obtenue en tuant des ennemis de {value1}\_%."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1989660274688
+    m_Localized: "Augmente la r\xE9cup\xE9ration de mana {value1} pendant une seconde"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2035285913600
+    m_Localized: "Lorsqu'il est attaqu\xE9 par un ennemi, {value3}\_% de mes d\xE9g\xE2ts
+      d'attaque sont renvoy\xE9s \xE0 l'ennemi attaqu\xE9"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2101472030720
+    m_Localized: "Cr\xE9e une armure de givre qui charge jusqu'\xE0 {Value}, qui
+      se charge \xE0 {Percent} par {Time}seconde."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2147580014592
+    m_Localized: "Vitesse de d\xE9placement augment\xE9e de {value3}\_%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2188789051392
+    m_Localized: "Augmente la vitesse de d\xE9placement en mode furtif de {value3}\_%"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 35523952000266240
+    m_Localized: "Augmente le gain de rage de {value1} lors de la d\xE9fense avec
+      un bouclier"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 35536765720621056
+    m_Localized: Gagnez {value1} de mana lorsque vous tuez un ennemi.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 162030055424
+    m_Localized: Dommage accru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399289249792
+    m_Localized: Augmentation de la vitesse d'attaque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 577186459648
+    m_Localized: Sangsue de vie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696950616064
+    m_Localized: Ralentir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753242370048
+    m_Localized: Obligatoire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 790798168064
+    m_Localized: Empoisonnement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 863091191808
+    m_Localized: "Br\xFBler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 911216635904
+    m_Localized: "\xC9tourdir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 949690986496
+    m_Localized: "Choc \xE9lectrique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1021392613376
+    m_Localized: Pillage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1069450948608
+    m_Localized: Augmenter les chances de coup critique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1158437302272
+    m_Localized: Attaque large
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1233330794496
+    m_Localized: Coup double
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1282861330432
+    m_Localized: "Tir p\xE9n\xE9trant"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344194637824
+    m_Localized: Assassinat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428168798208
+    m_Localized: Bouclier robuste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490617790464
+    m_Localized: "Augmentation de la d\xE9fense"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1556984262656
+    m_Localized: "Augmentation maximale de la sant\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1714132250624
+    m_Localized: Augmentation de l'endurance maximale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1785229897728
+    m_Localized: Augmentation maximale du mana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1861864026112
+    m_Localized: "Aper\xE7u rapide"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1929287462912
+    m_Localized: Berserker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986602627072
+    m_Localized: "Augmentation de la r\xE9cup\xE9ration de mana"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2031418765312
+    m_Localized: "\xC9pine"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2099693645824
+    m_Localized: Armure de givre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2147391270912
+    m_Localized: "Augmentation de la vitesse de d\xE9placement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2186306023424
+    m_Localized: "augmentation de la vitesse de d\xE9placement furtive"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35523869238259712
+    m_Localized: AttaqueAbsorption
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35536742542897152
+    m_Localized: ManaDrain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43649852537466880
+    m_Localized: "diminution de la d\xE9fense"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44036554422644736
+    m_Localized: "Lorsque vous attaquez un ennemi, il y a {value3}% de chances de
+      r\xE9duire la d\xE9fense de l'ennemi de {value2}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 47151523552980992
+    m_Localized: "Augmente le taux de r\xE9cup\xE9ration de mana de {value1} %"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 47151496021569536
+    m_Localized: "Vitesse de r\xE9cup\xE9ration du mana augment\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50726734927917056
+    m_Localized: "R\xE9cup\xE9rez {value1} mana lorsque vous tuez un ennemi."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00703ee13e0000000070fe7a7900000000707ee19700000000707ef8a90000000070fe04b50000000070fe59c40000000070be6fd000000000707ef6d900000000703e6ce80000000070fe95f40000000070bee3070100000070feb61a0100000070fe8e260100000070fe0e330100000070be97450100000070fef4550100000070be3e6401000000703edc850100000070fea19601000000707ec99f01000000703ec6b801000000703e13c90100000070fe40cf01000000707ee0d901000000707e49e90100000070be05f40100000070fe9dfd0100000070fe9bd8347e0000703e0980407e0000707e4f03739c000070fe930f84a7000070fe57b237b400

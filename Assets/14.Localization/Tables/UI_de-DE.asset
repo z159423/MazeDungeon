@@ -1,0 +1,713 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: 06d4aac871359754a8fc708a86b5054e, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 316547398529024
+    m_Localized: Kauf = {PurchaseKey}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 317554182483968
+    m_Localized: Stufe {Tier}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321680480038912
+    m_Localized: Schaden {MinDamage} ~ {MaxDamage}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321724545396736
+    m_Localized: Schildmacht {ShieldPower}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321798667137024
+    m_Localized: Verteidigung {Defense}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 321902622961664
+    m_Localized: Bewegungsgeschwindigkeit {MoveSpeed}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 322631387475968
+    m_Localized: Abholung = {PickUpKey}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 323617061498880
+    m_Localized: LvL {EnchantLevel}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 347560602398720
+    m_Localized: Wiederherstellung von HP um {HpRecoverValue} bei Verwendung
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 23350865716736000
+    m_Localized: EXP + {value1}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 27263376568512512
+    m_Localized: "{InteractionKey} T\xFCr \xF6ffnen"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 27263398500528128
+    m_Localized: "{InteractionKey} Truhe \xF6ffnen"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 59273801728
+    m_Localized: Spielbeginn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132405686272
+    m_Localized: "M\xF6glichkeit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224164474880
+    m_Localized: Ausgang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1580401061888
+    m_Localized: Spiel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1630363611136
+    m_Localized: Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1647518314496
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1660520656896
+    m_Localized: Eingang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1676488372224
+    m_Localized: Sprache
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1698739154944
+    m_Localized: "Zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726027296768
+    m_Localized: Meister
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1726106988544
+    m_Localized: Musik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1789285789696
+    m_Localized: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2396574871552
+    m_Localized: Einstellung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310767614062592
+    m_Localized: Krieger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310926213279744
+    m_Localized: Schurke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310973214650368
+    m_Localized: Magier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311005506596864
+    m_Localized: "Bogensch\xFCtze"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311046010990592
+    m_Localized: Alchimist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311175443017728
+    m_Localized: Nekromant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311254614700032
+    m_Localized: Zeichenauswahl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311347191377920
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311385330184192
+    m_Localized: "Hauptmen\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311435745718272
+    m_Localized: Fortsetzen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 312927013728256
+    m_Localized: Spiel verlassen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316557204811776
+    m_Localized: Abholen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316913796149248
+    m_Localized: Block!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317017961689088
+    m_Localized: Betrachtung!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317083589963776
+    m_Localized: Doppelschuss!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317142247305216
+    m_Localized: PenetrateShot!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317200581685248
+    m_Localized: Gift!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317244412162048
+    m_Localized: Brennen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317278969032704
+    m_Localized: Verlangsamt!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317331200700416
+    m_Localized: Fassungslos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317368710361088
+    m_Localized: BackAttack!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317447940763648
+    m_Localized: Kritisch!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317492442329088
+    m_Localized: Bindung!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350178192027648
+    m_Localized: Kopfschutz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350183220998144
+    m_Localized: "Brustr\xFCstung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350184445734912
+    m_Localized: Beinschutz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350187478216704
+    m_Localized: Waffe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350189478899712
+    m_Localized: Zweit Waffe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350191676715008
+    m_Localized: "Zubeh\xF6rteil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350193090195456
+    m_Localized: Verbrauchsmaterial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350583135301632
+    m_Localized: Trank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350594556391424
+    m_Localized: Schwert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350612952608768
+    m_Localized: Bogen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350627645255680
+    m_Localized: Dolch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350650164473856
+    m_Localized: Zauberstab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350661417791488
+    m_Localized: Schild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350675506458624
+    m_Localized: HandCrossBow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6557901766160384
+    m_Localized: Nicht genug Geld
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7876820602875904
+    m_Localized: "Nicht genug Schl\xFCssel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9071193264910336
+    m_Localized: Ausweichen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10312011829112832
+    m_Localized: Schadens-Popup-Text aktivieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10714973768413184
+    m_Localized: Beten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13690106820849664
+    m_Localized: "Verst\xFCmmelt!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15365502373097472
+    m_Localized: "Krieger k\xE4mpfen mit Schwertern und Schilden.\r\nSammelt Wut
+      bei jedem Angriff und jeder Verteidigung und nutzt deine Wut, um m\xE4chtige
+      F\xE4higkeiten einzusetzen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15366367016284160
+    m_Localized: "Schurken k\xE4mpfen mit Dolchen. Mit Schleich- und R\xFCckenangriff
+      kannst du den Feind heimlich und kraftvoll von hinten angreifen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15366835914305536
+    m_Localized: "Zauberer benutzen Zauberst\xE4be zum K\xE4mpfen. Sie k\xF6nnen
+      Mana verwenden, um verschiedene m\xE4chtige magische F\xE4higkeiten einzusetzen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15367222968872960
+    m_Localized: "Bogensch\xFCtzen k\xE4mpfen mit B\xF6gen. Sie k\xF6nnen den Feind
+      aus gro\xDFer Entfernung angreifen und verschiedene Pfeile k\xF6nnen verwendet
+      werden, um den Feind anzugreifen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15383559329968128
+    m_Localized: Benutze Schleichen, um dich heimlich zu bewegen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15383856894865408
+    m_Localized: "Greife den Feind von hinten an und verursache zus\xE4tzlichen Schaden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15384204640415744
+    m_Localized: "Feuerflammen schlagen nach vorne und f\xFCgen mehreren Gegnern
+      Schaden zu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15384408118685696
+    m_Localized: "Fokussiere und feuere einen m\xE4chtigen Pfeil ab."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16086914863886336
+    m_Localized: Mausempfindlich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16289786029305856
+    m_Localized: Bete zur Statue des Lebens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16289970545127424
+    m_Localized: "Bete zur Statue der St\xE4rke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16294729943511040
+    m_Localized: Heilung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16294732015497216
+    m_Localized: "Schadenserh\xF6hung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16954683155181568
+    m_Localized: "Bet\xE4ubungsimmun"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16954754403823616
+    m_Localized: Verlangsamtes Immunsystem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16955456727445504
+    m_Localized: Rollen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18065920098201600
+    m_Localized: "F\xE4higkeitspunkt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19200644883574784
+    m_Localized: Speichern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19200876644036608
+    m_Localized: "Zur\xFCcksetzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941197170503680
+    m_Localized: 'Freischalten :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941291357794304
+    m_Localized: "T\xF6te 20 Skelettbogensch\xFCtzen\n\nAnzahl der Kills: {killedSkeletonArcherCount}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 19941364703588352
+    m_Localized: Stufe 3 klar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19941397263970304
+    m_Localized: "T\xF6te den Lich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309030802550784
+    m_Localized: Basisangriff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309100553826304
+    m_Localized: "Sekund\xE4rer Angriff"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309156765888512
+    m_Localized: Rollen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21309196997652480
+    m_Localized: Bindestrich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21330996464873472
+    m_Localized: Springen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21367061779214336
+    m_Localized: Warte auf Eingabe....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21386267539173376
+    m_Localized: Inventar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21423998269026304
+    m_Localized: Fertigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424185922187264
+    m_Localized: Minikarte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424228079136768
+    m_Localized: Karte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424277337042944
+    m_Localized: Artefakt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424685396684800
+    m_Localized: Verbrauchsartikel Schnelle Verwendung zuerst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21424943916806144
+    m_Localized: Verbrauchsgegenstand Schnelle Verwendung Zweite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425090167992320
+    m_Localized: Verbrauchsgegenstand wechseln Schnelle Verwendung Erster Steckplatzwechsel
+      (Halten)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425238797348864
+    m_Localized: Verbrauchsgegenstand wechseln Schnellnutzung Zweiter Slot (Halten)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425336348471296
+    m_Localized: "EscMen\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21425485778939904
+    m_Localized: Interaktion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21605907703951360
+    m_Localized: SkillHotKey1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606038264246272
+    m_Localized: SkillHotKey2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606050536779776
+    m_Localized: SkillHotKey3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606058623397888
+    m_Localized: SkillHotKey4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606076981866496
+    m_Localized: SkillHotKey5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606085492109312
+    m_Localized: SkillHotKey6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606096212750336
+    m_Localized: SkillHotKey7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606106371354624
+    m_Localized: SkillHotKey8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606116647399424
+    m_Localized: SkillHotKey9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21606125430272000
+    m_Localized: SkillHotKey0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21621891324080128
+    m_Localized: Gerettet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21622021934706688
+    m_Localized: "Es wurde zur\xFCckgesetzt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29158024337584128
+    m_Localized: Wird geladen...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29547478759927808
+    m_Localized: VerringernVerteidigung!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29616994768547840
+    m_Localized: 'Spielzeit: {PlayMin} Minuten {PlaySec} Sekunden'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29617770370854912
+    m_Localized: "Anzahl der get\xF6teten Feinde: {KillEnemyNumber}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29617609800314880
+    m_Localized: 'Erworbene Anzahl von Artefakten: {ArtifactNumber}'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29617299002388480
+    m_Localized: "Der Feind, der dich get\xF6tet hat: {DiedBy}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 29907708526096384
+    m_Localized: nicht genug Platz in Ihrem Inventar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30226483137900544
+    m_Localized: "Aufl\xF6sung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30226486040358912
+    m_Localized: Ganzer Bildschirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30411516813406208
+    m_Localized: "Ihr Fortschritt wird nicht gespeichert.\r\nSind Sie sicher, dass
+      Sie zum Hauptmen\xFC gehen m\xF6chten?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30413144652148736
+    m_Localized: "Best\xE4tigen Sie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30413148720623616
+    m_Localized: Absagen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30413825584820224
+    m_Localized: "Ihr Fortschritt wird nicht gespeichert.\r\n M\xF6chten Sie das
+      Spiel wirklich beenden?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30987721853792256
+    m_Localized: aufleveln
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31847311654940672
+    m_Localized: Hp starten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31847887839064064
+    m_Localized: "PS erh\xF6hen den Wert"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31848988713840640
+    m_Localized: Bewegungsgeschwindigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31849361897844736
+    m_Localized: Kritische Trefferchance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31849363428765696
+    m_Localized: Ausweichchance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31853430259478528
+    m_Localized: "Angriffsst\xE4rke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31853766420361216
+    m_Localized: Verteidigung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32559067209560064
+    m_Localized: FPS-Anzeige
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33325758730366976
+    m_Localized: Stufe {stage}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 33611420184506368
+    m_Localized: Effekt PopUp-Text aktivieren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33716371850162176
+    m_Localized: "\rMit deinem Schild kannst du feindliche Angriffe und Projektile
+      blockieren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34005119083114496
+    m_Localized: Maximale Ausdauer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34064692406022144
+    m_Localized: Framelate-Limit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34064690099154944
+    m_Localized: FOV (Blickwinkel)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34064691332280320
+    m_Localized: Sichtweite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34408527480909824
+    m_Localized: Angriffsgeschwindigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34423241162256384
+    m_Localized: Produzent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34423870215581696
+    m_Localized: Tonspur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34721918019858432
+    m_Localized: NPC Hp Bar Display
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34728054156587008
+    m_Localized: "Benutzeroberfl\xE4che ausschalten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35212177572786176
+    m_Localized: "Verteidigung erh\xF6hen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35842572219740160
+    m_Localized: "Bewegungsgeschwindigkeit erh\xF6hen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35842665526226944
+    m_Localized: Bewegungsgeschwindigkeit verringern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35846565020987392
+    m_Localized: "Angriffsgeschwindigkeit erh\xF6hen\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35846568892329984
+    m_Localized: "Angriffsgeschwindigkeit verringern\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35848252318183424
+    m_Localized: "Abnahme der Angriffskraft\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38614128968757248
+    m_Localized: Konsole zulassen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42267052706000896
+    m_Localized: '[{interactionHotKey}]'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 48432261661356032
+    m_Localized: "Grafikqualit\xE4t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48466968788758528
+    m_Localized: UI Size
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00703eefe51f010000703e58d02001000070be129124010000703e559b24010000703e97ac24010000707ecbc424010000703e796e2501000070fef75326010000703ec21a3c010000703e187df552000070be83e5db60000070fe9eeadb600000707ef47f3869000070fe893439690000703e270f39690000703ecac63869000070feda996576000070beb37fd8460000703e16a9299600

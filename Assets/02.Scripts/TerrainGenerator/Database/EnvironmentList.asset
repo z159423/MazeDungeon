@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd248ca6090132c4fa070fd52bb5c0c1, type: 3}
+  m_Name: EnvironmentList
+  m_EditorClassIdentifier: 
+  TreeList:
+  - {fileID: 1368848454159399171, guid: 510194e5ea4d26d4faf11b5ef4dd9781, type: 3}
+  - {fileID: 1470052159299525877, guid: 32fd41d111debe04b965516d4b488269, type: 3}
+  - {fileID: 7336032989477063106, guid: 440e97a670ecb444b999b4b1d92bfc53, type: 3}
+  - {fileID: 5136325899515684556, guid: fcd960ccfa5514a489503f35f3e4b340, type: 3}
+  - {fileID: 6981378721713837632, guid: 9ed20f2087f638749ab440a15ba3a0af, type: 3}
+  minTreeSize: 3
+  maxTreeSize: 3
+  RockList:
+  - {fileID: 100000, guid: 532788c369e551d44a067aa3c8bb182c, type: 3}
+  - {fileID: 100000, guid: bb7152a7b4f594046ab64c75906b026b, type: 3}
+  - {fileID: 100000, guid: f7f380d766b49b542be8acff1609e991, type: 3}
+  - {fileID: 100000, guid: 08746d293fd827e429733f5c209aee54, type: 3}
+  - {fileID: 100000, guid: a7d8b4930aed6ec4c9fa956479d8716a, type: 3}
+  - {fileID: 100000, guid: 78d8c60f364b56c468c7213af9ceda1e, type: 3}
+  - {fileID: 100000, guid: 60c9c19ace4c522459fb5d2243213bd5, type: 3}
+  - {fileID: 100000, guid: e46931e5fb541ca4a87fba28db805a06, type: 3}
+  - {fileID: 100000, guid: 8beff6b3bf60d5940abef1e0eb42fb70, type: 3}
+  - {fileID: 100000, guid: a0071168e779c6a4591fac5de3ee9957, type: 3}
+  - {fileID: 100000, guid: f5eb667268ae2ed40a94e47752030ce5, type: 3}
+  minRockSize: 1
+  maxRockSize: 5

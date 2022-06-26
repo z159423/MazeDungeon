@@ -1,0 +1,563 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Artifact_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: aad134bfcd86b204cba9ac183ee5eba7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 193286008832
+    m_Localized: "Srebrny pier\u015Bcionek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 502573985792
+    m_Localized: "Jest to srebrny pier\u015Bcie\u0144 z magi\u0105 wzmacniaj\u0105c\u0105
+      obron\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 632052150272
+    m_Localized: "Z\u0142oty pier\u015Bcionek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 668114776064
+    m_Localized: "To pier\u015Bcie\u0144 z magi\u0105, kt\xF3ra czyni ci\u0119 silnym"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748808990720
+    m_Localized: Srebrny naszyjnik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753242370048
+    m_Localized: "To magiczny naszyjnik, kt\xF3ry przyspiesza atak"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 962810769408
+    m_Localized: "Z\u0142oty naszyjnik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 965268631552
+    m_Localized: "To naszyjnik z magi\u0105, kt\xF3ra sprawia, \u017Ce jeste\u015B
+      pot\u0119\u017Cny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1025087795200
+    m_Localized: "Naszyjnik z z\u0119bem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027730206720
+    m_Localized: "To naszyjnik, kt\xF3ry sprawia, \u017Ce tw\xF3j atak jest \u015Bmiertelny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090510548992
+    m_Localized: "Rubinowy pier\u015Bcie\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1128032792576
+    m_Localized: "To magiczny pier\u015Bcie\u0144, kt\xF3ry zwi\u0119ksza twoje zdrowie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1203484127232
+    m_Localized: Artefakt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1226020122624
+    m_Localized: "niebieski kryszta\u0142"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571270433239040
+    m_Localized: "Ten kryszta\u0142 mo\u017Ce ci\u0119 wspiera\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621093530267648
+    m_Localized: "Czerwony Kryszta\u0142"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621371990110208
+    m_Localized: "Ten kryszta\u0142 mo\u017Ce ci\u0119 wspiera\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621485827715072
+    m_Localized: "\u017B\xF3\u0142ty kryszta\u0142"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621486461054976
+    m_Localized: "Ten kryszta\u0142 mo\u017Ce ci\u0119 wspiera\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077246672400384
+    m_Localized: "Zamro\u017Cone serce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077248958296064
+    m_Localized: "To serce zmarzni\u0119te. Jednak mo\u017Cesz poczu\u0107 pot\u0119\u017Cne
+      pompowanie many."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114047076265984
+    m_Localized: "Pi\xF3ro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114049785786368
+    m_Localized: "Wygl\u0105da jak zwyk\u0142e pi\xF3rko, ale kiedy nosisz je ze
+      sob\u0105, czujesz si\u0119 nieco l\u017Cejszy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499125707075584
+    m_Localized: Chleb Elfa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499127716147200
+    m_Localized: "To chleb elfa, kt\xF3ry jest pe\u0142ny nawet z k\u0119sem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1516783320068096
+    m_Localized: Kolekcjoner Dusz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1516785022955520
+    m_Localized: "Odebranie duszy jest straszne, ale jest te\u017C przydatne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1690945837756416
+    m_Localized: "Kamie\u0144 Magmy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1690976389066752
+    m_Localized: "Jest tak gor\u0105co, \u017Ce ci\u0119\u017Cko go dotkn\u0105\u0107,
+      Wr\xF3g b\u0119dzie si\u0119 ba\u0142 ataku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1795657463394304
+    m_Localized: "Kamie\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1795659136921600
+    m_Localized: "To kamie\u0144, kt\xF3ry wygl\u0105da na twardy. My\u015Bl\u0119,
+      \u017Ce dostan\u0119 zawrotu g\u0142owy, je\u015Bli zostan\u0119 uderzony."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830790618836992
+    m_Localized: "Paso\u017Cytnicze Jajo Paj\u0105ka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830791373811712
+    m_Localized: "Na \u015Bwiecie s\u0105 stworzenia, kt\xF3re sk\u0142adaj\u0105
+      jaja w ciele innych stworze\u0144, to przera\u017Caj\u0105ce!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830934336663552
+    m_Localized: "Kamienna R\u0119kawica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830935255216128
+    m_Localized: "To sprawia, \u017Ce jest ci\u0119\u017Cki, ale pot\u0119\u017Cny."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1885416307191808
+    m_Localized: "Kie\u0142 \u017Bmii"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1885416856645632
+    m_Localized: "To k\u0142y \u017Cmii, w kt\xF3rych pozosta\u0142o jeszcze troch\u0119
+      trucizny."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912447162019840
+    m_Localized: Sopel lodu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912447686307840
+    m_Localized: To zimny i ostry sopel lodu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926509505703936
+    m_Localized: Amulet tarczy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926510243901440
+    m_Localized: "To ma\u0142y urok tarczy, kt\xF3ry ci\u0119 chroni."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588068108201984
+    m_Localized: Urok Dodge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588068687015936
+    m_Localized: "Chcesz bezpieczniej toczy\u0107? No\u015B ten urok ze sob\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678880984788992
+    m_Localized: Trzecie oko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678881626517504
+    m_Localized: "To s\u0105 oczy tych, kt\xF3rzy opanowali sztuki walki w przesz\u0142o\u015Bci
+      i mo\u017Cesz osi\u0105gn\u0105\u0107 o\u015Bwiecenie, po prostu je trzymaj\u0105c."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2679281805062144
+    m_Localized: "St\xF3p Bestii Grzmotu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2679283361148928
+    m_Localized: "To stopy bestii, kt\xF3ra potrafi radzi\u0107 sobie z grzmotem
+      i mo\u017Cesz poczu\u0107 mrowienie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3178190558097408
+    m_Localized: "Torba z pieni\u0119dzmi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3178191132717056
+    m_Localized: "To kiesze\u0144 z pieni\u0119dzmi, nie wiemy ile zawiera."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200255675756544
+    m_Localized: Udko kurczaka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200256254570496
+    m_Localized: "To udko z kurczaka, kt\xF3re sprawia, \u017Ce czujesz si\u0119
+      pe\u0142ny, gdy bierzesz k\u0119s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200496063901696
+    m_Localized: "Zaginiona wr\xF3\u017Cka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200496579801088
+    m_Localized: " Jest ma\u0142\u0105, bezsiln\u0105 wr\xF3\u017Ck\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3361631631208448
+    m_Localized: "Staro\u017Cytna muszla \u015Blimaka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3361632205828096
+    m_Localized: "To muszla \u015Blimaka i wygl\u0105da na bardzo wytrzyma\u0142\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374508651999232
+    m_Localized: Wytrych
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374557679218688
+    m_Localized: "Tylko po\u0142owa z nich jest skutecznym kluczem uniwersalnym."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379837120966656
+    m_Localized: Kostka lodu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379838928711680
+    m_Localized: "To kawa\u0142ek lodu, kt\xF3ry nigdy si\u0119 nie topi, jest bardzo
+      zimny."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3413251240914944
+    m_Localized: "P\u0142omienna Ig\u0142a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3413251886837760
+    m_Localized: "Jest to Niddle, kt\xF3ry posiada energi\u0119 ognia, kt\xF3ra mo\u017Ce
+      spowodowa\u0107 pot\u0119\u017Cne oparzenia wroga."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3420482908876800
+    m_Localized: "Pazur bestii piorun\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3420483487690752
+    m_Localized: "To stopy bestii, kt\xF3ra potrafi radzi\u0107 sobie z grzmotem
+      i mo\u017Cesz poczu\u0107 mrowienie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421718710218752
+    m_Localized: Krwawy Klejnot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421719293227008
+    m_Localized: "To chciwy krwawy klejnot, \u0142akn\u0105cy krwi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422148617990144
+    m_Localized: "Stara Ksi\u0119ga Nekromanty"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422149138083840
+    m_Localized: "Jest to staro\u017Cytna ksi\u0119ga nekromanty, zawieraj\u0105ca
+      wiedz\u0119 o o\u017Cywianiu cia\u0142a za pomoc\u0105 szkieletu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423287593824256
+    m_Localized: "R\u0119kawica my\u015Bliwca"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423288176832512
+    m_Localized: "R\u0119kawiczki, kt\xF3re pomagaj\u0105 zidentyfikowa\u0107 s\u0142abo\u015Bci
+      wroga."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423907788779520
+    m_Localized: Opaska na oko Berserkera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423908384370688
+    m_Localized: "Berserker nie boi si\u0119 kontuzji."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423984926224384
+    m_Localized: "BerserkerG\u0142owyOpaska"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423985446318080
+    m_Localized: "Ta zakrwawiona opaska wype\u0142ni twoje szale\u0144stwo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424850173390848
+    m_Localized: Torba na bomby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424850756399104
+    m_Localized: "To worek pe\u0142en bomb, uwa\u017Caj, aby ich nie upu\u015Bci\u0107!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424852761276416
+    m_Localized: "Torba na pu\u0142apki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424853344284672
+    m_Localized: "To worek pe\u0142en pu\u0142apek, uwa\u017Caj, aby ich nie upu\u015Bci\u0107!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3425606460928000
+    m_Localized: "Klub ogr\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3425606913912832
+    m_Localized: "To ci\u0119\u017Cka, nudna, ale pot\u0119\u017Cna maczuga."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805341032542208
+    m_Localized: Wisiorek wampira
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805341544247296
+    m_Localized: "Ten pot\u0119\u017Cny wisiorek wampira ma ogromn\u0105 absorpcj\u0119
+      \u017Cycia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4054562549690368
+    m_Localized: Zepsuty sztylet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4054563069784064
+    m_Localized: "Musia\u0142 by\u0107 \u015Bmiertelny, zanim si\u0119 zepsu\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103413557620736
+    m_Localized: "Pi\xF3ro Gryfa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103414132240384
+    m_Localized: "To pi\xF3rko b\u0119dzie ci\u0119 energetyzowa\u0107 za ka\u017Cdym
+      razem, gdy tw\xF3j poziom wzro\u015Bnie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17849768583524352
+    m_Localized: "Obrona zwi\u0119kszona o 10%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17850776646742016
+    m_Localized: "Szybko\u015B\u0107 ataku zwi\u0119kszona o 10%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851438470164480
+    m_Localized: "Maksymalne HP zwi\u0119kszone o 20"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851662399860736
+    m_Localized: "5% zwi\u0119kszona szansa na trafienie krytyczne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851817232592896
+    m_Localized: "Zwi\u0119ksza obron\u0119 o 10% MAX HP o 10%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17852410307178496
+    m_Localized: "Zwi\u0119ksza szybko\u015B\u0107 ataku o 10%, szans\u0119 na trafienie
+      krytyczne o 5%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17852640339587072
+    m_Localized: "Przywo\u0142aj kryszta\u0142y, aby wesprze\u0107 bitw\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853063674884096
+    m_Localized: "Przywo\u0142aj kryszta\u0142y, aby wesprze\u0107 bitw\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853113314471936
+    m_Localized: "Przywo\u0142aj kryszta\u0142y, aby wesprze\u0107 bitw\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853207870861312
+    m_Localized: "Tarcza \u0142adowana o 30% maksymalnego zdrowia \u0142aduje 5 co
+      5 sekund"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853979845095424
+    m_Localized: "Szybko\u015B\u0107 ruchu zwi\u0119kszona o 10%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854370561290240
+    m_Localized: "Maksymalna wytrzyma\u0142o\u015B\u0107 zwi\u0119kszona o 20% Szybko\u015B\u0107
+      regeneracji wytrzyma\u0142o\u015Bci zwi\u0119kszona o 10%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854585875886080
+    m_Localized: "Pr\u0119dko\u015B\u0107 ruchu zmniejszona o 10%, si\u0142a ataku
+      zwi\u0119kszona o 10%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854784492957696
+    m_Localized: "Si\u0142a ataku zwi\u0119kszona o 10% 20% szansy na zmniejszenie
+      pr\u0119dko\u015Bci ruchu wroga o 30% na 3 sekundy podczas ataku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855535785078784
+    m_Localized: "Obrona zwi\u0119kszona o 5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855661001830400
+    m_Localized: "20% zwi\u0119kszony czas niezwyci\u0119\u017Cono\u015Bci rzutu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855955441971200
+    m_Localized: "\r30% zwi\u0119kszona szansa na unik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17856092251779072
+    m_Localized: "zdob\u0105d\u017A monet\u0119 losowo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857053523341312
+    m_Localized: "Maksymalne HP zwi\u0119kszone o 20 Odzyskaj 50% HP"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857384680419328
+    m_Localized: "Wezwij wr\xF3\u017Ck\u0119, kt\xF3ra b\u0119dzie ci\u0119 wspiera\u0107
+      w walce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857718207279104
+    m_Localized: "\r50% wzrost si\u0142y ataku\r Trafienia krytyczne nie s\u0105
+      wyzwalane"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17858156512047104
+    m_Localized: "10% szansy na og\u0142uszenie wroga na 2 sekundy podczas ataku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859023252385792
+    m_Localized: Podczas ataku istnieje 10% szansa na zatrucie wroga na 6 sekund
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859545615200256
+    m_Localized: "20% szansy na zadanie dodatkowych obra\u017Ce\u0144 pobliskim wrogom
+      podczas ataku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859846363574272
+    m_Localized: "\rZwi\u0119ksza szans\u0119 na trafienie krytyczne o 1% na 10 sekund
+      podczas ataku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860223557332992
+    m_Localized: "Zwi\u0119ksza pr\u0119dko\u015B\u0107 ataku o 1% na 10 sekund podczas
+      ataku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860464301993984
+    m_Localized: 25% szansy na odzyskanie HP o 1% maksymalnego HP podczas ataku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860753960628224
+    m_Localized: "Dodatkowe obra\u017Cenia za ka\u017Cde 7 atak\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861456917590016
+    m_Localized: Po trafieniu istnieje 50% szans na podpalenie wroga przez 3 sekundy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861731170545664
+    m_Localized: "50% szansy na spowolnienie wrog\xF3w na 3 sekundy po zaatakowaniu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861953338634240
+    m_Localized: "30% szansy na zadanie obra\u017Ce\u0144 pobliskim wrogom po zaatakowaniu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862229927817216
+    m_Localized: "3 \u0142adunki do tarczy, kt\xF3ra \u0142aduje si\u0119 do 50,
+      gdy zabijesz wroga"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862381434466304
+    m_Localized: "50% szansy na przywo\u0142anie Paj\u0105ka do wsparcia bitwy podczas
+      zabicia wroga"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862616655228928
+    m_Localized: Zyskaj 3 punkty zdrowia, gdy zabijesz wroga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862685760581632
+    m_Localized: "30% szansy na przywo\u0142anie szkieletu, aby wesprze\u0107 bitw\u0119
+      po zabiciu wroga"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862848705097728
+    m_Localized: "Przywo\u0142uje bomb\u0119 przy ka\u017Cdym rzucie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862972164435968
+    m_Localized: "Przywo\u0142uje pu\u0142apk\u0119 przy ka\u017Cdym rzucie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17868589465759744
+    m_Localized: "Zwi\u0119ksza obron\u0119 o 15, gdy HP jest mniejsze ni\u017C 30%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17869545859346432
+    m_Localized: "50% szansy, \u017Ce nie zu\u017Cyjesz klucza podczas u\u017Cywania
+      klucza"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17869692223778816
+    m_Localized: Podpala wroga przez 3 sekundy przy trafieniu krytycznym
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17870936170459136
+    m_Localized: "Zwi\u0119ksza obra\u017Cenia o 50%, gdy HP jest mniejsze ni\u017C
+      50%"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17871808761851904
+    m_Localized: Odzyskuje wszystkie HP podczas awansowania
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemyhitbox
+  - Enemy
+  - BallShootPoint
+  - Icon
+  - Item
+  - Slot
+  - HotbarSlot
+  - EquipmentSlot
+  - DraggingBox
+  - PickupMassage
+  - Collide
+  - PlayerWeapon
+  - UI
+  - EquipmentParent
+  - playertarget
+  - Ground
+  - EnemyHpBar
+  - UI_Camera
+  - ToolTip
+  - Skill
+  - SkillSlot
+  - SkillQuickSlot
+  - Environment
+  - FirePos
+  - SpawnPoint
+  - Rooms
+  - ClosedPoint
+  - PlayerCheck
+  - NPCSpawnPoint
+  - BreakableDoor
+  - Shield
+  - GameManager
+  - Exit
+  - Statue
+  - Ceiling
+  - SceneChanger
+  - StartPoint
+  - EndPoint
+  - Reposition
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Minimap
+  - Ignore AllRay
+  - Ignore Camera
+  - obstacle
+  - Shield
+  - NPC
+  - Player
+  - ShownOnMap
+  - ItemPickUp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: New Layer
+    uniqueID: 587243725
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

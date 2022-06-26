@@ -1,0 +1,3616 @@
+fileFormatVersion: 2
+guid: 0ad549dc5f136094183dcc9a9effbce5
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 1989289236423521904
+    second: Default Take
+  - first:
+      74: -3880581976594992817
+    second: ArmatureAction
+  - first:
+      74: 3532923730930528827
+    second: Bomb_Ready
+  - first:
+      74: -574368364801338285
+    second: Bomb_Throw
+  - first:
+      74: 5117894320019484030
+    second: Bow_Attak01
+  - first:
+      74: -8200911799502298345
+    second: Bow_Charging
+  - first:
+      74: 5887355561084611757
+    second: Comboat_Idle
+  - first:
+      74: 9167475976230662902
+    second: Dagger_Left_Attack01
+  - first:
+      74: 176219288735806331
+    second: Dagger_Left_Attack02
+  - first:
+      74: 175668196603941517
+    second: Dagger_Right_Attack01
+  - first:
+      74: -5613524614301868005
+    second: Dagger_Right_Attack02
+  - first:
+      74: 9114514223899260779
+    second: Dagger_Spin
+  - first:
+      74: -7625094696960629806
+    second: Dual_Dagger_Skill_01
+  - first:
+      74: -8433356489449776713
+    second: Grip_Dual_Dagger
+  - first:
+      74: 2116570734162299993
+    second: Grip_Left
+  - first:
+      74: 5600252975398535074
+    second: Grip_Right
+  - first:
+      74: 6444722240930369097
+    second: Grip_Right_001
+  - first:
+      74: -5252816984213320552
+    second: idle
+  - first:
+      74: -2993534804863918692
+    second: jump
+  - first:
+      74: 2954669843329926393
+    second: Poison_Jab
+  - first:
+      74: 6799588732775187609
+    second: Punch_Left
+  - first:
+      74: -8796964486657283035
+    second: Punch_Right
+  - first:
+      74: 5522812681064789136
+    second: Run
+  - first:
+      74: -1383139702910073166
+    second: Sword_Atk01
+  - first:
+      74: -5376908356205680043
+    second: Sword_Atk02
+  - first:
+      74: -7438318829533758692
+    second: Sword_Atk02-2
+  - first:
+      74: 6797530608108220825
+    second: Sword_Atk03
+  - first:
+      74: 1986895924916643270
+    second: Sword_Special_Atk01
+  - first:
+      74: 2667949614841947897
+    second: Walk
+  - first:
+      74: 7790113629625723890
+    second: Wand_Charging
+  - first:
+      74: 6756276636909542790
+    second: Wand_Fire
+  - first:
+      74: 2557166488393207713
+    second: Shield_Bash
+  - first:
+      74: 1503796117520322242
+    second: ArmatureAction (2)
+  - first:
+      74: 400281881193460813
+    second: dodge
+  - first:
+      74: -6801083763907307519
+    second: Block
+  - first:
+      74: -7572310859980972038
+    second: Spell_Casting
+  - first:
+      74: 4383348831694332263
+    second: Smite
+  - first:
+      74: -6288670263845811704
+    second: SkullSmash
+  - first:
+      74: -3215223647442154636
+    second: WhirlWind
+  - first:
+      74: 7775393993928826532
+    second: WhirlWind
+  - first:
+      74: -2693068097294454026
+    second: Maimed
+  - first:
+      74: -1509013228338515357
+    second: CoupDeGrace
+  - first:
+      74: -9102276709384817735
+    second: SuperArmor
+  - first:
+      74: 1165247938311513971
+    second: SoulFire
+  - first:
+      74: -2750026505866782287
+    second: Soul_Sword
+  - first:
+      74: -6911396847322299139
+    second: KnifeThrowing
+  - first:
+      74: 132239062843748115
+    second: Dagger_Left_Attack02 (1)
+  - first:
+      74: 745725770149370714
+    second: BladeDance
+  - first:
+      74: 2525141815559265910
+    second: Soul_Drain
+  - first:
+      74: 1419879912259550416
+    second: Kick
+  - first:
+      74: 312361232939468185
+    second: BackStepShoot
+  - first:
+      74: 537716483753804510
+    second: Pray
+  - first:
+      74: 5571021551487742940
+    second: DoubleShoot
+  - first:
+      74: 2441575685306607239
+    second: FireHandCrossbow
+  - first:
+      74: 1287372621106785887
+    second: Dagger_Right_Attack03
+  - first:
+      74: -7821165926817101117
+    second: RogueWalk
+  - first:
+      74: -339732674472356082
+    second: WarriorSelect
+  - first:
+      74: 9150686684125865913
+    second: Stand
+  - first:
+      74: 2849930409062544383
+    second: ArcherSelect_001
+  - first:
+      74: -8607569049215089638
+    second: RogueSelect
+  - first:
+      74: 1405023231382659741
+    second: MageSelect
+  - first:
+      74: 961178792839368218
+    second: Flame
+  - first:
+      74: 6544139002321574297
+    second: ShockBombThrow
+  - first:
+      74: 5300776596211693756
+    second: WizardBasicMissile
+  - first:
+      74: -4632870651481920894
+    second: ContinuousFiring
+  - first:
+      74: -7067396756488771872
+    second: FireBall
+  - first:
+      74: 6078595239633228975
+    second: PoisonBomb
+  - first:
+      74: -6856942499978599327
+    second: MagicMissileSpray
+  - first:
+      74: 8468764788503958473
+    second: MagicBomb
+  - first:
+      74: 2916706432733411720
+    second: IceSpear
+  - first:
+      74: 6992849362967014551
+    second: LightningOrb
+  - first:
+      74: -4824078771164486583
+    second: FlameExplosion
+  - first:
+      74: -813579972794691095
+    second: ShieldShockWave
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_Pants
+    second: {fileID: 2100000, guid: 108bb32867824d741ba94f69c6d9e8f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark
+    second: {fileID: 2100000, guid: 2ffffced26ba89b458c5fd2df36ae671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Iron
+    second: {fileID: 2100000, guid: 75eb568e321435b418961a0839533f66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Iron_003
+    second: {fileID: 2100000, guid: d070f39526db52b448aa62d693673eea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Wood
+    second: {fileID: 2100000, guid: c742c3f4d7689d44e8f955bf252e3a55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Wood_003
+    second: {fileID: 2100000, guid: ef854d0cd0ae2d040b29cb630ebcf272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gem01
+    second: {fileID: 2100000, guid: dbdb250840e5cce448a53015cf6abb92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__sword01_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__sword02_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plate
+    second: {fileID: 2100000, guid: 29c576c40cbb4e043b75455fe7fec204, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_Iron_Light
+    second: {fileID: 2100000, guid: a5f5c413a3e64684e823a695264551b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_Iron_Light_003
+    second: {fileID: 2100000, guid: dcf2fc168537b22448628885d242d8f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_000__Human_png_000
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_001__helmet02_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_002__shield01_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_003__helmet04_png_001
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_004__shield02_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_005__ChestArmor01_png_001
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_006__Shoes01_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_007__shield03_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_008__bow01_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_009__shield04_png_001
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_010__bow02_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_011__HandCrossbow01_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_011__sword01_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_012__Human_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_012__sword02_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_013__sword03_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_014__dagger01_png_001
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_015__dagger02_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_016__sword04_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_017__dagger03_png_001
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_018__sword05_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_019__ChestArmor02_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_020__ChestArmor02_png_001
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_021__helmet05_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_022__feet01_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_023__sword06_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_024__ChestArmor03_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_025__helmet06_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_026__Leather_armor01_png
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_027__Leather_armor02_png
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_028__Leather_armor03_png
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_029__robe01_png
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_030__robe02_png
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_031__robe03_png
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_035__magehat01_png_001
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_035__robe02_png_001
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_036__magehat02_png_001
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_036__robe03_png_001
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_037__magehat03_png_001
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_037__robe01_png_003
+    second: {fileID: 2100000, guid: fc1f0ce229553114594c440a58834b31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_038__robe02_png_002
+    second: {fileID: 2100000, guid: fc1f0ce229553114594c440a58834b31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_039__robe03_png_002
+    second: {fileID: 2100000, guid: fc1f0ce229553114594c440a58834b31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_041__magehat01_png_003
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_042__magehat02_png_003
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_043__magehat03_png_003
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_044__HumanBody_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_045__mageShoes01_png_003
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_046__mageShoes02_png
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_048__mageShoes03_png_001
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette_050__robe01_png_002
+    second: {fileID: 2100000, guid: 0e37857f952a98844ab9d5478ba86580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette__helmet01_png
+    second: {fileID: 2100000, guid: 0278581a949a35b468825d4b61f80cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: robe
+    second: {fileID: 2100000, guid: 6c6486141d9c0594d957e31578af3872, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: robe02
+    second: {fileID: 2100000, guid: 0d8ad2e91bb32dd4598342da9d902846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: fc1f0ce229553114594c440a58834b31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 094f74e6221ca5942ae9f69485dee05a, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: Event RDCOFF has a time (0.430481) outside the clip's
+      valid range (0.000000..0.416667). It will never be firedEvent RDTOFF has a
+      time (0.439840) outside the clip's valid range (0.000000..0.416667). It will
+      never be firedEvent FrontColliderReset has a time (0.534169) outside the clip's
+      valid range (0.000000..0.500000). It will never be fired
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      internalID: -3880581976594992817
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bomb_Ready
+      takeName: Bomb_Ready
+      internalID: 3532923730930528827
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bomb_Throw
+      takeName: Bomb_Throw
+      internalID: -574368364801338285
+      firstFrame: -1
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bow_Attak01
+      takeName: Bow_Attak01
+      internalID: 5117894320019484030
+      firstFrame: -1
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.26178864
+        functionName: arrowFire
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bow_Charging
+      takeName: Bow_Charging
+      internalID: -8200911799502298345
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Comboat_Idle
+      takeName: Comboat_Idle
+      internalID: 5887355561084611757
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dagger_Left_Attack01
+      takeName: Dagger_Left_Attack01
+      internalID: 9167475976230662902
+      firstFrame: -1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dagger_Left_Attack02
+      takeName: Dagger_Left_Attack02
+      internalID: 176219288735806331
+      firstFrame: -1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dagger_Right_Attack01
+      takeName: Dagger_Right_Attack01
+      internalID: 175668196603941517
+      firstFrame: -1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dagger_Right_Attack02
+      takeName: Dagger_Right_Attack02
+      internalID: -5613524614301868005
+      firstFrame: -1
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.342246
+        functionName: RDCON
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.37120914
+        functionName: RDTON
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.71363455
+        functionName: NextAttackReady
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.73796797
+        functionName: RDCOFF
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.7540107
+        functionName: RDTOFF
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dagger_Spin
+      takeName: Dagger_Spin
+      internalID: 9114514223899260779
+      firstFrame: -1
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle (1)
+      takeName: idle
+      internalID: -7625094696960629806
+      firstFrame: -1
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Grip_Dual_Dagger
+      takeName: Grip_Dual_Dagger
+      internalID: -8433356489449776713
+      firstFrame: -1
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Grip_Left
+      takeName: Grip_Left
+      internalID: 2116570734162299993
+      firstFrame: -1
+      lastFrame: 78
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Grip_Right
+      takeName: Grip_Right
+      internalID: 5600252975398535074
+      firstFrame: -1
+      lastFrame: 133
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Grip_Right_001
+      takeName: Grip_Right_001
+      internalID: 6444722240930369097
+      firstFrame: -1
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      internalID: -5252816984213320552
+      firstFrame: -1
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump
+      takeName: jump
+      internalID: -2993534804863918692
+      firstFrame: -1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Poison_Jab
+      takeName: Poison_Jab
+      internalID: 2954669843329926393
+      firstFrame: -1
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Run
+      internalID: 5522812681064789136
+      firstFrame: -1
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sword_Atk01
+      takeName: Sword_Atk01
+      internalID: -1383139702910073166
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.47108257
+        functionName: SwordTrailOn
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.49464455
+        functionName: FCON
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.78624606
+        functionName: FCOFF
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.79971004
+        functionName: SwordTrailOff
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.82978725
+        functionName: NextAttackReady
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sword_Atk02
+      takeName: Sword_Atk02
+      internalID: -5376908356205680043
+      firstFrame: -1
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sword_Atk02-2
+      takeName: Sword_Atk02-2
+      internalID: -7438318829533758692
+      firstFrame: -1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.43236372
+        functionName: FCON
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.44875738
+        functionName: SwordTrailOn
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.82499
+        functionName: SwordTrailOff
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.84710896
+        functionName: FCOFF
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sword_Atk03
+      takeName: Sword_Atk03
+      internalID: 6797530608108220825
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sword_Special_Atk01
+      takeName: Sword_Special_Atk01
+      internalID: 1986895924916643270
+      firstFrame: -1
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      internalID: 2667949614841947897
+      firstFrame: -1
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Wand_Charging
+      takeName: Wand_Charging
+      internalID: 7790113629625723890
+      firstFrame: -1
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Wand_Fire
+      takeName: Wand_Fire
+      internalID: 6756276636909542790
+      firstFrame: -1
+      lastFrame: 17.9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shield_Bash
+      takeName: Shield_Bash
+      internalID: 2557166488393207713
+      firstFrame: -1
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Charge
+      takeName: Charge
+      internalID: 1503796117520322242
+      firstFrame: -1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dodge
+      takeName: dodge
+      internalID: 400281881193460813
+      firstFrame: -1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Collider
+        curve:
+          serializedVersion: 2
+          curve:
+          - serializedVersion: 3
+            time: 0.004047394
+            value: 2.4441223
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0
+          - serializedVersion: 3
+            time: 0.1171451
+            value: 2.050865
+            inSlope: -3.5181615
+            outSlope: -3.5181615
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.169587
+          - serializedVersion: 3
+            time: 0.5006815
+            value: 1.0732982
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.33333334
+            outWeight: 0.33333334
+          - serializedVersion: 3
+            time: 0.9946289
+            value: 2.4064026
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0
+          preInfinity: 3
+          postInfinity: 3
+          rotationOrder: 4
+      events:
+      - time: 0.17926045
+        functionName: InvincibleStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Punch_Right
+      takeName: Punch_Right
+      internalID: -8796964486657283035
+      firstFrame: -1
+      lastFrame: 16.6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.3039663
+        functionName: onfrontCollider
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Punch_Left
+      takeName: Punch_Left
+      internalID: 6799588732775187609
+      firstFrame: -1
+      lastFrame: 16.7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.28479126
+        functionName: onfrontCollider
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Block
+      takeName: Block
+      internalID: -6801083763907307519
+      firstFrame: -1
+      lastFrame: 51
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spell_Casting
+      takeName: Spell_Casting
+      internalID: -7572310859980972038
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Smite
+      takeName: Smite
+      internalID: 4383348831694332263
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.27445304
+        functionName: SwordTrailOn
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.40576506
+        functionName: FCON
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5877657
+        functionName: FCOFF
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6091772
+        functionName: SwordTrailOff
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SkullSmash
+      takeName: SkullSmash
+      internalID: -6288670263845811704
+      firstFrame: -1
+      lastFrame: 18.2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.48902822
+        functionName: SwordColliderOn
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6677116
+        functionName: FrontColliderReset
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Maimed
+      takeName: Maimed
+      internalID: -2693068097294454026
+      firstFrame: -1
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.28775936
+        functionName: SwordTrailOn
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.31919652
+        functionName: FCON
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.37859172
+        functionName: GenerateSFX
+        data: swordSwing1
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.70811385
+        functionName: SwordTrailOff
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.71957254
+        functionName: FCOFF
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WhirlWind
+      takeName: WhirlWind
+      internalID: -3215223647442154636
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.98714656
+        functionName: SwordColliderAttackedByClear
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9496855
+        functionName: GenerateSFX
+        data: swordAttack1
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CoupDeGrace
+      takeName: CoupDeGrace
+      internalID: -1509013228338515357
+      firstFrame: -1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.62447035
+        functionName: SwordTrailOn
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.7909282
+        functionName: CameraShake
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.8700885
+        functionName: ConSumeAllRage
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.8
+        functionName: CoupDeGraceEffect
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.8933334
+        functionName: SwordTrailOff
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SuperArmor
+      takeName: SuperArmor
+      internalID: -9102276709384817735
+      firstFrame: -1
+      lastFrame: 15.1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SoulFire
+      takeName: SoulFire
+      internalID: 1165247938311513971
+      firstFrame: -1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.6722227
+        functionName: CreateSoulFire
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Soul_Sword
+      takeName: Soul_Sword
+      internalID: -2750026505866782287
+      firstFrame: -1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: KnifeThrowing
+      takeName: KnifeThrowing
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.82608694
+        functionName: ThrowingKnife
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BladeDance
+      takeName: BladeDance
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.24
+        functionName: onfrontCollider
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.45
+        functionName: onfrontCollider
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.66
+        functionName: onfrontCollider
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.84999996
+        functionName: onfrontCollider
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9
+        functionName: FrontColliderReset
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Soul_Drain
+      takeName: Soul_Drain
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Kick
+      takeName: Kick
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.573731
+        functionName: SwordColliderOn
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.98913044
+        functionName: FrontColliderReset
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BackStepShoot
+      takeName: BackStepShoot
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.49999997
+        functionName: arrowFire
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: isAttackingOff
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pray
+      takeName: Pray
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FireHandCrossbow
+      takeName: FireHandCrossbow
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.29253876
+        functionName: HandBow_Fire
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dagger_Right_Attack03
+      takeName: Dagger_Right_Attack03
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.2748538
+        functionName: RDTON
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.30500862
+        functionName: RDCON
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.67126447
+        functionName: RDCOFF
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6882208
+        functionName: RDTOFF
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RogueWalk
+      takeName: RogueWalk
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WarriorSelect
+      takeName: WarriorSelect
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 133
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 133
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand
+      takeName: Stand
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 51
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArcherSelect_001
+      takeName: ArcherSelect_001
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 133
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RogueSelect
+      takeName: RogueSelect
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 133
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MageSelect
+      takeName: MageSelect
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 133
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Flame
+      takeName: Flame
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.5555385
+        functionName: generateFlameTick
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ShockBombThrow
+      takeName: Bomb_Throw_001
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.59358287
+        functionName: ShockBombGenerate
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WizardBasicMissile
+      takeName: Wand_Fire
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 22.8
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.60235804
+        functionName: GenerateMagicMissile
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DoubleShoot
+      takeName: Bow_Attak01
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.36296296
+        functionName: MultiShot
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ContinuousFiring
+      takeName: ContinuousFiring
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.09957989
+        functionName: StartContinuousFiring
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FireBall
+      takeName: Wand_Fire
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.5590062
+        functionName: FireBall
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PoisonBomb
+      takeName: Bomb_Throw_001
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.6350192
+        functionName: PoisonBombThrow
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MagicMissileSpray
+      takeName: MagicMissileSpray
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.053333335
+        functionName: MagicMissileSprayStart
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MagicBomb
+      takeName: Wand_Fire
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.5593869
+        functionName: GenereateMagicBomb
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: IceSpear
+      takeName: Wand_Fire
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.5225806
+        functionName: GenerateIceSpear
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LightningOrb
+      takeName: Wand_Fire
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.5935484
+        functionName: GenerateLightningOrb
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FlameExplosion
+      takeName: FlameExplosion
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.049625512
+        functionName: GenerateFlameExplosionChargingParticle
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.925
+        functionName: GenerateFlameExplosion
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ShieldShockWave
+      takeName: ShieldShockWave
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 24.96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.44927534
+        functionName: ShieldShockWaveParticle
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 2b9fde12e70bf52409844504eddd5638,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.25
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Human2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: A_Chest
+      parentName: Human2(Clone)
+      position: {x: -0.00085809187, y: 0.060431246, z: 0.78419256}
+      rotation: {x: 0.7068975, y: -0.004452866, z: -0.0005013373, w: 0.7073018}
+      scale: {x: 3.6589732, y: 3.658972, z: 3.6589723}
+    - name: A_Helmet
+      parentName: Human2(Clone)
+      position: {x: -0.004844281, y: 0.03420836, z: 1.5497842}
+      rotation: {x: -0.000057699253, y: 0.6967068, z: 0.717356, w: 0.000055977438}
+      scale: {x: 3.9504106, y: 3.9504104, z: 3.9504106}
+    - name: A_Pants
+      parentName: Human2(Clone)
+      position: {x: -0.00000006322583, y: 0.06919587, z: -0.18194842}
+      rotation: {x: -4.715068e-10, y: 1.7976892e-15, z: 8.476227e-25, w: 1}
+      scale: {x: 3.9504106, y: 3.9504106, z: 3.9504104}
+    - name: Armature
+      parentName: Human2(Clone)
+      position: {x: 0.000000019790605, y: 0.31313407, z: -0.0070072236}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: Armature
+      position: {x: -0.00088433013, y: -0.024951905, z: 0.35530284}
+      rotation: {x: 0.7071068, y: -0.00000009415696, z: -0.7071067, w: -0.00000009415697}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Butt
+      parentName: Hips
+      position: {x: -0.08555223, y: 0.0000000070482735, z: -2.45125e-12}
+      rotation: {x: -0.7071068, y: 0.000000053385083, z: -2.0578655e-15, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: Butt
+      position: {x: -0.08405858, y: 0.000000006357534, z: 2.1084075e-10}
+      rotation: {x: 0.7059391, y: 0.0030872372, z: 0.0033042545, w: 0.7082581}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Chest
+      parentName: Spine
+      position: {x: -0.61984473, y: 0.000000048195943, z: -7.566995e-10}
+      rotation: {x: -0.7059391, y: -0.0030872575, z: -0.0033042347, w: 0.7082581}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Neck
+      parentName: Chest
+      position: {x: -0.28070056, y: 0.00000002091417, z: -0.0000000017645817}
+      rotation: {x: -0.00000011939954, y: 0.0000001355731, z: -0.0000000011988514,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Neck
+      position: {x: -0.09688688, y: 0.000000007390313, z: -0.000000002120905}
+      rotation: {x: 0.000000119209275, y: -0.00000007729979, z: -2.3282143e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder_L
+      parentName: Chest
+      position: {x: -0.15152064, y: -0.36079443, z: 0.00000008450652}
+      rotation: {x: -0.00000006201139, y: 0.000000018514232, z: 0.7057436, w: 0.7084673}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Upper_Arm_L
+      parentName: Shoulder_L
+      position: {x: -0.2679844, y: -0.0000000021674949, z: 2.889075e-11}
+      rotation: {x: 0.999877, y: 0.015590278, z: -0.000027923286, w: -0.0017397003}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lower_Arm_L
+      parentName: Upper_Arm_L
+      position: {x: -0.30321455, y: -0.000000010444637, z: 0.000000004147296}
+      rotation: {x: -0.0054379813, y: 0.35671005, z: -0.025275374, w: 0.9338574}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Hand_L
+      parentName: Lower_Arm_L
+      position: {x: -0.14006004, y: -0.010793144, z: -0.13823439}
+      rotation: {x: 0.7071068, y: 4.32978e-17, z: 0.7071067, w: -4.3297806e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Hand_Hold
+      parentName: Hand_L
+      position: {x: -0.11850835, y: 0.00000007498062, z: -0.077730566}
+      rotation: {x: -0.00000003658227, y: -0.000000036582257, z: -0.7071067, w: 0.7071068}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1}
+    - name: Left_Hand_Knife_Hold
+      parentName: Hand_L
+      position: {x: -0.09957791, y: 0.000000009122271, z: -0.12681839}
+      rotation: {x: -0.000000051735135, y: 9.772216e-15, z: 0.00000011270924, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder_R
+      parentName: Chest
+      position: {x: -0.12260899, y: 0.37536526, z: -0.00000009839709}
+      rotation: {x: -0.000006288289, y: -0.0000020565928, z: -0.6389346, w: 0.7692611}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Upper_Arm_R
+      parentName: Shoulder_R
+      position: {x: -0.23874824, y: 0.12762481, z: -0.000000042588475}
+      rotation: {x: 0.9957509, y: -0.09208783, z: 0.000010246472, w: 0.000009871142}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: Lower_Arm_R
+      parentName: Upper_Arm_R
+      position: {x: -0.18485813, y: -0.000000023733477, z: 0.0000000031407805}
+      rotation: {x: -0.0067181946, y: -0.48385936, z: 0.0058422745, w: 0.87510055}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R
+      parentName: Lower_Arm_R
+      position: {x: -0.07348721, y: 0.0030592182, z: 0.12678532}
+      rotation: {x: 0.04774072, y: 0.2564517, z: 0.021752397, w: 0.9651323}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Hand_Bow_Hold
+      parentName: Hand_R
+      position: {x: -0.1448489, y: 0.000000030032563, z: -0.08828962}
+      rotation: {x: 0.00000001028526, y: -0.043618236, z: 0.000000018130974, w: 0.9990483}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Right_Hand_Knife_Hold
+      parentName: Hand_R
+      position: {x: -0.1280036, y: 0.00000008828234, z: -0.08686525}
+      rotation: {x: 0.000000036848014, y: -2.6884118e-15, z: -0.0000000059371152,
+        w: 1}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1}
+    - name: Right_Hand_Sword_Hold
+      parentName: Hand_R
+      position: {x: -0.11900402, y: 0.003943292, z: -0.07773042}
+      rotation: {x: 0.00000003684802, y: -3.2266303e-15, z: 0.0000000033760734, w: 1}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999999}
+    - name: Upper_Leg_L
+      parentName: Hips
+      position: {x: -0.046, y: 0.004, z: 0.293}
+      rotation: {x: -0.109844, y: 0.00009818698, z: 0.9939489, w: -0.0001032533}
+      scale: {x: 1.0000004, y: 1, z: 1.0000001}
+    - name: Lower_Leg_L
+      parentName: Upper_Leg_L
+      position: {x: -0.444, y: 0.089, z: -0.123}
+      rotation: {x: -0.51889175, y: -0.34684294, z: -0.10621432, w: 0.7740606}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Foot_L
+      parentName: Lower_Leg_L
+      position: {x: -0.174, y: -0.176, z: 0.153}
+      rotation: {x: 0.7733601, y: 0.29007488, z: 0.5636225, w: -0.010027361}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Upper_Leg_R
+      parentName: Hips
+      position: {x: 0.021, y: -0, z: -0.241}
+      rotation: {x: 0.00009953382, y: -0.9917927, z: -0.000094361145, w: 0.12785713}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Lower_Leg_R
+      parentName: Upper_Leg_R
+      position: {x: -0.169, y: 0, z: -0.022}
+      rotation: {x: 0.5157388, y: -0.354485, z: 0.10757051, w: 0.77251697}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Foot_R
+      parentName: Lower_Leg_R
+      position: {x: -0.411, y: 0.187, z: 0.34}
+      rotation: {x: 0.7711404, y: -0.38664612, z: 0.49620968, w: 0.09809735}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Axe
+      parentName: Human2(Clone)
+      position: {x: 0.60199744, y: -1.2766504, z: 0.3746646}
+      rotation: {x: 0.70710695, y: -0.00000005338666, z: -0.70710665, w: -0.000000053386685}
+      scale: {x: 4.0000005, y: 4, z: 4.0000005}
+    - name: BloodChest01
+      parentName: Human2(Clone)
+      position: {x: -0.00062105013, y: -0.026403869, z: 0.7812209}
+      rotation: {x: -0.00000005351015, y: 0.7071068, z: 0.7071067, w: -0.000000053263197}
+      scale: {x: 3.7400007, y: 3.7400002, z: 3.7400002}
+    - name: BloodHelmet01
+      parentName: Human2(Clone)
+      position: {x: -0.0004451268, y: 0.016061123, z: 1.7394482}
+      rotation: {x: 0.00000013579262, y: 0.70710695, z: 0.7071066, w: 0.00000013956812}
+      scale: {x: 4.982922, y: 4.982921, z: 4.9829216}
+    - name: Bloodhelmet02
+      parentName: Human2(Clone)
+      position: {x: -0.0064873584, y: -0.024770878, z: 1.9542669}
+      rotation: {x: -3.2767744e-10, y: 0.7071069, z: 0.7071067, w: 0.00000010710104}
+      scale: {x: 4.9830003, y: 4.9829993, z: 4.983}
+    - name: BloodShoes01
+      parentName: Human2(Clone)
+      position: {x: -0.00009409729, y: -0.028051667, z: -0.120082974}
+      rotation: {x: 0.7071068, y: -2.0709508e-22, z: -2.5423165e-15, w: 0.7071067}
+      scale: {x: 3.8268359, y: 3.8268366, z: 3.8268359}
+    - name: Body
+      parentName: Human2(Clone)
+      position: {x: -0.000000019790605, y: -0.00700721, z: -0.31313407}
+      rotation: {x: 0.7071068, y: -2.0709508e-22, z: -2.5423165e-15, w: 0.7071067}
+      scale: {x: 3.9504106, y: 3.9504104, z: 3.9504106}
+    - name: Bow
+      parentName: Human2(Clone)
+      position: {x: 0.6083892, y: -0.27649462, z: 0.3608715}
+      rotation: {x: 0.5201298, y: -0.4793855, z: 0.5198036, w: -0.4790187}
+      scale: {x: 2.7, y: 2.7000003, z: 2.7000003}
+    - name: bow01
+      parentName: Human2(Clone)
+      position: {x: 0.60850346, y: -0.09521124, z: 0.3457358}
+      rotation: {x: 0.47771496, y: -0.5213336, z: -0.47771508, w: 0.521333}
+      scale: {x: 3, y: 3.0000002, z: 3.0000005}
+    - name: bow02
+      parentName: Human2(Clone)
+      position: {x: 0.60850346, y: -0.19493663, z: 0.35446042}
+      rotation: {x: 0.4777171, y: -0.5213315, z: -0.4777151, w: 0.52133304}
+      scale: {x: 2.9999998, y: 3.0000002, z: 3.0000005}
+    - name: Bow2
+      parentName: Human2(Clone)
+      position: {x: 0.6089371, y: -0.28048328, z: 0.3444417}
+      rotation: {x: 0.4760442, y: -0.52252823, z: -0.47640145, w: 0.522865}
+      scale: {x: 2.059506, y: 2.059505, z: 2.059505}
+    - name: ChestArmor01
+      parentName: Human2(Clone)
+      position: {x: 0.001997442, y: 0.028845001, z: 0.738726}
+      rotation: {x: 0.000000053263193, y: 0.7071068, z: 0.7071067, w: 0.000000053510153}
+      scale: {x: 3.6000006, y: 3.6000001, z: 3.6000001}
+    - name: Dagger
+      parentName: Human2(Clone)
+      position: {x: 0.6096722, y: -0.3692055, z: 0.3749654}
+      rotation: {x: 0.7071068, y: 0.00000013768036, z: 0.70710677, w: -0.00000013768037}
+      scale: {x: 3.900001, y: 3.8999996, z: 3.9000003}
+    - name: dagger01
+      parentName: Human2(Clone)
+      position: {x: 0.6131009, y: -0.4650037, z: 0.36942914}
+      rotation: {x: 0.7071069, y: 0.000000053386664, z: 0.70710665, w: -0.00000005338668}
+      scale: {x: 4.0000005, y: 3.9999998, z: 4.0000005}
+    - name: dagger01_Left
+      parentName: Human2(Clone)
+      position: {x: -0.63640445, y: -0.4745985, z: 0.39228097}
+      rotation: {x: 0.70710695, y: -0.00000005338666, z: 0.70710665, w: 0.000000053386685}
+      scale: {x: 3.9999998, y: 4, z: 4.000001}
+    - name: dagger02
+      parentName: Human2(Clone)
+      position: {x: 0.60850346, y: -0.44596234, z: 0.3783135}
+      rotation: {x: 0.7071069, y: 0.0000013177919, z: 0.70710665, w: -0.0000013177923}
+      scale: {x: 4.0000005, y: 3.9999998, z: 4.0000005}
+    - name: Dagger2
+      parentName: Human2(Clone)
+      position: {x: 0.61095625, y: -0.3500916, z: 0.37547532}
+      rotation: {x: 0.7071068, y: 0.00000013768036, z: 0.70710677, w: -0.00000013768037}
+      scale: {x: 3.6000009, y: 3.6, z: 3.6000004}
+    - name: dagger02_Left
+      parentName: Human2(Clone)
+      position: {x: -0.6275654, y: -0.45597145, z: 0.40045103}
+      rotation: {x: 0.70710695, y: 0.0000012334982, z: 0.70710665, w: -0.0000012334987}
+      scale: {x: 3.9999998, y: 4, z: 4.000001}
+    - name: Dagger2_Left
+      parentName: Human2(Clone)
+      position: {x: -0.6339516, y: -0.36010042, z: 0.35750964}
+      rotation: {x: 0.7071069, y: 0.00000013768035, z: 0.70710665, w: -0.00000013768039}
+      scale: {x: 3.6000001, y: 3.6000001, z: 3.6000009}
+    - name: dagger03
+      parentName: Human2(Clone)
+      position: {x: 0.6073947, y: -0.42755666, z: 0.36633858}
+      rotation: {x: 0.7071069, y: 0.00000013768035, z: 0.70710665, w: -0.00000013768039}
+      scale: {x: 4.0000005, y: 3.9999998, z: 4.0000005}
+    - name: dagger03_Left
+      parentName: Human2(Clone)
+      position: {x: -0.63751316, y: -0.43756542, z: 0.38902864}
+      rotation: {x: 0.70710695, y: 0.00000013768035, z: 0.70710665, w: -0.0000001376804}
+      scale: {x: 3.9999998, y: 4, z: 4.000001}
+    - name: Dagger_Left
+      parentName: Human2(Clone)
+      position: {x: -0.63523567, y: -0.37921432, z: 0.35699973}
+      rotation: {x: 0.7071069, y: 0.00000013768035, z: 0.70710665, w: -0.00000013768039}
+      scale: {x: 3.9000003, y: 3.8999999, z: 3.9000008}
+    - name: feet01
+      parentName: Human2(Clone)
+      position: {x: -0.0012783743, y: -0.025051374, z: -0.107684016}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 4, y: 4, z: 4}
+    - name: helmet05
+      parentName: Human2(Clone)
+      position: {x: -0.0064873584, y: -0.024770878, z: 1.9542669}
+      rotation: {x: 0.7071069, y: -0.00000008796477, z: -0.00000008439812, w: 0.7071067}
+      scale: {x: 4.0000005, y: 3.9999998, z: 4}
+    - name: Mage_Hat01
+      parentName: Human2(Clone)
+      position: {x: -0.014585425, y: 0.053589705, z: 2.48828}
+      rotation: {x: 0.7071067, y: -0.000000086675335, z: -0.00000008243191, w: 0.7071068}
+      scale: {x: 3.950411, y: 3.9504106, z: 3.9504101}
+    - name: PickAxe
+      parentName: Human2(Clone)
+      position: {x: 0.60174125, y: -0.9232511, z: 0.37415752}
+      rotation: {x: 0.70710695, y: -0.00000005338666, z: -0.70710665, w: -0.000000053386685}
+      scale: {x: 4.0000005, y: 4, z: 4.0000005}
+    - name: Robe01
+      parentName: Human2(Clone)
+      position: {x: -0.00096624997, y: 0.03176275, z: -0.22483218}
+      rotation: {x: -0.0025897303, y: 0.7072248, z: 0.706967, w: 0.0049083596}
+      scale: {x: 3.950411, y: 3.9504104, z: 3.9504113}
+    - name: Shield
+      parentName: Human2(Clone)
+      position: {x: -0.63640434, y: -0.16041341, z: 0.37513846}
+      rotation: {x: 0.7071068, y: -0.000000072167104, z: -0.000000045463185, w: 0.7071067}
+      scale: {x: 3.950412, y: 3.9504094, z: 3.950411}
+    - name: shield01
+      parentName: Human2(Clone)
+      position: {x: -0.6364044, y: -0.08642252, z: 0.36700892}
+      rotation: {x: -0.7071056, y: -0.00000094718297, z: -0.0000008964239, w: 0.70710796}
+      scale: {x: 3.4000008, y: 3.3999999, z: 3.4}
+    - name: shield02
+      parentName: Human2(Clone)
+      position: {x: -0.6364044, y: -0.098616995, z: 0.3751384}
+      rotation: {x: -0.0000009978033, y: 0.70710796, z: 0.70710564, w: 0.0000009634314}
+      scale: {x: 3.4000008, y: 3.3999999, z: 3.4}
+    - name: shield03
+      parentName: Human2(Clone)
+      position: {x: -0.6391729, y: -0.09380704, z: 0.37925386}
+      rotation: {x: -0.000000871479, y: 0.70710796, z: 0.70710564, w: 0.0000009211682}
+      scale: {x: 3.4000008, y: 3.3999999, z: 3.4}
+    - name: shield04
+      parentName: Human2(Clone)
+      position: {x: -0.6364044, y: -0.07420074, z: 0.37525082}
+      rotation: {x: -0.0000009218064, y: 0.70710546, z: 0.70710814, w: 0.00000081502975}
+      scale: {x: 3.4000008, y: 3.3999999, z: 3.4}
+    - name: Sword
+      parentName: Human2(Clone)
+      position: {x: 0.6045601, y: -1.2709246, z: 0.37286288}
+      rotation: {x: 0.7071068, y: 0.00000005338667, z: 0.70710677, w: -0.000000053386675}
+      scale: {x: 3.9504132, y: 3.9504106, z: 3.9504116}
+    - name: sword01
+      parentName: Human2(Clone)
+      position: {x: 0.6045603, y: -0.69128346, z: 0.37547347}
+      rotation: {x: 0.70710105, y: 0.0031481765, z: -0.7070985, w: 0.0031480214}
+      scale: {x: 4.0000005, y: 3.9999998, z: 4.0000005}
+    - name: sword02
+      parentName: Human2(Clone)
+      position: {x: 0.6045603, y: -0.91659343, z: 0.3847873}
+      rotation: {x: 0.7071069, y: 0.000000053386664, z: 0.70710665, w: -0.00000005338668}
+      scale: {x: 4.0000005, y: 4, z: 4.0000005}
+    - name: Wand01
+      parentName: Human2(Clone)
+      position: {x: 0.6026428, y: -0.8013635, z: 0.3773835}
+      rotation: {x: 0.0000000387663, y: -0.000000002100141, z: 1, w: -0.000000043709132}
+      scale: {x: 4.5738006, y: 4.573801, z: 4.573801}
+    - name: WingHelmet01
+      parentName: Human2(Clone)
+      position: {x: -0.00022323872, y: -0.063385256, z: 1.7964879}
+      rotation: {x: 0.7071069, y: -0.00000008796478, z: -0.00000008439813, w: 0.7071067}
+      scale: {x: 5.0000005, y: 4.9999995, z: 5}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.25
+    rootMotionBoneName: Hips
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

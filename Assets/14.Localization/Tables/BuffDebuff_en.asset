@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: BuffDebuff_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4519e3004ec5e3f49b1131dc5a38f0e2, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 25052475392
+    m_Localized: Increases attackDamage by {value1}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 572727914496
+    m_Localized: Increases defense by {value1}.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 628667346944
+    m_Localized: Recovers HP by {value1} every {BRT1}.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 672770453504
+    m_Localized: Immune to slow down.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 773999980544
+    m_Localized: Immune to stun.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2195629961216
+    m_Localized: You take {BD1} damage every {BRT1} seconds.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2239594655744
+    m_Localized: Defense decrease by {value2}.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2300718247936
+    m_Localized: Attack speed and movement speed decrease by {value1}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2338307600384
+    m_Localized: You take {BD1} damage every {BRT1} seconds.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2364467474432
+    m_Localized: Movement speed decrease by {value1}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2398831407104
+    m_Localized: Cannot take action
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 361670358495232
+    m_Localized: 'Duration: {TimeRemain}second'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 363867846635520
+    m_Localized: 'Duration: Until the next stage'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368383509819392
+    m_Localized: Burn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368290681483264
+    m_Localized: Increase attackDamage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368406582685696
+    m_Localized: Defence Decrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368311346819072
+    m_Localized: Increse Defense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368332049903616
+    m_Localized: Hp Regeneration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368431782064128
+    m_Localized: Maimed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368466884194304
+    m_Localized: Poison
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368506495201280
+    m_Localized: Slowdown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368354573316096
+    m_Localized: Slow Immunity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368531078017024
+    m_Localized: Stun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372127035191296
+    m_Localized: Stun Immune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383361126133760
+    m_Localized: attacks speed increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383526092304384
+    m_Localized: Attack speed is increased by {value2}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 385844246376448
+    m_Localized: Attack speed is decrese by {value2}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 385730169696256
+    m_Localized: attack speed decrease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389030403272704
+    m_Localized: attack damage decrese {value2}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 388998048411648
+    m_Localized: attack damage decerse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395072935718912
+    m_Localized: Movement speed is increased by {value2}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 395076752535552
+    m_Localized: Movement speed decrease by {value2}%.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 395070926647296
+    m_Localized: movement speed increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395076177915904
+    m_Localized: movement speed decrease
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00703ed50500000000703e598500000000707e5f9200000000703ea49c0000000070fe35b40000000070be35ff01000000703e720902000000707ead170200000070fe6d2002000000703e852602000000707e852e02000000703ef1ef48010000707ea0d05c010000703e5dec5e01000070fe32d26101000070fe155167010000707ef951670100

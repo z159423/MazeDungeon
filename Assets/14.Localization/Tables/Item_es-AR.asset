@@ -1,0 +1,338 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Item_es-AR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-AR
+  m_SharedData: {fileID: 11400000, guid: 38828ad947cfa8442a4cf832572b3e84, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11068665856
+    m_Localized: Arco de madera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226643308544
+    m_Localized: Espada de hierro rota
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229931642880
+    m_Localized: Escudo roto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424552215506944
+    m_Localized: Espada de madera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424693597106176
+    m_Localized: Espada de hierro corta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424716011466752
+    m_Localized: espada larga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424729802338304
+    m_Localized: Espada de plata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424741936459776
+    m_Localized: espada heroica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424754611646464
+    m_Localized: "Asesino de g\xF3lems"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427035016982528
+    m_Localized: Escudo roto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427036887642112
+    m_Localized: Escudo de madera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427037978161152
+    m_Localized: Escudo de hierro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427038682804224
+    m_Localized: Escudo de caballero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427039513276416
+    m_Localized: Escudo heroico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427826683473920
+    m_Localized: Casco de madera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427828034039808
+    m_Localized: Casco de hierro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427828998729728
+    m_Localized: Casco sangriento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427829766287360
+    m_Localized: Casco de berserker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427830538039296
+    m_Localized: Casco heroico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429122413031424
+    m_Localized: armadura de hierro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429122991845376
+    m_Localized: armadura de caballero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429123570659328
+    m_Localized: Armadura sangrienta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429124275302400
+    m_Localized: Armadura de berserker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431088316870656
+    m_Localized: Botas de hierro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431088870518784
+    m_Localized: Botas de caballero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431089453527040
+    m_Localized: Botas de berserker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645634465886208
+    m_Localized: Arco de madera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645635111809024
+    m_Localized: Arco de madera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645635946475520
+    m_Localized: Arco de teca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645636722421760
+    m_Localized: "Arco de \xE9bano"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645637557088256
+    m_Localized: Arco de pantera negra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645638265925632
+    m_Localized: "Arco de sangre de drag\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646398353502208
+    m_Localized: Capucha de cuero oscuro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646398978453504
+    m_Localized: Capucha de cazador de pantano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646399624376320
+    m_Localized: "Capucha M\xE1gica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649856364212224
+    m_Localized: Sombrero de mago Gery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649856934637568
+    m_Localized: Sombrero de mago Firebrand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649857702195200
+    m_Localized: Sombrero de mago fantasmal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649858159374336
+    m_Localized: Sombrero de mago MoonLight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650970836922368
+    m_Localized: Zapatos Gery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650971419930624
+    m_Localized: Zapatos de polvo de estrellas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650972065853440
+    m_Localized: Zapatos de piel de wyvern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 651859492499456
+    m_Localized: "t\xFAnica gris"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 651860109062144
+    m_Localized: Toga de tormenta de arena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 651860658515968
+    m_Localized: Toga de luz de luna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652697925480448
+    m_Localized: Daga de hierro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652698521071616
+    m_Localized: Daga de colmillos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652699095691264
+    m_Localized: Daga de veneno oscuro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653089837051904
+    m_Localized: ManoCruzArco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653090445225984
+    m_Localized: ManoCruzArco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653090961125376
+    m_Localized: ManoCruzArco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654873217363968
+    m_Localized: Capucha Gery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654873351581696
+    m_Localized: Capucha de niebla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654876073684992
+    m_Localized: "Capucha del Crep\xFAsculo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663640214499328
+    m_Localized: Armadura de cuero gris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663640793313280
+    m_Localized: Armadura de cuero de vaca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663641388904448
+    m_Localized: Armadura de cuero de SandStorm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663642059993088
+    m_Localized: Armadura de piel de wyvern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674794978570240
+    m_Localized: Varita de madera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674838817435648
+    m_Localized: Varita de madera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674843619913728
+    m_Localized: Varita de Flor de Escarcha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674844169367552
+    m_Localized: Varita Flor De Llama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674844819484672
+    m_Localized: "Varita del Vac\xEDo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674865614843904
+    m_Localized: "Varita C\xF3smica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 678178930454528
+    m_Localized: Armadura de cuero de SandStorm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146586532835328
+    m_Localized: Botas de cuero Gery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146587111649280
+    m_Localized: Botas de tormenta de arena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146587686268928
+    m_Localized: Botas de piel de wyvern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146781345673216
+    m_Localized: ' Botas de piel de lagarto'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147247529979904
+    m_Localized: Daga de hierro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147248104599552
+    m_Localized: Daga de asesino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147248754716672
+    m_Localized: Daga de ruptura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22603713533079552
+    m_Localized: "Poci\xF3n peque\xF1a de HP"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22603719535128576
+    m_Localized: "Poci\xF3n de HP"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22603731346288640
+    m_Localized: "Poci\xF3n de Hp grande"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41597387377897472
+    m_Localized: Llave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51157912428376064
+    m_Localized: botas de cuero en mal estado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51157980527095808
+    m_Localized: botas de piel de lobo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51157992837378048
+    m_Localized: "\rbotas de escamas de drag\xF3n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

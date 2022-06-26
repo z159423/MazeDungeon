@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: New StringTableCollection_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: aad134bfcd86b204cba9ac183ee5eba7, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 1636474712064
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31224038846464
+    m_Localized: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31376623431680
+    m_Localized: Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31501232009216
+    m_Localized: Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31579858432000
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31686821572608
+    m_Localized: Input
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64423204909056
+    m_Localized: 'Language '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64693641048064
+    m_Localized: Master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64757193142272
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64847802691584
+    m_Localized: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89545781440512
+    m_Localized: Tier {Tier}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 89595794321408
+    m_Localized: Damage {MinDamage} ~ {MaxDamage}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 89651758919680
+    m_Localized: Defense {Defense}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 124690148257792
+    m_Localized: Restores +{HpRecoverValue} health.
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 687851855310848
+    m_Localized: Warrior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 687852480262144
+    m_Localized: Rogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 687853134573568
+    m_Localized: Mage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 687853654667264
+    m_Localized: Archer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100003682447360
+    m_Localized: '{PickUpKey} : PickUp'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1100223539474432
+    m_Localized: '{PurchaseKey} : Purchase'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3607324056776704
+    m_Localized: Shield Power {ShieldPower}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3627753991467008
+    m_Localized: Move Speed {MoveSpeed}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3629700643450880
+    m_Localized: Level {EnchantLevel}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 10874913694838784
+    m_Localized: Option
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10874916450496512
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11675971379687424
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11676073250942976
+    m_Localized: MainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11676133342736384
+    m_Localized: CharacterSelect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12044740719439872
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12044805601128448
+    m_Localized: QuitGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13096113594593280
+    m_Localized: Poison!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13096149023879168
+    m_Localized: Burn!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13096173602500608
+    m_Localized: SlowDown!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13096196364988416
+    m_Localized: Block!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13099913654988800
+    m_Localized: Reflection!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13099986736541696
+    m_Localized: Double Shot!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13100064901591040
+    m_Localized: Penetrate Shot!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13100236658339840
+    m_Localized: Stun!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13100398952738816
+    m_Localized: BackAttack!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13100464279023616
+    m_Localized: Critical!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13101431762350080
+    m_Localized: Binding!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13381345589751808
+    m_Localized: MainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13404496449138688
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17903121426444288
+    m_Localized: Option
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00707e007151000000703ead8951000000707ea57c5100000070feaf677100000070be9072e8030000703ec1a5e803000070fe94d7d00c000070fe4b6ce30c0000707e8931e50c00

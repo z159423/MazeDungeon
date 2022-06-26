@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Conversation Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Conversation
+  m_TableCollectionNameGuidString: ef4cc173dc8219c44a8398361fcad808
+  m_Entries:
+  - m_Id: 22410063872
+    m_Key: ShopKeeper-Intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 520869539840
+    m_Key: ShopKeeper-attacked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 704101507559424
+    m_Key: ShopGuard-FindThief1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 897616317411328
+    m_Key: ShopGuard-FindThief2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23217907584364544
+    m_Key: mimic-hungry1
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1648304834313

@@ -1,0 +1,561 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: New StringTableCollection_en 2
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: aad134bfcd86b204cba9ac183ee5eba7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 193286008832
+    m_Localized: Silver Ring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 502573985792
+    m_Localized: It is a silver ring with magic that enhances defense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 632052150272
+    m_Localized: Gold Ring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748808990720
+    m_Localized: Silver Necklace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 962810769408
+    m_Localized: Gold Necklace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1025087795200
+    m_Localized: Tooth Necklace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090510548992
+    m_Localized: Ruby Ring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 668114776064
+    m_Localized: It's a ring with magic that makes you strong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753242370048
+    m_Localized: It's a magical necklace that makes your attack quick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 965268631552
+    m_Localized: It's a necklace with magic that makes you powerful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027730206720
+    m_Localized: It's a necklace that makes your attack fatal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1128032792576
+    m_Localized: It's a magic ring that increases your health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1203484127232
+    m_Localized: Artifact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1226020122624
+    m_Localized: Blue Crystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571270433239040
+    m_Localized: This Crystal can be support you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621093530267648
+    m_Localized: Red Crystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621371990110208
+    m_Localized: This Crystal can be support you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621485827715072
+    m_Localized: Yellow Crystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 621486461054976
+    m_Localized: This Crystal can be support you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077246672400384
+    m_Localized: Frozen Heart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077248958296064
+    m_Localized: It's a heart that's frozen cold. However, You can feel the powerful
+      mana pumping.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114047076265984
+    m_Localized: Feather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114049785786368
+    m_Localized: It looks like a common feather, but when you carry it around, you
+      feel somewhat lighter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499125707075584
+    m_Localized: Elf's Bread
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1499127716147200
+    m_Localized: It's a Elf's bread that's full even with a bite.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1516783320068096
+    m_Localized: Soul Collector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1516785022955520
+    m_Localized: It's terrible to take away the soul, but it's also useful.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1690945837756416
+    m_Localized: Magma Stone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1690976389066752
+    m_Localized: It's so hot that it's hard to touch, The enemy will be afraid to
+      attack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1795657463394304
+    m_Localized: Stone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1795659136921600
+    m_Localized: It's a stone that looks firm. I think I'll be dizzy if I get hit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830790618836992
+    m_Localized: Parasite Spider Egg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830934336663552
+    m_Localized: Stone Gauntlet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830935255216128
+    m_Localized: It makes it heavy but powerful.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1830791373811712
+    m_Localized: There are creatures in the world that lay eggs in the body in other
+      creatures, that's creepy!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1885416307191808
+    m_Localized: Viper's Fang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1885416856645632
+    m_Localized: It is a viper's fangs that still have a little bit of poison left.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912447162019840
+    m_Localized: Icicle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1912447686307840
+    m_Localized: It's a cold and sharp icicle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926509505703936
+    m_Localized: Shield Charm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926510243901440
+    m_Localized: It's a small shield charm that protects you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588068108201984
+    m_Localized: Dodge Charm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588068687015936
+    m_Localized: Want to roll more safely? Carry this Charm with you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678880984788992
+    m_Localized: Third Eye
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2678881626517504
+    m_Localized: This is the eyes of those who have mastered martial arts in the
+      past, and you can get enlightenment just by holding it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2679281805062144
+    m_Localized: Thunder Beast Foot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2679283361148928
+    m_Localized: It's the feet of a beast who has the ability to handle thunder,
+      and You can feel the tingling sensation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3178190558097408
+    m_Localized: Money Bag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3178191132717056
+    m_Localized: It's a pocket with money, we don't know how much it contains.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200255675756544
+    m_Localized: Chicken Leg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200256254570496
+    m_Localized: It's a chicken leg that makes you feel full when you take a bite.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200496063901696
+    m_Localized: Lost Fairy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200496579801088
+    m_Localized: 'He is a small, powerless fairy.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3361631631208448
+    m_Localized: Ancient Snail Shell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3361632205828096
+    m_Localized: It's a snail's shell, and it looks very sturdy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374508651999232
+    m_Localized: Skeleton Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374557679218688
+    m_Localized: Only half of them are effective all-around key.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379837120966656
+    m_Localized: Ice Cube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379838928711680
+    m_Localized: It's a piece of ice that never melts, it's very cold.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3413251240914944
+    m_Localized: Flame Needle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3413251886837760
+    m_Localized: It is a Niddle that holds the energy of fire, which can cause powerful
+      burns to the enemy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3420482908876800
+    m_Localized: Thunder Beast Claw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3420483487690752
+    m_Localized: It's the feet of a beast who has the ability to handle thunder,
+      and You can feel the tingling sensation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421718710218752
+    m_Localized: Bloody Gem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3421719293227008
+    m_Localized: It's a greedy bloody gem, craving for blood.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422148617990144
+    m_Localized: Necromancer's Old Book
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3422149138083840
+    m_Localized: It is an ancient book of the necromancer, which contains the knowledge
+      of reviving the body with skeleton.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423287593824256
+    m_Localized: Fighter Glove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423288176832512
+    m_Localized: Gloves that help identify enemy weaknesses.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423907788779520
+    m_Localized: Berserker Eye Patch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423984926224384
+    m_Localized: BerserkerHeadBand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423985446318080
+    m_Localized: This bloody headband fills your madness.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3423908384370688
+    m_Localized: Berserker are not afraid of being injured.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424850173390848
+    m_Localized: Bomb Bag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424852761276416
+    m_Localized: Trap Bag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424850756399104
+    m_Localized: It's a bag full of bombs, be careful not to drop them!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3424853344284672
+    m_Localized: It's a bag full of Traps, be careful not to drop them!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3425606460928000
+    m_Localized: Ogre Club
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3425606913912832
+    m_Localized: It's a heavy, dull, but powerful club.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805341032542208
+    m_Localized: Vampire Pendant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3805341544247296
+    m_Localized: This powerful vampire pendant has tremendous life absorption.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4054562549690368
+    m_Localized: Broken Dirk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4054563069784064
+    m_Localized: It must have been fatal before it broke.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103413557620736
+    m_Localized: Griffin Feather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5103414132240384
+    m_Localized: This feather will energize you every time your level rises.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17849768583524352
+    m_Localized: Defense increased by 10%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17850776646742016
+    m_Localized: Attack speed increased by 10%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851438470164480
+    m_Localized: Max HP increased by 20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851662399860736
+    m_Localized: 5% increased Critical Strike Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17851817232592896
+    m_Localized: 'Increases defense by 10%
+
+      MAX HP by 10%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17852410307178496
+    m_Localized: 'Increases attack speed by 10%
+
+      critical strike chance by
+      5%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17852640339587072
+    m_Localized: Summon crystals to support battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853063674884096
+    m_Localized: Summon crystals to support battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853113314471936
+    m_Localized: Summon crystals to support battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853207870861312
+    m_Localized: A shield that is charged by 30% of maximum health charges 5 every
+      5 seconds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17853979845095424
+    m_Localized: Movement speed increased by 10%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854370561290240
+    m_Localized: 'Max stamina increased by 20%
+
+      stamina recovery speed increased
+      by 10%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854585875886080
+    m_Localized: 'Movement speed decreased by 10%
+
+      attack power increased by
+      10%'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17854784492957696
+    m_Localized: 'Attack power increased by 10%
+
+      20% chance when attacking
+      to decrease the enemy''s movement speed by 30% for 3 seconds'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855535785078784
+    m_Localized: Defense increased by 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855661001830400
+    m_Localized: 20% increased roll invincibility time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17855955441971200
+    m_Localized: "\r30% increased Dodge Chance"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17856092251779072
+    m_Localized: get coin randomly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857053523341312
+    m_Localized: 'Max HP increased by 20
+
+      Recover 50% of HP'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857384680419328
+    m_Localized: Summon a fairy to support you in battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17857718207279104
+    m_Localized: "\r50% increase in attack power\r\nCritical hits do not trigger"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17858156512047104
+    m_Localized: 10% chance to stun the enemy for 2 seconds when attacking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859023252385792
+    m_Localized: When attacking, there is a 10% chance to poison the enemy for 6
+      seconds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859545615200256
+    m_Localized: 20% chance to deal additional damage to nearby enemies when attacking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17859846363574272
+    m_Localized: "\rIncreases Critical Strike Chance by 1% for 10 seconds when attacking"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860223557332992
+    m_Localized: Increases attack speed by 1% for 10 seconds when attacking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860464301993984
+    m_Localized: 25% chance to Recovers HP by 1% of Max HP when attacking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17860753960628224
+    m_Localized: "\rAdditional damage for every 7 attacks"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861456917590016
+    m_Localized: When hit, there is a 50% chance to burn the enemy for 3 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861731170545664
+    m_Localized: 50% chance to slow enemies for 3 seconds when attacked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17861953338634240
+    m_Localized: 30% chance to inflict damage to nearby enemies when attacked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862229927817216
+    m_Localized: 3 charges to a shield that charges up to 50 when you kill an enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862381434466304
+    m_Localized: 50% chance to summon a Spider to support battle when killing an
+      enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862616655228928
+    m_Localized: Gain 3 health when you kill an enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862685760581632
+    m_Localized: 30% chance to summon a Skeleton to support battle when killing an
+      enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862848705097728
+    m_Localized: Summons a bomb on every roll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17862972164435968
+    m_Localized: Summons a trap on every roll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17868589465759744
+    m_Localized: Increases Defence by 15 when HP is less than 30%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17869545859346432
+    m_Localized: 50% chance to not consume a key when using a key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17869692223778816
+    m_Localized: Burns the enemy for 3 seconds on a critical hit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17870936170459136
+    m_Localized: Increases Damage by 50% when HP is less than 50%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17871808761851904
+    m_Localized: Recovers all HP when leveling up
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

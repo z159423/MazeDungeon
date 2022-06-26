@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: NpcName_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 500ad3a81782c9a42a87dfdbc41ddcd8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 226311958528
+    m_Localized: Esqueleto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 254300549120
+    m_Localized: Esqueleto Armado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297527046144
+    m_Localized: Fantasma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410307686400
+    m_Localized: Caveira Fantasma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 436312371200
+    m_Localized: "M\xEDmico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 477739511808
+    m_Localized: Lojista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510572523520
+    m_Localized: Arqueiro Esqueleto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 558882516992
+    m_Localized: Aranha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 568739131392
+    m_Localized: Espectro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609889447936
+    m_Localized: Zumbi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 636615553024
+    m_Localized: "Aranha beb\xEA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 688322932736
+    m_Localized: Guarda de loja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 776935993344
+    m_Localized: Golem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799996276736
+    m_Localized: Golem de Energia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 824893665280
+    m_Localized: "Rei ca\xEDdo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 911833198592
+    m_Localized: Guros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 928660746240
+    m_Localized: Lich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 945920307200
+    m_Localized: "Guardi\xE3o Esqueleto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 974185721856
+    m_Localized: "\rSenhor da Caveira"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 988140171264
+    m_Localized: Rainha Aranha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1004174995456
+    m_Localized: Lorde Espectro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215162443165696
+    m_Localized: Esqueleto Gigante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 396289950773248
+    m_Localized: tarantula
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

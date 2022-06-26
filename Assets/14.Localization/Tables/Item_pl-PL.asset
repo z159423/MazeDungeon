@@ -1,0 +1,338 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Item_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: 38828ad947cfa8442a4cf832572b3e84, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11068665856
+    m_Localized: "Drewniany \u0142uk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226643308544
+    m_Localized: "Z\u0142amany \u017Celazny miecz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229931642880
+    m_Localized: "Z\u0142amana Tarcza"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424552215506944
+    m_Localized: Drewniany Miecz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424693597106176
+    m_Localized: "Kr\xF3tki \u017Celazny miecz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424716011466752
+    m_Localized: "D\u0142ugi miecz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424729802338304
+    m_Localized: srebrny miecz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424741936459776
+    m_Localized: Heroiczny miecz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424754611646464
+    m_Localized: "Zab\xF3jca golem\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427035016982528
+    m_Localized: "Z\u0142amana Tarcza"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427036887642112
+    m_Localized: Tarcza Drewna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427037978161152
+    m_Localized: "\u017Belazna Tarcza"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427038682804224
+    m_Localized: Tarcza rycerza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427039513276416
+    m_Localized: Heroiczna tarcza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427826683473920
+    m_Localized: "Drewniany he\u0142m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427828034039808
+    m_Localized: "\u017Belazny he\u0142m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427828998729728
+    m_Localized: "Zakrwawiony he\u0142m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427829766287360
+    m_Localized: "He\u0142m Berserkera"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 427830538039296
+    m_Localized: "Heroiczny he\u0142m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429122413031424
+    m_Localized: "\u017Belazna Zbroja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429122991845376
+    m_Localized: Zbroja rycerza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429123570659328
+    m_Localized: Krwawa Zbroja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429124275302400
+    m_Localized: Zbroja Berserkera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431088316870656
+    m_Localized: "\u017Belazne buty"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431088870518784
+    m_Localized: Buty rycerskie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431089453527040
+    m_Localized: Buty Berserkera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645634465886208
+    m_Localized: "Drewniany \u0142uk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645635111809024
+    m_Localized: "Drewniany \u0142uk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645635946475520
+    m_Localized: "Tekowy \u0142uk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645636722421760
+    m_Localized: "hebanowy \u0142uk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645637557088256
+    m_Localized: "\u0141uk Czarnej Pantery"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 645638265925632
+    m_Localized: "\u0141uk Smoczej Krwi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646398353502208
+    m_Localized: "Ciemny sk\xF3rzany kaptur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646398978453504
+    m_Localized: "Kaptur \u0141owcy Bagien"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646399624376320
+    m_Localized: Magiczny Kaptur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649856364212224
+    m_Localized: Kapelusz Gery Maga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649856934637568
+    m_Localized: Kapelusz Maga Ognistego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649857702195200
+    m_Localized: Fantastyczny MagHat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 649858159374336
+    m_Localized: "Ksi\u0119\u017Cycowy Mag"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650970836922368
+    m_Localized: Buty Gery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650971419930624
+    m_Localized: "Buty Gwiezdnego Py\u0142u"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650972065853440
+    m_Localized: "Buty ze sk\xF3ry wiwerny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 651859492499456
+    m_Localized: Szara szata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 651860109062144
+    m_Localized: Szata Piaskowej Burzy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 651860658515968
+    m_Localized: "Szata Ksi\u0119\u017Cycowego \u015Awiat\u0142a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652697925480448
+    m_Localized: "\u017Belazny Sztylet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652698521071616
+    m_Localized: "Sztylet K\u0142\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652699095691264
+    m_Localized: Sztylet Mrocznego Jadu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653089837051904
+    m_Localized: "R\u0119kaKrzy\u017C\u0141uk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653090445225984
+    m_Localized: "R\u0119kaKrzy\u017C\u0141uk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 653090961125376
+    m_Localized: "R\u0119kaKrzy\u017C\u0141uk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654873217363968
+    m_Localized: Gery Hood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654873351581696
+    m_Localized: "Kaptur Mg\u0142y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 654876073684992
+    m_Localized: Kaptur Zmierzchu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663640214499328
+    m_Localized: "Szara sk\xF3rzana zbroja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663640793313280
+    m_Localized: "Zbroja ze sk\xF3ry bydl\u0119cej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663641388904448
+    m_Localized: "Sk\xF3rzana Zbroja Burzy Piaskowej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663642059993088
+    m_Localized: "Zbroja sk\xF3rki wiwerny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674794978570240
+    m_Localized: "Drewniana r\xF3\u017Cd\u017Cka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674838817435648
+    m_Localized: "Drewniana r\xF3\u017Cd\u017Cka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674843619913728
+    m_Localized: "R\xF3\u017Cd\u017Cka Mro\u017Anego Kwiatu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674844169367552
+    m_Localized: "R\xF3\u017Cd\u017Cka Ognistego Kwiatu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674844819484672
+    m_Localized: "R\xF3\u017Cd\u017Cka Pustki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 674865614843904
+    m_Localized: "Kosmiczna R\xF3\u017Cd\u017Cka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 678178930454528
+    m_Localized: "Sk\xF3rzana Zbroja Burzy Piaskowej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146586532835328
+    m_Localized: "Sk\xF3rzane buty Gery"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146587111649280
+    m_Localized: Buty Piaskowej Burzy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146587686268928
+    m_Localized: "Buty ze sk\xF3ry wiwerny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1146781345673216
+    m_Localized: " Buty ze sk\xF3ry jaszczurki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147247529979904
+    m_Localized: "\u017Belazny Sztylet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147248104599552
+    m_Localized: "Sztylet zab\xF3jcy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147248754716672
+    m_Localized: Sztylet rozerwania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22603713533079552
+    m_Localized: "Ma\u0142a Mikstura HP"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22603719535128576
+    m_Localized: Mikstura HP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22603731346288640
+    m_Localized: "Du\u017Ca mikstura HP"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41597387377897472
+    m_Localized: Klucz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51157992837378048
+    m_Localized: "buty ze smoczej \u0142uski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51157980527095808
+    m_Localized: "buty ze sk\xF3ry wilka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51157912428376064
+    m_Localized: "sfatygowane sk\xF3rzane buty"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

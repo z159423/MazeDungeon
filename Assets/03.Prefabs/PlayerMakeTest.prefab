@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4443971391648761565
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4443971391648761562}
+  - component: {fileID: 4443971391648761563}
+  m_Layer: 0
+  m_Name: PlayerMakeTest
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4443971391648761562
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4443971391648761565}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4443971391648761563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4443971391648761565}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4f767d90af604f488d6e5a9dc2dc5f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerCube: {fileID: -927199367670048503, guid: 0ad549dc5f136094183dcc9a9effbce5,
+    type: 3}
+  MinimapPlayerIcon: {fileID: 161249227753006093, guid: aa15519d50a33fd498cb43d33cc7ea8b,
+    type: 3}
+  animatorController: {fileID: 9100000, guid: 75bc13b12933f8048a2d446c98eb83a9, type: 2}
+  weaponTrailPrefab: {fileID: 0}
+  colliderInfo:
+    PlayerColliderCenter: {x: 0, y: 1.2, z: -0.1}
+    PlayerColliderSize: {x: 1, y: 2.37, z: 0.88}
+    PlayerColliderRadius: 0.55
+    PlayerColliderHeight: 2.4
+    PlayerFireFosVec: {x: 0, y: 1, z: 0}
+    SwordColliderCenter: {x: -6, y: 0, z: 0}
+    SwordColliderSize: {x: 10, y: 1.5, z: 1.5}
+    RightKnifeColliderCenter: {x: -2.5, y: 0, z: 0}
+    RightKnifeColliderSize: {x: 3, y: 1, z: 1}
+    LeftKnifeColliderCenter: {x: -2.5, y: 0, z: 0}
+    LeftKnifeColliderSize: {x: 3, y: 1, z: 1}
+    AttackColliderCenter: {x: -3, y: 4, z: 0}
+    AttackColliderSize: {x: 8, y: 5.5, z: 5.5}
+  playerComponent:
+    RigidBody: {fileID: 0}
+    AudioSource: {fileID: 0}
+    BoxdCollider: {fileID: 0}
+    ItemPickUpText: {fileID: 0}
+    PlayerContoller01: {fileID: 0}
+    PlayerStats: {fileID: 0}
+    PlayerAnimator: {fileID: 0}

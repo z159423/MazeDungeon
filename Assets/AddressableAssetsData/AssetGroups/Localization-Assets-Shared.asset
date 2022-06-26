@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5b4cacc88e1cc9743a0fb0e4fc4ed7ca
+  m_SerializeEntries:
+  - m_GUID: aad134bfcd86b204cba9ac183ee5eba7
+    m_Address: New StringTableCollection Shared Data
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38828ad947cfa8442a4cf832572b3e84
+    m_Address: Item Shared Data
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 763e0beb1543a3d4aa77e096b38e1fa4
+    m_Address: Enchant Shared Data
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 06d4aac871359754a8fc708a86b5054e
+    m_Address: UI Shared Data
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd6437555d7d5c24488d33b1998f0ec6
+    m_Address: Skill Shared Data
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef4cc173dc8219c44a8398361fcad808
+    m_Address: Conversation Shared Data
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 500ad3a81782c9a42a87dfdbc41ddcd8
+    m_Address: NpcName Shared Data
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4519e3004ec5e3f49b1131dc5a38f0e2
+    m_Address: BuffDebuff Shared Data
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 444bf72b07d944e4cad4d7942b687eaf, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 862c586d033683948a59b526fb6ba160, type: 2}
+    - {fileID: 11400000, guid: 3858562cf9f42154d93b3f948f1cd540, type: 2}

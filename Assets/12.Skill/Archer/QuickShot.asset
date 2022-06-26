@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3583e0a0782c8947a36be224672e897, type: 3}
+  m_Name: QuickShot
+  m_EditorClassIdentifier: 
+  Name: QuickShot
+  Sprite: {fileID: 21300000, guid: 7ed73be719e12df4ca6f0ead9df8214a, type: 3}
+  maxLevel: 2
+  skillLeveling:
+  - needMp: 0
+    needSoul: 0
+    needRage: 0
+    damageFactor: 0
+    value1: 15
+    value2: 15
+    value3: 0.15
+    buffNDebuffObject: {fileID: 0}
+    buffNDebuffObject2: {fileID: 0}
+    coolTime: 0
+  - needMp: 0
+    needSoul: 0
+    needRage: 0
+    damageFactor: 0
+    value1: 30
+    value2: 15
+    value3: 0.15
+    buffNDebuffObject: {fileID: 0}
+    buffNDebuffObject2: {fileID: 0}
+    coolTime: 0
+  - needMp: 0
+    needSoul: 0
+    needRage: 0
+    damageFactor: 0
+    value1: 45
+    value2: 15
+    value3: 0.15
+    buffNDebuffObject: {fileID: 0}
+    buffNDebuffObject2: {fileID: 0}
+    coolTime: 0
+  PassiveSkill: 1
+  skillDescription: 

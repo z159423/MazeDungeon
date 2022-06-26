@@ -1,0 +1,16 @@
+﻿Key,Id,Shared Comment,English(en),English(en) Comments,Korean (South Korea)(ko-KR),Korean (South Korea)(ko-KR) Comments,Chinese (Simplified)(zh),Chinese (Simplified)(zh) Comments,French (France)(fr-FR),French (France)(fr-FR) Comments,German (Germany)(de-DE),German (Germany)(de-DE) Comments,Japanese(ja),Japanese(ja) Comments,Polish (Poland)(pl-PL),Polish (Poland)(pl-PL) Comments,Portuguese (Brazil)(pt-BR),Portuguese (Brazil)(pt-BR) Comments,Russian (Russia)(ru-RU),Russian (Russia)(ru-RU) Comments,Spanish(es),Spanish(es) Comments,Turkish (Turkey)(tr-TR),Turkish (Turkey)(tr-TR) Comments
+"ShopKeeper-Intro",22410063872,"","Is there anything you're looking for?
+I have everything except for the ones I don't have!","","헤헤... 찾는물건 있어?
+없는것 빼고 다 있다고!","","呵呵……有什么要找的吗? 
+除了不存在的, 一切都在那里!","","Y a-t-il quelque chose que vous cherchez ?
+J'ai tout sauf ceux que je n'ai pas !","","Gibt es etwas, wonach Sie suchen?
+Ich habe alles außer denen, die ich nicht habe!","","へへ…探しているものがありますか？ないものを除いて全部あると！","",,,,,,,,,,
+"ShopKeeper-attacked",520869539840,"","What are you doing?
+You thief!","","무슨짓이야!! 
+이 도둑녀석!!","","这是怎么回事!!
+这个贼!!","","Qu'est-ce que tu fais?
+Vous voleur!","","Was machst du gerade?
+Du Dieb!","","どうしたんだ！この泥棒男！","",,,,,,,,,,
+"ShopGuard-FindThief1",704101507559424,"","I found you thief!","","찾았다 도둑놈!","","找到小偷了!","","Je t'ai trouvé voleur !","","Ich habe dich Dieb gefunden!","","見つけた泥棒！","",,,,,,,,,,
+"ShopGuard-FindThief2",897616317411328,"","Prepare to pay for the crime!","","죗값을 치룰 준비를 해라!","","准备为你的罪孽付出代价!","","Préparez-vous à payer pour le crime !","","Bereiten Sie sich darauf vor,
+für das Verbrechen zu bezahlen!","","定価を払う準備をしなさい！","",,,,,,,,,,

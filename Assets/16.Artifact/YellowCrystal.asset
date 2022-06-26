@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 158b40c82145c364d8b6f18a2c64fb19, type: 3}
+  m_Name: YellowCrystal
+  m_EditorClassIdentifier: 
+  artifactType: 14
+  artifactTier: 1
+  nameLocalizationKey: Name-YellowCrystal
+  descriptionLocalizationKey: Description-YellowCrystal
+  ArtifactObject: {fileID: -927199367670048503, guid: 33241182f6fa3c84295150d80263195d,
+    type: 3}
+  FollowerObject: {fileID: 2994661548430027825, guid: 002c1037595d21e4eb26e7696eeb0500,
+    type: 3}
+  Debuff: []
+  Buff: []
